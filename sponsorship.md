@@ -61,8 +61,8 @@ permalink: /sponsors/
 <div class='text-justify'>
     <!-- <p>If you are interested in sponsoring BMVC 2024, please email <a href="mailto:sponsors@bmvc2024.org">sponsors@bmvc2024.org</a> 
       for more information. The deadline for expressing interest in sponsoring BMVC is <b>30th Septemeber 2024</b>. Thank you so much! -->
-    <p>Sponsoring BMVC2024 is the perfect opportunity to showcase your company's excellent work throughout the conference. As a sponsor, you will be provided with an exhibition stand to promote your business and work, and numerous opportunities will be available to engage with academic and industrial researchers in the field to explore potential future collaborations. We are open to customising the sponsorship package to best suit your needs, e.g. an industrial paper track to demonstrate select BMVC papers and an industrial night to socialise and forge new partnerships.</p>
-    <p>If you are interested in sponsoring BMVC 2024, please email <a href="mailto:{{ site.email }}"> {{ site.email }}</a>. The deadline for expressing interest in sponsoring BMVC is <b>30th September 2024</b>.</p>
+    <p>Sponsoring BMVC2025 is the perfect opportunity to showcase your company's excellent work throughout the conference. As a sponsor, you will be provided with an exhibition stand to promote your business and work, and numerous opportunities will be available to engage with academic and industrial researchers in the field to explore potential future collaborations. We are open to customising the sponsorship package to best suit your needs, e.g. an industrial paper track to demonstrate select BMVC papers and an industrial night to socialise and forge new partnerships.</p>
+    <p>If you are interested in sponsoring BMVC 2025, please email <a href="mailto:{{ site.email }}"> {{ site.email }}</a>. The deadline for expressing interest in sponsoring BMVC is <b>30th September 2024</b>.</p>
 </div>
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
