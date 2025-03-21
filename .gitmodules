@@ -1,0 +1,3 @@
+[submodule "bmvc2025.github.io"]
+	path = bmvc2025.github.io
+	url = https://github.com/bmvc2025/bmvc2025.github.io.git
