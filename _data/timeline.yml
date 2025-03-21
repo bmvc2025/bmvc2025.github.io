@@ -1,97 +1,101 @@
 deadlines:
+  - title: Workshop Submission Deadline
+    date: 2024-05-02
+    tags:
+      - key: Authors
   - title: Abstract Submission Deadline
-    date: 2024-04-26
+    date: 2025-05-02
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2024-05-10
+    date: 2025-05-09
     tags:
       - key: Authors
   - title: Supplementary Material Submission
-    date: 2024-05-17
-    tags:
-      - key: Authors
-  - title: Workshop Submission Deadline
-    date: 2024-05-17
+    date: 2025-05-09
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2024-05-20
-    tags:
-      - key: Reviewers
-  - title: Reviews Submitted
-    date: 2024-06-03
+    date: 2025-05-19
     tags:
       - key: Reviewers
   - title: Workshop Acceptance Notification
-    date: 2024-06-07
+    date: 2025-05-23
     tags:
       - key: Authors
+  - title: Reviews Submitted (for reviewers)
+    date: 2025-06-02
+    tags:
+      - key: Reviewers
+  - title: Reviews Submitted (for real)
+    date: 2025-06-09
+    tags:
+      - key: Reviewers
   - title: Start of AC/reviewer Discussion Period
-    date: 2024-06-14
+    date: 2025-06-13
     tags:
       - key: Reviewers
       - key: ACs
   - title: End of AC/reviewer Discussion Period
-    date: 2024-06-21
+    date: 2025-06-20
     tags:
       - key: Reviewers
       - key: ACs   
-  # - title: Wraping up & Final Revs 
-  #   date: 2024-06-28
-  #   tags:
-  #     - key: Reviewers
-  #     - key: ACs
+  - title: Reviewer Discussion & Final Reviews 
+    date: 2025-06-27
+    tags:
+      - key: Reviewers
+      - key: ACs
   - title: Meta-Reviews Submitted
-    date: 2024-07-01
+    date: 2025-07-01
     tags:
       - key: ACs
       - key: PCs
   - title: Paper Decisions & Meta-Review Consolidation
-    date: 2024-07-12
+    date: 2025-07-11
     tags:
       - key: ACs
       - key: PCs
-  - title: Doctoral Consortium Submission Open
-    date: 2024-7-14
-    tags:
-      - key: Authors
-  - title: Author Notifications
-    date: 2024-07-19
-    tags:
-      - key: Authors
-  - title: Doctoral Consortium Submission Close
-    date: 2024-7-31
-    tags:
-      - key: Authors
-  - title: Camera Ready
-    date: 2024-08-30
-    tags:
-      - key: Authors
-  - title: Doctoral Consortium Acceptance Notification
-    date: 2024-09-06
-    tags:
-      - key: Authors 
-  # - title: Camera Ready for Workshops
-  #   date: 2024-11-01
+  # - title: Doctoral Consortium Submission Open
+  #   date: 2024-7-14
   #   tags:
-  #     - key: Authors (workshops) 
+  #     - key: Authors
+  - title: Author Notifications
+    date: 2025-07-18
+    tags:
+      - key: Authors
+  # - title: Doctoral Consortium Submission Close
+  #   date: 2024-7-31
+  #   tags:
+  #     - key: Authors
+  - title: Camera Ready
+    date: 2025-08-29
+    tags:
+      - key: Authors
+  # - title: Doctoral Consortium Acceptance Notification
+  #   date: 2024-09-06
+  #   tags:
+  #     - key: Authors 
+  - title: Camera Ready for Workshops
+    date: 2025-10-31
+    tags:
+      - key: Authors (workshops) 
   - title: Poster Submissions
-    date: 2024-11-01
+    date: 2025-10-31
     tags:
       - key: Authors
   - title: Video Submissions
-    date: 2024-11-01
+    date: 2025-10-31
     tags:
       - key: Authors
-  - title: Conference Starts
-    date: 2024-11-25
-    tags:
-      - key: Everyone
-  - title: Conference Ends
-    date: 2024-11-28
-    tags:
-      - key: Everyone
+  # - title: Conference Starts
+  #   date: 2024-11-25
+  #   tags:
+  #     - key: Everyone
+  # - title: Conference Ends
+  #   date: 2024-11-28
+  #   tags:
+  #     - key: Everyone
   # - title: Workshops Start
   #   date: 
   #   tags:
