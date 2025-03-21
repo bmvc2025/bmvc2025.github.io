@@ -1,0 +1,86 @@
+deadlines:
+  - title: Workshop Submission Deadline
+    date: 2023-05-05
+    tags:
+      - key: Authors
+  - title: Paper Submission Deadline
+    date: 2023-05-12
+    tags:
+      - key: Authors
+  - title: Supplementary Material Submission
+    date: 2023-05-26
+    tags:
+      - key: Authors
+  - title: Workshop Acceptance Notification
+    date: 2023-05-30
+    tags:
+      - key: Authors
+  - title: Review Period Starts
+    date: 2023-06-06
+    tags:
+      - key: Reviewers
+  - title: Reviews Submitted
+    date: 2023-07-13
+    tags:
+      - key: Reviewers
+  - title: Doctoral Consortium Submission Deadline
+    date: 2023-07-14
+    tags:
+      - key: Authors 
+  - title: Start of Rebuttal Period
+    date: 2023-07-14
+    tags:
+      - key: Authors      
+  - title: End of Rebuttal Period
+    date: 2023-07-21
+    tags:
+      - key: Authors      
+  - title: Reviewer Discussion & Final Revs 
+    date: 2023-07-31
+    tags:
+      - key: Reviewers
+      - key: AC
+  - title: Meta-Reviews Submitted
+    date: 2023-08-06
+    tags:
+      - key: AC  
+  - title: Paper Decisions & Meta-Rev Consolidation
+    date: 2023-08-13
+    tags:
+      - key: AC 
+  - title: Author Notifications
+    date: 2023-08-21
+    tags:
+      - key: Authors   
+  - title: Camera Ready
+    date: 2023-09-17
+    tags:
+      - key: Authors
+  - title: Camera Ready for Workshops
+    date: 2023-10-01
+    tags:
+      - key: Authors (workshops) 
+  - title: Poster Submissions
+    date: 2023-11-01
+    tags:
+      - key: Authors
+  - title: Video Submissions
+    date: 2023-11-01
+    tags:
+      - key: Authors
+  - title: In-Person Conference Starts
+    date: 2023-11-20
+    tags:
+      - key: Everyone
+  - title: In-Person Conference Ends
+    date: 2023-11-23
+    tags:
+      - key: Everyone
+  - title: Workshops Start
+    date: 2023-11-23
+    tags:
+      - key: Everyone
+  - title: Workshops End
+    date: 2023-11-24
+    tags:
+      - key: Everyone

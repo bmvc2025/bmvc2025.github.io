@@ -1,0 +1,15 @@
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="{{ site.baseurl }}/assets/js/jquery-3.5.1.slim.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/popper.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/jquery.date-filter.min.js"></script>
+<script>
+$(document).ready(function(){
+  /*console.log("Hello");*/
+  /*console.log($(".date-filter"));*/
+  $(".date-filter").dateFilter();
+  $(".date-older-filter").dateOlderFilter();
+});
+</script>

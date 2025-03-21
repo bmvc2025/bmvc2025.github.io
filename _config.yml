@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+# BMVC2021 colours:
+# #9E005D
+# 158, 0, 93
+# #7F004B
+# #5F003B
+# #DC0082
+
+
+timezone: Europe/London
+title: The 34th British Machine Vision Conference 2023
+formatted-title: The 34<sup>th</sup> British Machine Vision Conference
+brand: BMVC&thinsp;2023
+short-title: "BMVC 2023"
+conf_year: 2023
+email: bmvc2023@googlegroups.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The website for the 34th British Machine Vision Conference. 20th - 24th November 2023, Aberdeen, UK.
+#baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
+#url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/"
+#url: "http://bmvc2021.ndfcampbell.org"
+baseurl: ""
+url: "https://www.bmvc2023.org"
+conf-url: "https://www.bmvc2023.org"
+chat-url: "https://chat.bmvc2023.org"
+logo: "/assets/images/layout/bmvc-logo.png"
+pc-email: "bmvc2023@googlegroups.com"
+#twitter_username: BMVCconf
+twitter_username: BMVCconf
+github_username:  BritishMachineVisionAssociation
+#facebook_username: thebmva
+#youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
+
+deadline-time: "23:59 UK Time"
+
+cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
+bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
+
+dates: 20<sup>th</sup> - 24<sup>th</sup> November 2023
+
+author: BMVC PCs
+
+#flickr_user: '131006004@N06'
+#flickr_api_key: adb4be93419edab991522b4fa92b7029
+
+# Handling Reading
+safe: true
+encoding: utf-8
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+#  - jekyll-liquid
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - assets/multipagethumb.sh
+  - assets/thumbnail_script.sh
+  - copy_to_aws.sh
+  - old/
+  - conference/
+  - programme/accepted-papers.md
+  - programme/paper-awards.md
+  - old_index.md
+  - attending/guides.md
+  - attending/code-of-conduct.md
+  - sponsorship-backup.md
+  - authors/instructions-for-presenting-authors.md
+  
+#  - attending/
+
+#main_sponsors:
+#  - name: IAPR
+#    url: http://www.iapr.org/
+#    logo: /img/affiliates/logo-iapr.png
+#sponsors:
+#  - name: BCS
+#    url: http://bcs.org.uk/
+#    logo: /img/affiliates/logo-bcs.png
+#  - name: IET
+#    url: http://www.theiet.org/
+#    logo: /img/affiliates/logo-iet.jpg
+#  - name: UKIVA
+#    url: http://www.ukiva.org/
+#    logo: /img/affiliates/logo-ukiva.jpg
+#  - name: AVA
+#    url: http://www.theava.net/
+#    logo: /img/affiliates/logo-ava.jpg

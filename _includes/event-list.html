@@ -1,0 +1,61 @@
+<!-- Upcoming Events -->
+<div class="row">
+{% for event in site.data.events %}
+{% if event.type ==  "One Day Meeting" %}
+<div class="col-xs-12 col-md-6 col-lg-4">
+<div class="event-link" style="max-height: 24em; padding-left: 10px; padding-right: 10px;">
+
+<div class="panel panel-default mb-3">
+<h5 class="panel-heading mb-0"><a href="{{event.link}}">{{ event.title }}</a></h5><i style="display: inline-block; margin-top: 5px; font-size: 0.95em;">{{ event.date | date: '%d %B %Y' }}</i><!--style="font-size: 0.95em;"-->
+<div class="panel-body top-1" markdown="1">
+<!--<p style="border-bottom: 1px solid #eee; margin-bottom: 10px;">-->
+<p class="mb-0"><b>Chairs: </b>{{ event.organisers }}</p>
+{% if event.image %}
+<div class="" style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
+	<img style="max-height: 10em; display: inline-block; max-width: 100%; " src="{{ site.baseurl }}/assets/images/events/{{event.image}}" class="img-responsive">
+</div>
+{% else %}
+<!--<div style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
+	<img style="padding: 10px 10px; padding-bottom: 0px; max-height: 10em; max-width: 100%; display: inline-block; " src="/assets/images/events/placeholder.png" class="img-responsive">
+</div>-->
+{% endif %}
+</div>
+</div>
+
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+
+<div class="row">
+	<table><tbody>
+{% for event in site.data.events %}
+{% if event.type ==  "One Day Meeting" %}
+<div class="col-xs-12 col-md-6 col-lg-4">
+<div class="event-link" style="max-height: 24em; padding-left: 10px; padding-right: 10px;">
+
+<div class="panel panel-default mb-3">
+<h5 class="panel-heading mb-0"><a href="{{event.link}}">{{ event.title }}</a></h5><i style="display: inline-block; margin-top: 5px; font-size: 0.95em;">{{ event.date | date: '%d %B %Y' }}</i><!--style="font-size: 0.95em;"-->
+<div class="panel-body top-1" markdown="1">
+<!--<p style="border-bottom: 1px solid #eee; margin-bottom: 10px;">-->
+<p class="mb-0"><b>Chairs: </b>{{ event.organisers }}</p>
+{% if event.image %}
+<div class="" style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
+	<img style="max-height: 10em; display: inline-block; max-width: 100%; " src="{{ site.baseurl }}/assets/images/events/{{event.image}}" class="img-responsive">
+</div>
+{% else %}
+<!--<div style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
+	<img style="padding: 10px 10px; padding-bottom: 0px; max-height: 10em; max-width: 100%; display: inline-block; " src="/assets/images/events/placeholder.png" class="img-responsive">
+</div>-->
+{% endif %}
+</div>
+</div>
+
+</div>
+</div>
+{% endif %}
+{% endfor %}
+	</tbody></table>
+</div>

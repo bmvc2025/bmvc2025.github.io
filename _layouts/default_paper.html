@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head_includes.html %}
+
+    <title>{{ site.title}}: {{ page.title }}</title>
+  </head>
+
+  <header>
+  </header>
+
+  <body>
+    {% include navbar.html %}
+    {% include header_paper.html %}
+    
+    <main role="main" class="container">
+    <!--<div class="container m-t-2">-->
+
+      <h3 class="mt-2">Video</h3>
+
+      <div id="presentation-embed-{{page.slides-id}}"></div>
+      <script src='https://slideslive.com/embed_presentation.js'></script>
+      <script>
+          embed = new SlidesLiveEmbed('presentation-embed-{{page.slides-id}}', {
+              presentationId: '{{page.slides-id}}',
+              autoPlay: false, // change to true to autoplay the embedded presentation
+              verticalEnabled: true
+          });
+      </script> 
+
+      <h3 class="mt-3 pb-2">Discussion</h3>
+
+      <div style="border: 1px solid #ced4da; border-radius: .25rem;" class="m-1 p-1">
+        <iframe src="https://chat.bmvc2020-conference.com/channel/{{page.channel-id}}?layout=embedded" width="100%" height="700px" frameborder="0"></iframe>
+      </div>
+
+      {{ content }}
+    <!--</div>-->
+    </main>
+
+    <footer class="footer bg-light">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
+  </body>
+</html>

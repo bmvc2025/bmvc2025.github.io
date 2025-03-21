@@ -1,0 +1,16 @@
+prizes:
+  - award: "Best Industry Paper"
+    id: 277
+    link: paper_0277
+  - award: "Best Student Paper Runner Up"
+    id: 430
+    link: paper_0430
+  - award: "Best Student Paper"
+    id: 638
+    link: paper_0638
+  - award: "Best Paper Runner Up"
+    id: 101
+    link: paper_0101
+  - award: "Best Paper"
+    id: 547
+    link: paper_0547

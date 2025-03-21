@@ -1,0 +1,35 @@
+keynotes:
+  - name: Prof. Dacheng Tao
+    id: keynote-1
+    img: /assets/images/mugshots/dachengtao.jpeg
+    url: "https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html"
+    bio: "Dacheng Tao (Fellow, IEEE) is the Inaugural Director of the JD Explore Academy and a Senior Vice President of JD.com. He is also an Advisor and a Chief Scientist of the Digital Sciences Initiative, The University of Sydney. He mainly applies statistics and mathematics to artificial intelligence and data science. His research is detailed in one monograph and over 200 publications in prestigious journals and proceedings at leading conferences. He is a fellow of the Australian Academy of Science, AAAS, and ACM. He has received the 2015 Australian Scopus-Eureka Prize, the 2018 IEEE ICDM Research Contributions Award, and the 2021 IEEE Computer Society McCluskey Technical Achievement Award."
+    job: The University of Sydney
+    
+  - name: Prof. Dima Damen
+    id: keynote-2
+    img: /assets/images/mugshots/DimaDamen.png
+    url: "https://dimadamen.github.io/"
+    bio: "Dima Damen is a Professor of Computer Vision at the University of Bristol. Dima is currently an EPSRC Fellow (2020-2025), focusing her research interests in the automatic understanding of object interactions, actions and activities using wearable visual (and depth) sensors. She has contributed to novel research questions including assessing action completion, skill/expertise determination from video sequences, discovering task-relevant objects, dual-domain and dual-time learning as well as multi-modal fusion using vision, audio and language. She is the project lead for EPIC-KITCHENS, the largest dataset in egocentric vision, with accompanying open challenges. She also leads the EPIC annual workshop series alongside major conferences (CVPR/ICCV/ECCV). Dima is associate editor of IJCV, IEEE TPAMI and Pattern Recognition, and was a program chair for ICCV 2021. She was selected as a Nokia Research collaborator in 2016, and as an Outstanding Reviewer in CVPR2021, CVPR2020, ICCV2017, CVPR2013 and CVPR2012. Dima received her PhD from the University of Leeds (2009), joined the University of Bristol as a Postdoctoral Researcher (2010-2012), Assistant Professor (2013-2018), Associate Professor (2018-2021) and was appointed as chair in August 2021. She supervises 8 PhD students, and 3 postdoctoral researchers."
+    job: University of Bristol
+
+  - name: Prof. Pascal Fua
+    id: keynote-3
+    img: /assets/images/mugshots/pf.jpeg
+    url: "https://people.epfl.ch/pascal.fua/bio?lang=en"
+    bio: "Pascal Fua received an engineering degree from Ecole Polytechnique, Paris, in 1984 and a Ph.D. in Computer Science from the University of Orsay in 1989. He joined EPFL (Swiss Federal Institute of Technology) in 1996 where he is a Professor in the School of Computer and Communication Science and head of the Computer Vision Lab. Before that, he worked at SRI International and at INRIA Sophia-Antipolis as a Computer Scientist. His research interests include shape modeling and motion recovery from images, analysis of microscopy images, and Augmented Reality. He has (co)authored over 300 publications in refereed journals and conferences. He has received several ERC grants. He is an IEEE Fellow and has been an Associate Editor of IEEE journal Transactions for Pattern Analysis and Machine Intelligence. He often serves as program committee member, area chair, and program chair of major vision conferences and has cofounded three spinoff companies. "
+    job: EPFL
+    
+  - name: Prof. Siyu Tang
+    id: keynote-4
+    img: /assets/images/mugshots/siyu.jpeg
+    url: "https://inf.ethz.ch/people/person-detail.MjYyNzgw.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html"
+    bio: "Siyu Tang is an assistant professor in the Department of Computer Science at ETH Zürich. She leads the Computer Vision and Learning Group (VLG) at the Institute of Visual Computing. Before joining ETH, She received an early career research grant to start her research group at the Max Planck Institute for Intelligent Systems in November 2017. She was a postdoctoral researcher in the same institute, advised by Prof. Michael Black. She obtained her PhD at the Max Planck Institute for Informatics in 2017, under the supervision of Prof. Bernt Schiele. Before that, She obtained her Master’s degree in Media Informatics at RWTH Aachen University and Bachelor’s degree in Computer Science at Zhejiang University, China."
+    job: ETH Zürich
+
+  - name: Prof. Phillip Isola
+    id: keynote-5
+    img: /assets/images/mugshots/PhillipIsola.jpeg
+    url: "http://web.mit.edu/phillipi/"
+    bio: "Phillip Isola is an associate professor in EECS at MIT studying computer vision, machine learning, and AI. Previously, he spent a year as a visiting research scientist at OpenAI, and before that he was a postdoctoral scholar with Alyosha Efros in the EECS department at UC Berkeley. He completed his Ph.D. in Brain & Cognitive Sciences at MIT, under the supervision of Ted Adelson, where he also frequently worked with Aude Oliva. He received my undergraduate degree in Computer Science from Yale, where he got his start on research working with Brian Scholl."
+    job: MIT

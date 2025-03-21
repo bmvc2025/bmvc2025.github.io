@@ -1,0 +1,56 @@
+sponsors:
+  - name: Meta
+    type: Platinum
+    logo: meta.png
+    url: "https://www.meta.com/"
+    url-external: "https://www.meta.com/"
+
+  - name: IET
+    type: Gold
+    logo: IET_3.jpg
+    url: "https://www.theiet.org/"
+    url-external: "https://www.theiet.org/"
+
+  - name: Prime Video
+    type: Gold
+    logo: prime.png
+    url: "https://www.primevideotech.com/"
+    url-external: "https://www.primevideotech.com/"
+
+  - name: SICSA
+    type: Gold
+    logo: sicsa_blue.jpeg
+    url: "https://www.sicsa.ac.uk/"
+    url-external: "https://www.sicsa.ac.uk/"
+
+  - name: Attendr
+    type: Special
+    logo: logo_attendr.png
+    url: "https://www.attendr.app/"
+    url-external: "https://www.attendr.app/"
+
+  - name: Frontiers
+    type: Special
+    logo: logo_frontiers.png
+    url: "https://www.frontiersin.org/research-topics/61449/ai-insights-computer-vision---british-machine-vision-association-bmva"
+    url-external: "https://www.frontiersin.org/research-topics/61449/ai-insights-computer-vision---british-machine-vision-association-bmva"
+
+  - name: RGU
+    type: Special
+    logo: RGU.jpeg
+    url: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
+    url-external: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
+
+  - name: Aberdeen
+    type: Special
+    logo: Aberdeen.jpeg
+    url: "https://www.abdn.ac.uk/ncs/departments/computing-science/index.php"
+    url-external: "https://www.abdn.ac.uk/ncs/departments/computing-science/index.php"
+
+  - name: NSC
+    type: Special
+    logo: NSC.png
+    url: "https://www.nationalsubseacentre.com/"
+    url-external: "https://www.nationalsubseacentre.com/"
+
+

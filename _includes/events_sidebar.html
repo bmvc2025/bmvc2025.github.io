@@ -1,0 +1,41 @@
+
+<div class="card mt-2">
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
+  {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
+  <div class="container">
+  {% for group in grouped_sponsors %}
+    <div class="row mt-1 mb-1 justify-content-around align-items-center">
+      <div class="col-12">
+        {% if group.name == 'Gold' or group.name == 'Special' %} 
+        <b>{{-group.name-}}&nbsp;Sponsors</b>
+        {% else %}
+        <b>{{-group.name-}}&nbsp;Sponsor</b>
+        {% endif %}
+      </div>
+    {% for item in group.items %}
+      <!--<div class="col mb-1 text-center" style="padding-left: 10px; padding-right: 10px">-->
+        <a href="{{item.url}}" target="_blank"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.id }}" style="max-height: 50px;"></a>
+      <!--</div>-->
+    {% endfor %}
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+<br>
+
+
+<div class="card">
+  <h5 class="card-header" style="text-align: center;">News</h5>
+  <ul style="line-height: 1.5; padding: 20px 30px 10px 20px; padding-inline-start: 40px;"> 
+ </li>
+    <li><strong>[28 Sep.]</strong> The conference schedule is available now: <a href="https://bmvc2023.org/programme/schedule/">[link]</a>.</li>
+    <li><strong>[29 Aug.]</strong> BMVC is now CORE rank A.</li>
+    <li><strong>[22 Aug.]</strong> The complete list of accepted papers is available now: <a href="https://bmvc2023.org/files/accepted_papers.txt">[link]</a>.</li>
+    <li><strong>[21 Jun.]</strong> Conference registration is available now.: <a href="https://bmvc2023.org/attending/registration/">[link]</a>.</li>
+    <li><strong>[4 Apr.]</strong> The CMT submission site is open: <a href="https://cmt3.research.microsoft.com/BMVC2023">[link]</a>.</li>
+    <li><strong>[20 Feb.]</strong> The "call for workshops" is now available here: <a href="https://www.bmvc2023.org/authors/call-for-workshops/">[link]</a>. Workshop proposal submission deadline: 5th May 2023. </li>
+    <li><strong>[17 Jan.]</strong> Paper abstract and submission deadlines are released, see the details here: <a href="https://bmvc2023.org/dates/">[link]</a>. </li>
+  </ul>
+</div>
+

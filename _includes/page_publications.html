@@ -1,0 +1,63 @@
+{% if page.publications %}
+
+{% assign page_publications = '' | split: '' %}
+{% for p in page.publications %}
+	{% assign pub = site.data.publications.papers | where: "id", p.id %}
+	{% assign page_publications = page_publications | concat: pub %}
+{% endfor %}
+
+{% assign num_page_publications = page_publications | size %}
+{% if num_page_publications > 1 %}
+<h2>Publications</h2>
+{% else %}
+<h2>Publication</h2>
+{% endif %}
+
+<div>
+{% assign grouped_papers = page_publications | group_by:"year" %}
+{% assign sorted_grouped_papers = grouped_papers | sort: "name" | reverse %}
+{% for group in sorted_grouped_papers %}
+	{% for item in group.items %}
+		{% capture pdf_file %}{{ site.baseurl }}/assets/papers/{{ item.id }}.pdf{% endcapture %}
+		{% capture pdf_file_exists %}{% file_exists {{ pdf_file }} %}{% endcapture %}
+		{% capture supp_pdf_file %}{{ site.baseurl }}/assets/papers/{{ item.id }}_supp.pdf{% endcapture %}
+		{% capture supp_pdf_file_exists %}{% file_exists {{ supp_pdf_file }} %}{% endcapture %}
+
+	<div class="row align-items-center shadow-sm p-1 mb-3 bg-white rounded border border-light">
+		<div class="col-md-3 col-xl-2 d-none d-md-block">
+			{% if item.id > "" %}
+				{% capture custom_image_file %}{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}.png{% endcapture %}
+				{% capture custom_image_file_exists %}{% file_exists {{ custom_image_file }} %}{% endcapture %}
+				{% if custom_image_file_exists == "true" %}
+					{% assign image_file = custom_image_file %}
+				{% else %}
+					{% capture image_file %}{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}_pages.png{% endcapture %}
+				{% endif %}
+				{% if pdf_file_exists == "true" %}<a href="{{ pdf_file }}">{% endif %}
+					<img src="{{ image_file }}" class="img-fluid" alt="{{ item.id }}" style="width:100%">
+				{% if pdf_file_exists == "true" %}</a>{% endif %}
+			{% endif %}
+		</div>
+		<div class="col-md-9 col-xl-10 col-sm-12">
+			<b>{{ item.title }}</b>, <br class="d-none d-lg-block" />
+			{{ item.authors }}, <br class="d-none d-lg-block" />
+			<i>{{ item.venue }},</i> {{ item.year }}<br />
+
+			{% if pdf_file_exists == "true" %}
+				<a href="{{ pdf_file }}">[pdf]</a> 
+			{% endif %}
+
+			{% if supp_pdf_file_exists == "true" %}
+				<a href="{{ supp_pdf_file }}">[supplemental]</a> 
+			{% endif %}
+
+			{% if item.arxiv-link %}
+				<a href="{{ item.arxiv-link }}">[arXiv link]</a> 
+			{% endif %}
+		</div>
+	</div>
+	{% endfor %}
+{% endfor %}
+</div>
+
+{% endif %}

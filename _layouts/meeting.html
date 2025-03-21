@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head_includes.html %}
+
+    <title>{{ site.title}}: {{ page.title }}</title>
+  </head>
+
+  <header>
+  </header>
+
+  <body>
+    {% include navbar.html %}
+    {% include header_sparse.html %}
+    
+    <main role="main" class="container">
+    <!--<div class="container m-t-2">-->
+      <!--<h3 class="pb-3" style="text-align: center;"></h3>-->
+
+      <!--<div class="container-fluid rounded mx-auto d-block" style="height: 100%; background-position: center; background-repeat: no-repeat; background-image: url({{ site.baseurl }}/assets/images/events/{{ page.image }});">
+        <h2 class="pb-3" style="text-align: center;">{{ page.meeting-title }}</h2>
+      </div>-->
+
+      <!--<div class="container-fluid h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-12 text-center">
+            <h1 class="font-weight-light">Vertically Centered Masthead Content</h1>
+            <p class="lead">A great starter layout for a landing page</p>
+          </div>
+        </div>
+      </div>-->
+      
+      <!--<div class="container-fluid h-100">
+        <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ site.baseurl }}/assets/images/events/{{ page.image }});">
+          <div class="hero-text">
+            <h1>I am John Doe</h1>
+            <p>And I'm a Photographer</p>
+            <button>Hire me</button>
+          </div>
+        </div>
+      </div>-->
+
+      <div class="container-fluid pb-2">
+        <div class="row align-items-center">
+          <div class="col-xs-12 mx-auto">
+            <img src="{{ site.baseurl }}/assets/images/events/{{ page.image }}" class="img-fluid" alt="{{ page.meeting-title }}">
+          </div>
+        </div>
+      </div>
+
+      <h2 class="pb-3" style="text-align: center;">One Day Meeting: {{ page.meeting-title }}</h2>
+
+      <h3 class="pb-2" style="text-align: center;">{{ page.date | date: '%A %-d %B %Y' }}</h3>
+      <h3 class="pb-2" style="text-align: center;">Chairs: {{ page.organisers }}</h3>
+
+      {{ content }}
+    <!--</div>-->
+    </main>
+
+    <footer class="footer bg-light">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
+  </body>
+</html>

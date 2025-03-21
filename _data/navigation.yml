@@ -1,0 +1,21 @@
+pages:
+  - title: Home
+    url: /
+  - title: Dates
+    url: /dates/
+  #- title: Keynotes
+  #  url: /keynotes/
+  - title: Attending
+    url: /attending/
+    dropdown: true
+  - title: Programme
+    url: /programme/
+    dropdown: true
+  - title: Authors
+    url: /authors/
+    dropdown: true
+  - title: People
+    url: /people/
+    dropdown: true
+  - title: Sponsors
+    url: /sponsors/

@@ -1,0 +1,117 @@
+organisers:
+  - name: Constantino-Carlos Reyes-Aldasoro
+    img: /assets/images/mugshots/gc1.jpeg
+    url: "https://www.city.ac.uk/about/people/academics/constantino-carlos-reyes-aldasoro"
+    job: General Chair (Local)
+  - name: Guang Yang
+    img: /assets/images/mugshots/gc2.jpeg
+    url: "https://www.imperial.ac.uk/people/g.yang"
+    job: General Chair (Programme)
+  - name: Yulia Hicks
+    img: /assets/images/mugshots/sp1.jpeg
+    url: "https://www.cardiff.ac.uk/people/view/364382-hicks-yulia"
+    job: 	Programme and Sponsorship Chair
+  - name: Armin Mustafa
+    img: /assets/images/mugshots/wsc1.jpeg
+    url: "https://arminmustafa.github.io/"
+    job: 	Programme and Workshop Chair
+  - name: Tu Bui
+    img: /assets/images/mugshots/cmtc1.jpeg
+    url: "https://sites.google.com/view/tubui/home"
+    job: 	Programme and CMT Chair
+  - name: Anh Nguyen
+    img: /assets/images/mugshots/fc1.png
+    url: "https://www.csc.liv.ac.uk/~anguyen/"
+    job: 	Programme and Finance Chair
+  - name: Anelia Angelova 
+    img: /assets/images/mugshots/pc1.png
+    url: "https://research.google/people/AneliaAngelova/"
+    job: 	Programme Chair
+  - name: Hazem Wannous
+    img: /assets/images/mugshots/pc2.jpeg
+    url: "http://pagesperso.telecom-lille.fr/wannous/"
+    job: 	Programme Chair
+  - name: Bei Xiao
+    img: /assets/images/mugshots/acsc1.jpeg
+    url: "https://sites.google.com/site/beixiao/"
+    job: 	Programme and AC Selection Chair
+  - name: Simone Bianco
+    img: /assets/images/mugshots/pc3.jpeg
+    url: "http://www.ivl.disco.unimib.it/people/simone-bianco/"
+    job: 	Programme Chair
+  - name: Olivia Wiles
+    img: /assets/images/mugshots/pc4.jpeg
+    url: "https://www.robots.ox.ac.uk/~ow/"
+    job: 	Programme Chair
+  - name: Zhenhua Feng
+    img: /assets/images/mugshots/vcc1.jpeg
+    url: "https://www.surrey.ac.uk/people/zhenhua-feng"
+    job: 	Programme and Virtual Conference Chair
+  - name: Gianluigi Ciocca
+    img: /assets/images/mugshots/pc5.jpeg
+    url: "http://www.ivl.disco.unimib.it/people/gianluigi-ciocca/"
+    job: 	Programme Chair
+  - name: Nilanjan Ray
+    img: /assets/images/mugshots/vcc2.jpeg
+    url: "https://webdocs.cs.ualberta.ca/~nray1/"
+    job: 	Programme and Virtual Conference Chair
+  - name: Puneet Dokania
+    img: /assets/images/mugshots/pc6.png
+    url: "https://puneetkdokania.github.io/"
+    job: 	Programme Chair
+  - name: Yingying Fang
+    img: /assets/images/mugshots/procc1.jpeg
+    url: "https://scholar.google.com/citations?user=GdafSfEAAAAJ&hl=en"
+    job: 	Programme and Proceedings Chair
+  - name: Angelica I. Aviles-Rivero
+    img: /assets/images/mugshots/procc2.png
+    url: "https://angelicaiaviles.wordpress.com/"
+    job: 	Programme and Proceedings Chair
+  - name: Yash Bhalgat
+    img: /assets/images/mugshots/webc1.jpeg
+    url: "https://yashbhalgat.github.io/"
+    job: 	Website Chair
+  - name: Yaoyao Liu
+    img: /assets/images/mugshots/webc2.jpeg
+    url: "https://www.mpi-inf.mpg.de/~yaliu/"
+    job: 	Website Chair
+
+bmva:
+  - name: Toby Breckon
+    img: /assets/images/mugshots/tb.png
+    url: "https://breckon.org/toby/"
+    job: Treasurer
+  - name: Neill Campbell
+    img: /assets/images/mugshots/nc.jpg
+    url: "https://www.ndfcampbell.org/"
+    job: Chairman
+  - name: Andrew Gilbert
+    img: /assets/images/mugshots/ag.jpeg
+    url: "https://www.surrey.ac.uk/people/andrew-gilbert"
+    job: Payments Master General
+    
+volunteers:
+  - name: Caiwen Xu
+    img: /assets/images/mugshots/Caiwen_Xu.jpg
+  - name: Fatemeh Nazarieh
+    img: /assets/images/mugshots/Fatemeh_Nazarieh.jpg
+  - name: Huanjun Wu
+    img: /assets/images/mugshots/Huanjun_Wu.jpeg
+  - name: Jiahao Huang
+    img: /assets/images/mugshots/Jiahao_Huang.jpg
+  - name: Jinghao Zhang
+    img: /assets/images/mugshots/Jinghao_Zhang.jpg
+  - name: Luchen Li
+    img: /assets/images/mugshots/Luchen_Li.jpeg
+  - name: Ming Li
+    img: /assets/images/mugshots/Ming_Li.PNG
+  - name: Riad Ibadulla
+    img: /assets/images/mugshots/Riad_Ibadulla.jpeg
+  - name: Shiyi Wang
+    img: /assets/images/mugshots/Shiyi_Wang.jpeg
+  - name: Soon Yau Cheong
+    img: /assets/images/mugshots/Soon_Yau_Cheong.jpg
+  - name: Zebang Liu
+    img: /assets/images/mugshots/Zebang_Liu.jpg
+  - name: Ziang Zhao
+    img: /assets/images/mugshots/Ziang_Zhao.jpg

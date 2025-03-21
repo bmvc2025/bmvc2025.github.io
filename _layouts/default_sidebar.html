@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head_includes.html %}
+
+    <title>{{ site.title}}: {{ page.title }}</title>
+  </head>
+
+  <header>
+  </header>
+
+  <body>
+    {% include navbar.html %}
+    {% include header_full.html %}
+    
+    <main role="main" class="container">
+    <!--<div class="container m-t-2">-->
+      <div class="row row-offcanvas row-offcanvas-right">
+        <div class="col-xs-12 col-sm-7">
+          {{ content }}
+        </div>
+
+        <div class="col-xs-6 col-sm-5">
+
+          {% include events_sidebar.html %}
+          
+          <br />
+          
+          {% include twitter_sidebar.html %}
+          <br />
+          
+          
+        </div>
+      </div>
+
+      <!-- <div class="card">
+  <h5 class="card-header">Featured</h5>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div> -->
+
+    <!--</div>-->
+    </main>
+
+    <footer class="footer bg-light">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
+  </body>
+</html>

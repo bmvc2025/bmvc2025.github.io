@@ -1,0 +1,17 @@
+<div class="card">
+  <h5 class="card-header mb-2">News</h5>
+  {% assign filtered_news_items = site.data.news.items %} <!--| where: "date", "2019-01-01" %}
+  {{ filtered_news_items }}-->
+  {% assign sorted_news_items = (filtered_news_items | sort: 'date') | reverse %}
+  {% for item in sorted_news_items %}
+  <div class="card-body clearfix pb-0 pt-0 mb-2">
+    <!--<h5 class="card-title">Special title treatment</h5>-->
+    <p class="card-text" style="text-indent: -1em; padding-left: 1em;">
+      <!--<span class="float-left mr-2">{{ item.date }}</span>
+      <span class="">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>-->
+      <b>{{ item.date | date: '%b %Y' }}</b> &nbsp;&nbsp; {{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}
+    </p>
+    <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+  </div>
+  {% endfor %}
+</div>
