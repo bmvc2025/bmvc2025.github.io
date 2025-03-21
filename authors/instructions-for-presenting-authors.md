@@ -1,26 +1,48 @@
 ---
 layout: default_sparse
-title: Instructions for Oral and Poster Authors
-permalink: /authors/instructions-for-presenting-authors/
+title: Presentating at BMVC
+permalink: /authors/instructions-for-presenting-at-bmvc/
 ---
 
-The following provides details on how to upload video presentations for your BMVC 2020 papers for authors of papers accepted for both oral and poster presentation. The deadline for uploading videos is 23:59 BST on August 20th.
+These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2024 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.
 
-## Videos
+**The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
 
-We will not have a separate short 1-2 minute spotlight video i.e. there is only one video per paper. Instead, authors of papers accepted as posters are strongly encouraged to spend the first 1 minute of the video doing a high level overview of the paper followed by a more in-depth presentation of the work. Oral presenters should not follow this format. Poster authors can choose the total duration of the video up to the maximum length of 10 minutes. Oral presenters are strongly encouraged to make their videos 10 minutes long - the video will be streamed as part of an oral session as well as hosted on the website.
+## Contents
+* Posters
+* Video summaries
+* Uploading your e-poster and videos
+* Oral presentations
 
-## Uploading your videos
+---
 
-We will be using [SlidesLive](https://slideslive.com) for hosting and streaming the videos for BMVC 2020. This is the same service used by ICML 2020 and ICLR 2020. For BMVC 2020 the final videos will be presented in a very similar way to these conferences - you can see some examples on the [ICLR 2020 website](https://iclr.cc/virtual_2020/papers.html).
-SlidesLive provides an in-browser recording tool (you will get the upload link in a separate email). This tool captures both a presenter view (from your webcam) and your slides. If there are animations in your slides these will also be captured (see example at 20 seconds [here](https://iclr.cc/virtual_2020/poster_HkxYzANYDB.html)). We strongly encourage you to use this tool for your videos. However, it is possible for you to upload your own videos should you wish too, but you still need to abide by the 10 minute duration limit. Videos should be 1920x1080p using H264 compression.
+## Posters
 
-## Tips for presenting
+All authors with accepted papers at BMVC 2024 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in portrait, A0 aspect ratio and no larger than 3 MB. Posters should be in portrait. 
 
-* SlidesLive have some [tips on how to capture good recordings](http://slideslive.com/recording-tips)
-* Ensure the recording space is quiet and without distractions. For best results, use a microphone or present close to your laptop microphone
-* You can find inspiration in some of the presentation videos for CVPR 2020 [here](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos) (note that this list is a mix of workshop, oral, and spotlight videos)
+For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from [https://bmvc2024.org](https://bmvc2024.org).
 
-## Paper Registration
 
-All papers will require one author to pay an event enabling registration fee (that we are seeking to keep as low as possible and should be < 120 GBP per paper to cover the costs of hosting and streaming the conference and all the videos) for the conference and to attend the interactive presentations (poster or oral). We will send round details to all authors next week. [Please note that we will require one fee per paper in the case of authors of multiple papers]. We will be providing details on additional registrations shortly - our hope is that this will allow us to keep a low general registration fee to enable the maximum participation from the vision community and make sure all the papers can be disseminated as widely as possible.
+**We will not have facilities to print posters, so participants are asked to bring their posters.**
+
+## Video summaries
+
+Authors of papers accepted as orals and posters are strongly encouraged to prepare a video summary of the paper. We recommend spending the first 1 minute of the video doing a high-level overview of the paper followed by a more in-depth presentation of the work. Authors can choose the total duration of the video up to the maximum length of 3 minutes. Videos should be
+
+* 1920x1080p,
+* less than 20 Mb; and,
+* MP4.
+
+Please note that the video presentation will be publicly available in the conference proceedings. If you are uncomfortable showing your face to the public, please do not record your face during the video presentation.
+
+## Uploading your e-poster and videos
+
+Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. **The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
+
+## Oral presentations
+
+Please prepare your presentations following these guidelines: 
+* Each talk will be assigned to a specific Oral session (program details sent separately) 
+* We are allocating 15 minutes for each talk: 12 min for the presentation + 3 min for Q&A
+* All speakers for an oral session must make themselves known to the session chair at least 10 minutes BEFORE the session begins, as well as to try out connections. At 5-minutes before, the chair will likely drop the paper for no-show authors from the session.
+* Bring your presentation in a USB stick or your laptop.

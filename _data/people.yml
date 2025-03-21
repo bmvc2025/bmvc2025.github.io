@@ -90,28 +90,28 @@ bmva:
     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
     job: Payments Master General
     
-volunteers:
-  - name: Caiwen Xu
-    img: /assets/images/mugshots/Caiwen_Xu.jpg
-  - name: Fatemeh Nazarieh
-    img: /assets/images/mugshots/Fatemeh_Nazarieh.jpg
-  - name: Huanjun Wu
-    img: /assets/images/mugshots/Huanjun_Wu.jpeg
-  - name: Jiahao Huang
-    img: /assets/images/mugshots/Jiahao_Huang.jpg
-  - name: Jinghao Zhang
-    img: /assets/images/mugshots/Jinghao_Zhang.jpg
-  - name: Luchen Li
-    img: /assets/images/mugshots/Luchen_Li.jpeg
-  - name: Ming Li
-    img: /assets/images/mugshots/Ming_Li.PNG
-  - name: Riad Ibadulla
-    img: /assets/images/mugshots/Riad_Ibadulla.jpeg
-  - name: Shiyi Wang
-    img: /assets/images/mugshots/Shiyi_Wang.jpeg
-  - name: Soon Yau Cheong
-    img: /assets/images/mugshots/Soon_Yau_Cheong.jpg
-  - name: Zebang Liu
-    img: /assets/images/mugshots/Zebang_Liu.jpg
-  - name: Ziang Zhao
-    img: /assets/images/mugshots/Ziang_Zhao.jpg
+# volunteers:
+#   - name: Caiwen Xu
+#     img: /assets/images/mugshots/Caiwen_Xu.jpg
+#   - name: Fatemeh Nazarieh
+#     img: /assets/images/mugshots/Fatemeh_Nazarieh.jpg
+#   - name: Huanjun Wu
+#     img: /assets/images/mugshots/Huanjun_Wu.jpeg
+#   - name: Jiahao Huang
+#     img: /assets/images/mugshots/Jiahao_Huang.jpg
+#   - name: Jinghao Zhang
+#     img: /assets/images/mugshots/Jinghao_Zhang.jpg
+#   - name: Luchen Li
+#     img: /assets/images/mugshots/Luchen_Li.jpeg
+#   - name: Ming Li
+#     img: /assets/images/mugshots/Ming_Li.PNG
+#   - name: Riad Ibadulla
+#     img: /assets/images/mugshots/Riad_Ibadulla.jpeg
+#   - name: Shiyi Wang
+#     img: /assets/images/mugshots/Shiyi_Wang.jpeg
+#   - name: Soon Yau Cheong
+#     img: /assets/images/mugshots/Soon_Yau_Cheong.jpg
+#   - name: Zebang Liu
+#     img: /assets/images/mugshots/Zebang_Liu.jpg
+#   - name: Ziang Zhao
+#     img: /assets/images/mugshots/Ziang_Zhao.jpg

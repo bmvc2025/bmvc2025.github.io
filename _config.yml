@@ -24,36 +24,36 @@
 
 
 timezone: Europe/London
-title: The 34th British Machine Vision Conference 2023
-formatted-title: The 34<sup>th</sup> British Machine Vision Conference
-brand: BMVC&thinsp;2023
-short-title: "BMVC 2023"
-conf_year: 2023
-email: bmvc2023@googlegroups.com
+title: The 35th British Machine Vision Conference 2024
+formatted-title: The 35<sup>th</sup> British Machine Vision Conference
+brand: BMVC&thinsp;2024
+short-title: "BMVC 2024"
+conf_year: 2024
+email: bmvc@bmvc2024.org
+#bmvc2024@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the 34th British Machine Vision Conference. 20th - 24th November 2023, Aberdeen, UK.
+  The website is for the 35th British Machine Vision Conference. 25th - 28th November 2024, Glasgow, UK.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/"
 #url: "http://bmvc2021.ndfcampbell.org"
 baseurl: ""
-url: "https://www.bmvc2023.org"
-conf-url: "https://www.bmvc2023.org"
-chat-url: "https://chat.bmvc2023.org"
-logo: "/assets/images/layout/bmvc-logo.png"
-pc-email: "bmvc2023@googlegroups.com"
+url: "https://www.bmvc2024.org"
+conf-url: "https://www.bmvc2024.org"
+chat-url: "https://chat.bmvc2024.org"
+logo: "/assets/images/layout/bmvc-2024.png"
 #twitter_username: BMVCconf
 twitter_username: BMVCconf
 github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
 #youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
 
-deadline-time: "23:59 UK Time"
+deadline-time: "23:59 GMT"
 
-cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
+#cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
 bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
 
-dates: 20<sup>th</sup> - 24<sup>th</sup> November 2023
+dates: 25<sup>th</sup> - 28<sup>th</sup> November 2024
 
 author: BMVC PCs
 
@@ -90,15 +90,38 @@ exclude:
   - copy_to_aws.sh
   - old/
   - conference/
-  - programme/accepted-papers.md
+  - programme/oral.md
   - programme/paper-awards.md
+  - programme/accepted-papers.md
+  - programme/papers.md
+  - programme/poster.md
+  - programme/programme.md
+  - programme/schedule.md
+  - programme/workshop_papers.md
+  - proceedings/create_all.py
+  - proceedings/CameraReadyPapers.py
+  # - proceedings/workshop-proceedings.md
+  # - programme/workshops.md
   - old_index.md
   - attending/guides.md
-  - attending/code-of-conduct.md
-  - sponsorship-backup.md
-  - authors/instructions-for-presenting-authors.md
-  
-#  - attending/
+  # - attending/code-of-conduct.md
+  - attending/about-the-city.md
+  # - attending/plan-your-visit.md
+  - attending/student-funding.md
+  - attending/registration_old.md
+  - sponsorship_backup.md
+  # - authors/instructions-for-presenting-authors.md
+  - index_v0.md
+  # - calls/doctoral-consortium.md
+  - authors/rebuttal-instructions.md
+  # - authors/reviewing-guidelines-new.md
+  - authors/faq.md
+  - authors/submit-your-paper-old.md
+  - authors/reviewing-guidelines-old.md
+  # - authors/area-chair-guidelines.md
+  - people/area-chairs.md
+  - people/emergency-reviewers.md
+  - people/volunteers.md
 
 #main_sponsors:
 #  - name: IAPR
@@ -117,3 +140,6 @@ exclude:
 #  - name: AVA
 #    url: http://www.theava.net/
 #    logo: /img/affiliates/logo-ava.jpg
+# webrick:
+#   headers:
+#     content-disposition: attachment

@@ -1,86 +1,102 @@
 deadlines:
-  - title: Workshop Submission Deadline
-    date: 2023-05-05
+  - title: Abstract Submission Deadline
+    date: 2024-04-26
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2023-05-12
+    date: 2024-05-10
     tags:
       - key: Authors
   - title: Supplementary Material Submission
-    date: 2023-05-26
+    date: 2024-05-17
     tags:
       - key: Authors
-  - title: Workshop Acceptance Notification
-    date: 2023-05-30
+  - title: Workshop Submission Deadline
+    date: 2024-05-17
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2023-06-06
+    date: 2024-05-20
     tags:
       - key: Reviewers
   - title: Reviews Submitted
-    date: 2023-07-13
+    date: 2024-06-03
     tags:
       - key: Reviewers
-  - title: Doctoral Consortium Submission Deadline
-    date: 2023-07-14
-    tags:
-      - key: Authors 
-  - title: Start of Rebuttal Period
-    date: 2023-07-14
-    tags:
-      - key: Authors      
-  - title: End of Rebuttal Period
-    date: 2023-07-21
-    tags:
-      - key: Authors      
-  - title: Reviewer Discussion & Final Revs 
-    date: 2023-07-31
-    tags:
-      - key: Reviewers
-      - key: AC
-  - title: Meta-Reviews Submitted
-    date: 2023-08-06
-    tags:
-      - key: AC  
-  - title: Paper Decisions & Meta-Rev Consolidation
-    date: 2023-08-13
-    tags:
-      - key: AC 
-  - title: Author Notifications
-    date: 2023-08-21
-    tags:
-      - key: Authors   
-  - title: Camera Ready
-    date: 2023-09-17
+  - title: Workshop Acceptance Notification
+    date: 2024-06-07
     tags:
       - key: Authors
-  - title: Camera Ready for Workshops
-    date: 2023-10-01
+  - title: Start of AC/reviewer Discussion Period
+    date: 2024-06-14
     tags:
-      - key: Authors (workshops) 
+      - key: Reviewers
+      - key: ACs
+  - title: End of AC/reviewer Discussion Period
+    date: 2024-06-21
+    tags:
+      - key: Reviewers
+      - key: ACs   
+  # - title: Wraping up & Final Revs 
+  #   date: 2024-06-28
+  #   tags:
+  #     - key: Reviewers
+  #     - key: ACs
+  - title: Meta-Reviews Submitted
+    date: 2024-07-01
+    tags:
+      - key: ACs
+      - key: PCs
+  - title: Paper Decisions & Meta-Review Consolidation
+    date: 2024-07-12
+    tags:
+      - key: ACs
+      - key: PCs
+  - title: Doctoral Consortium Submission Open
+    date: 2024-7-14
+    tags:
+      - key: Authors
+  - title: Author Notifications
+    date: 2024-07-19
+    tags:
+      - key: Authors
+  - title: Doctoral Consortium Submission Close
+    date: 2024-7-31
+    tags:
+      - key: Authors
+  - title: Camera Ready
+    date: 2024-08-30
+    tags:
+      - key: Authors
+  - title: Doctoral Consortium Acceptance Notification
+    date: 2024-09-06
+    tags:
+      - key: Authors 
+  # - title: Camera Ready for Workshops
+  #   date: 2024-11-01
+  #   tags:
+  #     - key: Authors (workshops) 
   - title: Poster Submissions
-    date: 2023-11-01
+    date: 2024-11-01
     tags:
       - key: Authors
   - title: Video Submissions
-    date: 2023-11-01
+    date: 2024-11-01
     tags:
       - key: Authors
-  - title: In-Person Conference Starts
-    date: 2023-11-20
+  - title: Conference Starts
+    date: 2024-11-25
     tags:
       - key: Everyone
-  - title: In-Person Conference Ends
-    date: 2023-11-23
+  - title: Conference Ends
+    date: 2024-11-28
     tags:
       - key: Everyone
-  - title: Workshops Start
-    date: 2023-11-23
-    tags:
-      - key: Everyone
-  - title: Workshops End
-    date: 2023-11-24
-    tags:
-      - key: Everyone
+  # - title: Workshops Start
+  #   date: 
+  #   tags:
+  #     - key: Everyone
+  # - title: Workshops End
+  #   date: 
+  #   tags:
+  #     - key: Everyone

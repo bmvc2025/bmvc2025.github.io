@@ -1,19 +1,21 @@
 ---
-layout: default_miniconf
+layout: default_sparse
 title: Venue
 permalink: /attending/venue/
 index: 1
 ---
 
-The 34th BMVC will now be an **in-person** event. 
+The 35th BMVC will now be an **in-person** event.
 
-The meeting will be held at P&J Live, with some Friday workshop sessions (24th November) being hosted at different locations around the city. You can find more information about these events on the [workshops website](https://bmvc2023.org/programme/workshops/).
-<br>
+The meeting will be held at Scottish Event Campus, including workshop sessions. For information on how to get to the Scottish Exhibition Centre, please follow this link:
+
+**<https://www.sec.co.uk/visitor-information/how-to-get-here>**
+
 
 
 <br>
 <center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2162.1811105911984!2d-2.1939291842348125!3d57.18524188096062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48841376a7968181%3A0xb94af819aff77fdc!2sP%26J%20Live!5e0!3m2!1sen!2sus!4v1671582937075!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71628.76210560655!2d-4.309492974456788!3d55.873096303304195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4888467f53e9922b%3A0xcfa6e12af6bc9c9b!2sScottish%20Event%20Campus!5e0!3m2!1sen!2suk!4v1721824151625!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
 <br>

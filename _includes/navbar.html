@@ -20,9 +20,9 @@
 
           {% if item.meeting-title %}
           {% assign date_format = item.date | date: '%d/%m/%Y' %}
-          <li class="nav-item dropdown {% if page_active == true %}active{% endif %} date-filter" data-date-filter="{{ date_format }}">
+            <li class="nav-item dropdown {% if page_active == true %}active{% endif %} date-filter" data-date-filter="{{ date_format }}">
           {% else %}
-          <li class="nav-item dropdown {% if page_active == true %}active{% endif %}">
+            <li class="nav-item dropdown {% if page_active == true %}active{% endif %}">
           {% endif %}
 
             <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>

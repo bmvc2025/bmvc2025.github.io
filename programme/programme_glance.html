@@ -1,0 +1,97 @@
+---
+layout: default_sparse
+title: Conference Schedule
+permalink: /programme/programme/
+index: 20
+---
+<head>
+  <link rel="stylesheet" href="/static/css/programmes.css">
+</head>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sessionFilter = document.getElementById('session-filter');
+    const sessions = document.querySelectorAll('.session');
+    const time = document.querySelectorAll('.start-time');
+
+    sessionFilter.addEventListener('change', function () {
+      const filter = this.value;
+
+      sessions.forEach(session => {
+        if (filter === 'all' || session.getAttribute('data-type').includes(filter)) {
+          session.style.display = '';
+        } else {
+          session.style.display = 'none';
+        }
+      });
+      time.forEach(session => {
+        if (filter === 'all' || session.getAttribute('data-type').includes(filter)) {
+          session.style.display = '';
+        } else {
+          session.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
+
+
+<div class="programme-controls">
+  <div class="filter-container">
+    <select id="session-filter">
+      <option value="all">All Sessions</option>
+      <option value="keynote">Keynotes</option>
+      <option value="workshop">Workshops</option>
+      <option value="poster">Posters</option>
+      <option value="oral">Oral Sessions</option>
+      <option value="event">BMVC Sessions</option>
+      <!-- Add more options for other session types as needed -->
+    </select>
+  </div>
+  <div class="buttons-container">
+    <div class="buttons">
+      <a class="btn btn-primary" href="/programme/programme">Schedule</a>
+      <a class="btn" href="/programme/monday">Mon</a>
+      <a class="btn" href="/programme/tuesday">Tue</a>
+      <a class="btn" href="/programme/wednesday">Wed</a>
+      <a class="btn" href="/programme/thursday">Thu</a>
+    </div>
+  </div>
+</div>
+
+<div>
+  <p>BMVC 2024 can be found at: <a href="https://bmvc2024.org/proceedings/">BMVC Proceedings</a></p>
+</div>
+<hr>
+
+<div class="grid-container">
+  {% for day in site.data.schedule %}
+    {% assign day_name = day[0] %}
+    {% assign sessions = day[1] %}
+    <div class="container">
+      <div class="header">
+        {{ day_name }}
+      </div>
+      <div class="body-container">
+        {% for session in sessions %}
+          {% capture start %}{{ session.start-time | date: "%H:%M" }}{% endcapture %}
+          {% capture end %}{{ session.end-time | date: "%H:%M" }}{% endcapture %}
+          <div class="start-time" data-type="{{session.session-type}}">
+              {{ session.start-time | date: "%H:%M" }} - {{ session.end-time | date: "%H:%M" }}
+          </div>
+          <div class="session {{session.session-type}}" data-type="{{session.session-type}}" >
+                {{- session.session -}}
+              <div class="loc">
+                {{session.data}}
+              </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+</br>
+<div class="image-block text-center">
+  <img src="{{ site.baseurl }}/imgs_2024/sponsors.png" alt="sponsors-logos" class="img-fluid" style="max-height: 300px;">
+</div>

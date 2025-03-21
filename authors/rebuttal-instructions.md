@@ -6,7 +6,7 @@ permalink: /authors/rebuttal-instructions/
 
 **Reviews Released to Authors: 14th July 2023**
 
-**Rebuttal Due: 23:59 UK Time 21st July 2023**
+**Rebuttal Due: 23:59 GMT 21st July 2023**
 
 
 After receiving the reviews, the authors may optionally submit a rebuttal to address the reviewers' comments, which will be limited to `a one-page PDF` file using the [rebuttal template](https://www.bmvc2023.org/files/bmvc_rebuttal.zip), **or** `4000 characters` if authors choose to submit the rebuttal using the provided text box. 

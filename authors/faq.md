@@ -9,13 +9,6 @@ permalink: /authors/faq/
 <table class="table table-striped table-bordered">
     <tbody>
 
-        <!--<tr>
-            <th scope="row">How will CVPR 2021 papers be treated during the review process?</th>
-        </tr>
-        <tr>
-            <td>Due to the very short timescale between the release of CVPR papers and the submission deadline, reviewers will be instructed to treat CVPR 2021 papers as unpublished works (e.g. the same guidelines as arXiv papers) during the review process and whilst authors may choose to acknowledge the existence of papers or to provide comparisons, reviewers should not place that expectation.</td>
-        </tr>-->
-
         <tr>
             <th scope="row">Will the paper submission deadline or other main conference deadlines be extended?</th>
         </tr>
@@ -36,9 +29,9 @@ permalink: /authors/faq/
         <tr>
             <td>
                 <strong>Note:</strong> It is very important that you declare your conflict domains, both your current institution and those you have collaborated with, by the Paper Submission Deadline.
-Conflict domains are crucial in ensuring review integrity, and therefore should be treated with the same rigour you would otherwise apply to your paper.
-BMVC operates a conflict checking policy, and <strong>any paper found to have an undeclared or incorrect institutional conflict will be summarily rejected</strong>.
-Please read the following instructions very carefully to complete your conflict domain information.<br/><br/>
+                Conflict domains are crucial in ensuring review integrity, and therefore should be treated with the same rigour you would otherwise apply to your paper.
+                BMVC operates a conflict checking policy, and <strong>any paper found to have an undeclared or incorrect institutional conflict will be summarily rejected</strong>.
+                Please read the following instructions very carefully to complete your conflict domain information.<br/><br/>
 
                 When you log in to CMT for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under {{site.short-title}}.<br/><br/>
 

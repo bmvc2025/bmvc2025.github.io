@@ -1,9 +1,10 @@
 body a {
-  color: #a8a8a8;
+  color: #003865;
 }
 
 body a:hover {
-  color: #a8a8a8;
+  /* color: #a8a8a8; */
+  color: #0268bb;
   text-decoration: none;
 }
 
@@ -19,7 +20,7 @@ label:text-muted,
 
 body {
   /*font-family: "Lato", sans-serif;*/
-  background-color: rgba(236, 241, 246, 1);
+  background-color: rgb(0, 0, 0);
 }
 
 .container a:hover {
@@ -150,7 +151,8 @@ h3.card-subtitle.text-muted {
 
 .main-title {
   font-weight: 700;
-  color: #a8a8a8;
+  /* color: #a8a8a8; */
+  color: #003865;
   /*font-family: "Exo";*/
 }
 

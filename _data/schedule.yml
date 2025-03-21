@@ -1,194 +1,228 @@
-# Programme Schedule..
+monday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "Room: M1"
+  - session: Welcome
+    start-time: "08:45"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "Room: M1"
+  - session: Keynote - Margarita Chli
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Room: M1"
+  - session: Poster Session 1
+    start-time: "10:00"
+    end-time: "11:45"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: Oral Session 1 - Explainability in Vision
+    start-time: "11:45"
+    end-time: "13:00"
+    session-type: "oral"
+    data: "Room: M1"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+    data: "Room: Hall 2"
+  - session: Poster Session 2
+    start-time: "14:00"
+    end-time: "15:45"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: Oral Session 2 - Cyberphysical Vision
+    start-time: "15:45"
+    end-time: "17:00"
+    session-type: "oral"
+    data: "Room: M1"
+  - session: End of the day
+    start-time: "17:00"
+    end-time: "17:00"
+    session-type: "break event"
+  - session: Civic Reception hosted by the Lord Provost
+    start-time: "19:00"
+    end-time: "20:30"
+    session-type: "ceremony event"
+    data: "Glasgow City Chambers, 82 George Square, Glasgow G2 1DU"
 
+tuesday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "Room: M1"
+  - session: Keynote - Mubarak Shah
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Room: M1"
+  - session: Poster Session 3
+    start-time: "10:00"
+    end-time: "11:45"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: Oral Session 3 - Real World Applications
+    start-time: "11:45"
+    end-time: "13:00"
+    session-type: "oral"
+    data: "Room: M1"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+    data: "Room: Hall 2"
+  - session: Industrial Keynote - Technovative Solutions
+    start-time: "14:00"
+    end-time: "14:30"
+    session-type: "keynote"
+    data: "Room: M1"
+  - session: Industrial Session
+    start-time: "14:30"
+    end-time: "15:45"
+    session-type: "industrial oral"
+    data: "Room: M1"
+  - session: Poster Session 4
+    start-time: "15:45"
+    end-time: "17:30"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: End of the day
+    start-time: "17:30"
+    end-time: "17:30"
+    session-type: "break event"
 
-schedule:
-  - day: Monday 22nd November
-    contents:
-      - session: Poster Session 1 (Morning)
-        start-time: "10:00"
-        end-time: "11:00"
-        data: "[DATA]"
-        session-id: 2
-        poster-session-id: 1
-        conference-session: "P1S1"
-      - session: Conference Welcome
-        start-time: "11:00"
-        end-time: "11:05"
-        data: "[DATA]"
-      - session: Keynote Talk 1
-        start-time: "11:05"
-        end-time: "12:05"
-        data: "[DATA]"
-        keynote-id: keynote-1
-      - session: Oral Session 1
-        title: "Multimodal Learning"
-        start-time: "13:00"
-        end-time: "14:00"
-        data: "[DATA]"
-        session-id: 0
-        conference-session: "O1"
-      - session: Oral Session 2
-        title: "3D"
-        start-time: "14:30"
-        end-time: "15:30"
-        data: "[DATA]"
-        session-id: 1
-        conference-session: "O2"
-      - session: Poster Session 1 (Afternoon)
-        start-time: "16:00"
-        end-time: "17:00"
-        data: "[DATA]"
-        session-id: 2
-        conference-session: "P1S2"
-  - day: Tuesday 23rd November
-    contents:
-      - session: Poster Session 2 (Morning)
-        start-time: "10:00"
-        end-time: "11:00"
-        data: "[DATA]"
-        session-id: 5
-        poster-session-id: 2
-        conference-session: "P2S1"
-      - session: Oral Session 3
-        title: "Action Recognition"
-        start-time: "11:00"
-        end-time: "12:00"
-        data: "[DATA]"
-        session-id: 3
-        conference-session: "O3"
-      - session: Oral Session 4
-        title: "Recognition"
-        start-time: "13:00"
-        end-time: "14:00"
-        data: "[DATA]"
-        session-id: 4
-        conference-session: "O4"
-      - session: Poster Session 2 (Afternoon)
-        start-time: "14:30"
-        end-time: "15:30"
-        data: "[DATA]"
-        session-id: 5
-        conference-session: "P2S2"
-      - session: Keynote Talk 2
-        start-time: "16:00"
-        end-time: "17:00"
-        data: "[DATA]"
-        keynote-id: keynote-2
-  - day: Wednesday 24th November
-    contents:
-      - session: Poster Session 3 (Morning)
-        start-time: "10:00"
-        end-time: "11:00"
-        data: "[DATA]"
-        session-id: 8
-        poster-session-id: 3
-        conference-session: "P3S1"
-      - session: Oral Session 5
-        title: "Synthesis / Analysis"
-        start-time: "11:00"
-        end-time: "12:00"
-        data: "[DATA]"
-        session-id: 6
-        conference-session: "O5"
-      - session: "Prizes, Feedback and Ideas for the Future of the BMVA"
-        title: "BMVC Awards, Feedback and Discussions"
-        start-time: "12:10"
-        end-time: "12:50"
-        data: "[DATA]"
-        local-url: "/conference/town-hall/"
-      - session: Oral Session 6
-        title: "Recognition"
-        start-time: "13:00"
-        end-time: "14:00"
-        data: "[DATA]"
-        session-id: 7
-        conference-session: "O6"
-      - session: Keynote Talk 3
-        start-time: "14:30"
-        end-time: "15:30"
-        data: "[DATA]"
-        keynote-id: keynote-3
-      - session: Poster Session 3 (Afternoon)
-        start-time: "16:00"
-        end-time: "17:00"
-        data: "[DATA]"
-        session-id: 8
-        conference-session: "P3S2"
-  - day: Thursday 25th November
-    contents:
-      - session: Poster Session 4 (Morning)
-        start-time: "10:00"
-        end-time: "11:00"
-        data: "[DATA]"
-        session-id: 11
-        poster-session-id: 4
-        conference-session: "P4S1"
-      - session: Oral Session 7
-        title: "Image Enhancement"
-        start-time: "11:00"
-        end-time: "12:00"
-        data: "[DATA]"
-        session-id: 9
-        conference-session: "O7"
-      - session: Oral Session 8
-        title: "Representation Learning"
-        start-time: "13:00"
-        end-time: "14:00"
-        data: "[DATA]"
-        session-id: 10
-        conference-session: "O8"
-      - session: Keynote Talk 4
-        start-time: "14:30"
-        end-time: "15:30"
-        data: "[DATA]"
-        keynote-id: keynote-4
-      - session: Poster Session 4 (Afternoon)
-        start-time: "16:00"
-        end-time: "17:00"
-        data: "[DATA]"
-        session-id: 11
-        conference-session: "P4S2"
+wednesday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "Room: M1"
+  - session: Keynote - Laura Sevilla
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Room: M1"
+  - session: Doctoral Consortium
+    start-time: "10:00"
+    end-time: "13:00"
+    session-type: "workshop"
+    data: "Room: M2"
+  - session: Robust Recognition in the Open World
+    start-time: "09:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M3"
+  - session: Poster Session 5
+    start-time: "10:00"
+    end-time: "11:45"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: Oral Session 4 - Machine Vision in Challenging Scenarios
+    start-time: "11:45"
+    end-time: "13:00"
+    session-type: "oral"
+    data: "Room: M1"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+    data: "Room: Hall 2"
+  - session: "DIFA: Deep Learning-based Image Fusion and Its Applications"
+    start-time: "14:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M2"
+  - session: Oral Session 5 - Image Quality Algorithms
+    start-time: "14:00"
+    end-time: "15:15"
+    session-type: "oral"
+    data: "Room: M1"
+  - session: Poster Session 6
+    start-time: "15:15"
+    end-time: "17:00"
+    session-type: "poster"
+    data: "Room: Hall 2"
+  - session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "break event"
+  - session: Gala Dinner
+    start-time: "19:00"
+    end-time: "24:00"
+    session-type: "ceremony event"
+    data: "Glasgow Science Centre, 50 Pacific Quay, Glasgow G51 1EA"
 
-
-      # - session: "Chat with Snap Research"
-      #   title: "Hear more about what our World AR team in London is working on"
-      #   start-time: "16:00"
-      #   end-time: "17:00"
-      #   data: "[DATA]"
-      #   local-url: "/conference/snap-inc/#careers-and-collaboration"
-      # - session: "Computer Vision at AWS"
-      #   title: "A conversation with Research Leaders Rahul Bhotika, Joe Tighe and Avinash Ravichandran"
-      #   start-time: "18:00"
-      #   end-time: "19:00"
-      #   data: "[DATA]"
-      #   local-url: "/conference/amazon/#chat-with-amazon"
-
-
-# - type: Camera Ready Paper Submission
-#   title: 
-#   date: 2020-08-13
-
-# - type: Virtual Conference Video Submission
-#   title: 
-#   date: 2020-08-20
-
-# - type: BMVC Virtual Conference Starts
-#   title: 
-#   date: 2020-09-07
-
-# - type: BMVC Virtual Conference Ends
-#   title: 
-#   date: 2020-09-10
-
-
-
-
-
-#   09-11 Morning poster session (16-18 Shanghai, 17-19 Tokyo)
-# 11-12 Morning oral session
-# 12-13 Lunch
-# 13-14 Afternoon oral session
-# 14-14:30 Break / discussions / Q&A
-# 14:30-15:30 Keynote session
-# 15:30-16 Break / discussions / Q&A
-# 16-18 Afternoon poster session (08-10 Seattle, 11-13 Boston)
+thursday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "Room: M1"
+  - session: Keynote - Federico Tombari
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Room: M1"
+  - session: Media authenticity in the age of artificial intelligence
+    start-time: "09:00"
+    end-time: "13:00"
+    session-type: "workshop"
+    data: "Room: M2"
+  - session: Privacy, Fairness, Accountability and Transparency in Computer Vision
+    start-time: "09:00"
+    end-time: "13:00"
+    session-type: "workshop"
+    data: "Room: M4"
+  - session: The 2nd Workshop in Video Understanding and its Applications
+    start-time: "09:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M3"
+  - session: Town Hall
+    start-time: "10:00"
+    end-time: "11:00"
+    session-type: "meeting event"
+    data: "Room: M1"
+  - session: Workshops Posters
+    start-time: "11:00"
+    end-time: "13:30"
+    session-type: "ws_poster"
+    data: "Room: Hall 2"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+    data: "Room: Hall 2"
+  - session: Workshops Posters
+    start-time: "14:00"
+    end-time: "17:00"
+    session-type: "ws_poster"
+    data: "Room: Hall 2"
+  - session: Workshop on Machine Vision for Earth Observation and Environment Monitoring
+    start-time: "14:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M4"
+  - session: "Synthetic Realities and Biometric Security: Advances in Forensic Analysis and Threat Mitigation (SRBS)"
+    start-time: "14:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M1"
+  - session: "1st Workshop on Advancing Non-invasive Human Motion Characterization in the Clinical Domain: Methods and Applications"
+    start-time: "14:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M2"
+  # - session: Poster Awards
+  #   start-time: "17:00"
+  #   end-time: "17:30"
+  #   session-type: "ceremony event"
+  #   data: "Room: TBC"
+  - session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "break event"
