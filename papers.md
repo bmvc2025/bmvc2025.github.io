@@ -4,6 +4,7 @@ title: Papers
 permalink: /papers/
 index: 20
 ---
+
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left">
     <table class="table table-striped table-bordered" style="">
         <tbody>
@@ -376,9 +377,6 @@ index: 20
 <tr id="paper"><td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1063</strong></span></td><td><strong><a href="https://bmvc2022.mpi-inf.mpg.de/1063/">Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images</a></strong><br />Mazen Mel (University of Padua); Alexander Gatto (Sony Europe B.V.); Pietro Zanuttigh (University of Padova)<br /><a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1063.pdf" role="button">PDF</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1063_poster.pdf" role="button">Poster</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1063_video.mp4" role="button">Video</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1063_supp.zip" role="button">Supplementary</a>&nbsp;</td></tr>
 <tr id="paper"><td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1071</strong></span></td><td><strong><a href="https://bmvc2022.mpi-inf.mpg.de/1071/">Mutual Contrastive Low-rank Learning to Disentangle Whole Slide Image Representations for Glioma Grading</a></strong><br />Lipei Zhang (University of Cambridge); Yiran Wei (University of Cambridge); Ying Fu (Beijing Institute of Technology); Stephen J. Price (University of Cambridge); Carola-Bibiane B Schönlieb (Cambridge University); Chao Li (University of Cambridge)<br /><a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1071.pdf" role="button">PDF</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1071_poster.pdf" role="button">Poster</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1071_video.mp4" role="button">Video</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://github.com/uceclz0/MCL_glioma_grading" role="button">Code</a>&nbsp;</td></tr>
 <tr id="paper"><td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1083</strong></span></td><td><strong><a href="https://bmvc2022.mpi-inf.mpg.de/1083/">Sampling Based On Natural Image Statistics Improves Local Surrogate Explainers</a></strong><br />Ricardo Kleinlein (Universidad Politécnica de Madrid); Alexander Hepburn (University of Bristol); Raul Santos Rodriguez (University of Bristol); Fernando Fernández-Martínez  (Universidad Politécnica de Madrid)<br /><a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1083.pdf" role="button">PDF</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1083_poster.pdf" role="button">Poster</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="https://bmvc2022.mpi-inf.mpg.de/1083_video.mp4" role="button">Video</a>&nbsp;</td></tr>
- 
-   
-       
         </tbody>
     </table>
 </div>

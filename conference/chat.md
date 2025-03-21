@@ -7,7 +7,6 @@ index: 30
 
 <div class="container mb-3 pb-3">
 	<div class="tabs">
-
 		<ul class="nav nav-pills justify-content-center">
 			<li class="nav-item">
 				<a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>

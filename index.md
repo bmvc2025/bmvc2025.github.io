@@ -9,14 +9,15 @@ title: Home
 <p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
 
 <div class="alert mt-3 alert-info" style="">
-    <p><strong>BMVC 2025 conference and workshop proceedings are now online!</strong> You can found them at: <a href="https://bmvc2024.org/proceedings/conference-proceedings/">[Conference]</a> and <a href="https://bmvc2024.org/proceedings/workshop-proceedings/">[Workshops].</a></p>
-    <p><strong>The list of outstanding reviewers can be found at: <a href="{{ site.baseurl }}{% link people/reviewers.md %}">[link]</a></strong></p>
-    <p>Glasgow Convention Bureau has negotiated <strong>discounted rates with a wide range of hotels</strong>. More information at: <a href="{{ site.baseurl }}{% link attending/plan-your-visit.md %}">[link]</a></p>
-    <p><strong>The list of accepted papers is now avialable at: <a href="{{ site.baseurl }}{% link programme/accepted_papers.md %}">[link]</a></strong></p>
+    <!-- <p><strong>BMVC 2025 conference and workshop proceedings are now online!</strong> You can found them at: <a href="https://bmvc2024.org/proceedings/conference-proceedings/">[Conference]</a> and <a href="https://bmvc2024.org/proceedings/workshop-proceedings/">[Workshops].</a></p> -->
+    <!-- <p><strong>The list of outstanding reviewers can be found at: <a href="{{ site.baseurl }}{% link people/reviewers.md %}">[link]</a></strong></p> -->
+    <!-- <p>Glasgow Convention Bureau has negotiated <strong>discounted rates with a wide range of hotels</strong>. More information at: <a href="{{ site.baseurl }}{% link attending/plan-your-visit.md %}">[link]</a></p> -->
+    <!-- <p><strong>The list of accepted papers is now avialable at: <a href="{{ site.baseurl }}{% link programme/accepted_papers.md %}">[link]</a></strong></p> -->
     <!-- <p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p> -->
-    <p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p>
-    <p>BMVC'25 will be held in Sheffield at the <a href="https://www.sec.co.uk/">Scottish Event Campus</a>!</p>
+    <!-- <p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p> -->
+    <!-- <p>BMVC'25 will be held in Sheffield at the <a href="https://www.sec.co.uk/">Scottish Event Campus</a>!</p> -->
 </div>
+
 
 <!-- ## Call for Area Chairs and Reviewers
 
@@ -30,8 +31,6 @@ title: Home
 
 <p class="text-justify">The 36th BMVC will be held from Xth - Xth November 2025. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
 
-<!-- [call for papers]({{site.baseurl}}{% link calls/call-for-papers.md %}) -->
-
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link calls/call-for-papers.md %}">Call for Papers</a></p>
@@ -43,6 +42,7 @@ title: Home
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/author-guidelines.md %}">Author Guidelines</a></p>
     </div> 
 </div>
+
 
 ## About the BMVC
 

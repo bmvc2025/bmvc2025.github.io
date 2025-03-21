@@ -5,6 +5,8 @@ permalink: /programme/keynotes/
 index: 5
 ---
 
+{% comment %} 
+
 <div class="row justify-content-around pl-4 pr-4">
     <div class="col-12">
         <!-- 4th keynote speaker -->
@@ -125,3 +127,5 @@ index: 5
         </div>
     </div>
 </div>
+
+{% endcomment %} 

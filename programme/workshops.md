@@ -5,7 +5,7 @@ permalink: /programme/workshops/
 index: 15
 ---
 
-<!-- <h4>From the 27th to 28th of November, 2024</h4> -->
+{% comment %} 
 
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
@@ -36,8 +36,6 @@ index: 15
 </div>
 
 ---
-
-<!-- <h4>XXXX, XX November 2024</h4> -->
 
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
@@ -144,3 +142,5 @@ index: 15
         <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2163.4319531046876!2d-2.1041544229671674!3d57.16386598243411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48840e0feaf19727%3A0xeea5297ff532400a!2sKing&#39;s%20College!5e0!3m2!1sen!2sus!4v1698418531882!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
     </div>
 </div>
+
+{% endcomment %} 

@@ -31,7 +31,6 @@ The submission portal will be available from the Xnd of April, 2025.
     </div>
 </div> -->
 
-
 Topics include, but are not limited to:
 
 - 3D from X
@@ -74,6 +73,7 @@ Topics include, but are not limited to:
 - Visual reasoning and logical representation
 
 Papers submitted under the "Brave new ideas" subject area are expected to move away from incremental benchmark gains. Proposed ideas should radically differ from the current research strand or propose a novel problem.
+
 
 ### Reviewing Process for BMVC 2025
 

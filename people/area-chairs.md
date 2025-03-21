@@ -7,7 +7,6 @@ index: 1
 
 The conference [organisers]({{site.baseurl}}{% link people/organisers.md %}) would like to extend their gradititude to all the area chairs who worked very hard to currate both the reviewing process and the final conference programme.
 
-
 <style id="MetaReviewers-20231102-1_10037_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
