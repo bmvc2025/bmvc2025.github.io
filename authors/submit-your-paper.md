@@ -5,13 +5,6 @@ permalink: /authors/submit-your-paper/
 index: 2
 ---
 
-<!-- ## How to NOT get your paper rejected -->
-
-<!-- We invite authors to familiarise with the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.** -->
-<!-- Below, you can find a summary of the main points of this policy. -->
-
-<!-- --- -->
-
 ## Abstract and Paper Submission
 
 <p>Abstract and paper submission are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in Openreview if this is your first time using Openreview. The submission portal will be available from April 2nd, 2024 at 23:59 GMT.</p>
@@ -29,8 +22,8 @@ index: 2
 
 Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submission.
 
----
 
+---
 ## Formatting your paper
 
 A complete paper should be submitted according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). 
@@ -84,9 +77,10 @@ Supplementary material is to be submitted by the [supplemental material deadline
 
 <!-- <p style="text-align: center;"><a class="btn btn-primary" role="button" href="" disabled>Submit your Paper via OpenReview</a></p> -->
 
----
 
+---
 ## Camera ready copy (for accepted papers)
+
 Camera-ready submissions for accepted papers can be completed via Openreview (https://openreview.net/group?id=bmva.org/BMVC/2024/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
 
 * Final camera-ready paper (in PDF format)

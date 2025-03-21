@@ -4,9 +4,9 @@ title: Presentating at BMVC
 permalink: /authors/instructions-for-presenting-at-bmvc/
 ---
 
-These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2024 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.
+These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2025 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.
 
-**The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
+**The deadline for uploading videos and posters is 23:59 GMT on November Xst, 2025.**
 
 ## Contents
 * Posters
@@ -14,16 +14,17 @@ These instructions provide details on how to prepare and upload video summaries 
 * Uploading your e-poster and videos
 * Oral presentations
 
----
 
+---
 ## Posters
 
-All authors with accepted papers at BMVC 2024 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in portrait, A0 aspect ratio and no larger than 3 MB. Posters should be in portrait. 
+All authors with accepted papers at BMVC 2025 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in portrait, A0 aspect ratio and no larger than 3 MB. Posters should be in portrait. 
 
-For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from [https://bmvc2024.org](https://bmvc2024.org).
+For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2025.org/programme/programme/). We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2025 logo which can be downloaded from [https://bmvc2025.org](https://bmvc2025.org).
 
 
 **We will not have facilities to print posters, so participants are asked to bring their posters.**
+
 
 ## Video summaries
 
@@ -35,9 +36,11 @@ Authors of papers accepted as orals and posters are strongly encouraged to prepa
 
 Please note that the video presentation will be publicly available in the conference proceedings. If you are uncomfortable showing your face to the public, please do not record your face during the video presentation.
 
+
 ## Uploading your e-poster and videos
 
-Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. **The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
+Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. **The deadline for uploading videos and posters is 23:59 GMT on November Xst, 2025.**
+
 
 ## Oral presentations
 

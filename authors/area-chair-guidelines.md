@@ -5,8 +5,6 @@ permalink: /authors/area-chair-guidelines/
 index: 4
 ---
 
-<!-- <center><h1> BMVC Area Chair Guidelines</h1></center> -->
-
 ## Contents
 * Introduction
 * Desk rejections of papers
@@ -14,13 +12,13 @@ index: 4
 * Discussion period
 * Making a decision
 
----
 
+---
 ## Introduction
 
-These guidelines are inspired by [CVPR’2024 Author Guidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines). BMVC Programme Chairs adapted these guidelines to achieve the goals of BMVC 2024.
+These guidelines are inspired by [CVPR’2025 Author Guidelines](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines). BMVC Programme Chairs adapted these guidelines to achieve the goals of BMVC 2025.
 
-Thank you for volunteering your time to serve as area chair for BMVC 2024! As an area chair, you will play a crucial role in helping us maintain the high reviewing standards of the conference. We expect you to have at least two years' experience as a postdoc or faculty, and to regularly publish in the lead computer vision venues (e.g. Google Scholar's top 20 venues for computer vision and pattern recognition). You will work alongside the Program Chairs to make BMVC 2024 a success and help shape the future of computer vision research.
+Thank you for volunteering your time to serve as area chair for BMVC 2025! As an area chair, you will play a crucial role in helping us maintain the high reviewing standards of the conference. We expect you to have at least two years' experience as a postdoc or faculty, and to regularly publish in the lead computer vision venues (e.g. Google Scholar's top 20 venues for computer vision and pattern recognition). You will work alongside the Program Chairs to make BMVC 2025 a success and help shape the future of computer vision research.
 
 Please note we expect all ACs to take a proactive role in ensuring papers receive high-quality reviews and meta-reviews. Therefore, you must commit to being available and responsive during the relevant parts of the review period. **You must ensure availability for the periods of the 10th May to 1st of July** and take particular note of the following deadlines:
 
@@ -30,8 +28,8 @@ Please note we expect all ACs to take a proactive role in ensuring papers receiv
 * **14th - 21st of June:** review consolidation and discussion period.
 * **1st of July:** submission of the meta-reviews for all papers.
 
----
 
+---
 ## Desk rejections of papers (10th - 15th of May)
 
 Papers for which one of the following is true should be flagged by ACs and desk rejected:
@@ -51,8 +49,8 @@ Papers for which one of the following is true should be flagged by ACs and desk 
 
 Additionally, **double submission is prohibited**, so if it comes to your knowledge or is pointed out by a reviewer that a paper has been submitted for consideration in another venue, the paper should be flagged for desk rejection to the PCs.
 
----
 
+---
 ## Evaluation of received reviews (3rd of June then 10th of June)
 
 At the end of the review period, ACs will do a first evaluation of the received reviews to identify **i) missing reviews** and **ii) low-quality reviews**.
@@ -72,8 +70,8 @@ If you identify a low-quality review, you have to query for complement and clari
 
 **Note 2:** The fact that a proposed method does not exceed the state-of-the-art accuracy on an existing benchmark dataset **is not grounds for rejection by itself**. Instead, it is important to weigh both the novelty and potential impact of the work alongside the reported performance. Minor flaws should not be a reason to reject a paper. Above all, you should be specific and detailed in your reviews.
 
----
 
+---
 ## Discussion period (14th - 21st of June)
 
 Once all reviews have been received and you have queried low-quality reviews for complement and clarification, the discussion period begins. In many instances, all reviewers will agree, and little discussion will be needed, but for some papers, the reviewers will strongly disagree either in their assessment of the paper or, in extreme cases, over factual assessments (e.g. the novelty of the approach or technical soundness).
@@ -86,8 +84,8 @@ After the review deadline, the AC of each paper will have to initiate and animat
 
 During the discussion, you should ensure you have all the arguments and facts to reach your decision and write the meta-review.
 
----
 
+---
 ## Making a decision (1st of July)
 
 <ul>
@@ -131,6 +129,6 @@ This paper was reviewed by three experts in the field. The reviewers raised the
 
 ##### 4. (Accept)
 
-Three experts in the field reviewed this paper. Based on their feedback, the decision was made to recommend it for acceptance to BMVC 2024. We congratulate the authors on their acceptance!
+Three experts in the field reviewed this paper. Based on their feedback, the decision was made to recommend it for acceptance to BMVC 2025. We congratulate the authors on their acceptance!
 
 <br/>

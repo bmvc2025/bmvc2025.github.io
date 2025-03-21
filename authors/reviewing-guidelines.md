@@ -12,20 +12,20 @@ index: 3
 * Ethics for Reviewing Papers
 * How to Write Good Reviews
 
----
 
+---
 ## Introduction
 
-These reviewing guidelines are inspired by the best practice from CVPR 2024 - for further details, please see the <a href="https://cvpr.thecvf.com/Conferences/2024/ReviewerGuidelines">CVPR Reviewer Guidlines</a>.
+These reviewing guidelines are inspired by the best practice from CVPR 2025 - for further details, please see the <a href="https://cvpr.thecvf.com/Conferences/2025/ReviewerGuidelines">CVPR Reviewer Guidlines</a>.
 
-Thank you for volunteering your time to review for BMVC 2024! To maintain a high-quality technical program, we rely very much on the time and expertise of our reviewers. This document explains what is expected of all members of the Reviewing Committee for BMVC 2024.
+Thank you for volunteering your time to review for BMVC 2025! To maintain a high-quality technical program, we rely very much on the time and expertise of our reviewers. This document explains what is expected of all members of the Reviewing Committee for BMVC 2025.
 
-**<span style="color:red">BMVC will implement a scoring system this year, where Area Chairs will rate each review submitted.</span>** Reviewers that fall below a quality threshold will not be acknowledged as being part of the Reviewing Committee for BMVC 2024. It is, therefore, important to familiarise yourself with these guidelines to ensure that you are providing a quality review that the research community would benefit from.
+**<span style="color:red">BMVC will implement a scoring system this year, where Area Chairs will rate each review submitted.</span>** Reviewers that fall below a quality threshold will not be acknowledged as being part of the Reviewing Committee for BMVC 2025. It is, therefore, important to familiarise yourself with these guidelines to ensure that you are providing a quality review that the research community would benefit from.
 
-To contact the Programme Chairs, please send emails to: <a href="mailto:programme-chairs@bmvc2024.org">programme-chairs@bmvc2024.org</a>
+To contact the Programme Chairs, please send emails to: <a href="mailto:programme-chairs@bmvc2025.org">programme-chairs@bmvc2025.org</a>
+
 
 ---
-
 ## Reviewing Timeline
 
 * **13th-15th of May:** Check your papers assigned to you
@@ -34,16 +34,16 @@ To contact the Programme Chairs, please send emails to: <a href="mailto:programm
 * **14th-21st of June:** ACs and reviewers discussion period
 * **21st of June:** Final review recommendation due
 
----
 
+---
 ## Reviewing In a Nutshell
 
 Each paper that is accepted should be technically sound and make a contribution to the field. Look for what is good or stimulating in the paper and what knowledge advancement it has made. We recommend that you embrace novel, brave concepts, even if they have not been tested on many datasets. For example, <strong>the fact that a proposed method does not exceed the state-of-the-art accuracy on an existing benchmark dataset is not grounds for rejection by itself.</strong> Rather, it is important to weigh both the novelty and potential impact of the work alongside the reported performance. Minor flaws should not be a reason to reject a paper. Above all, you should be specific and detailed in your reviews. Your discussion, more than your score, will help the authors, fellow reviewers, and Area Chairs understand the basis for your recommendation. You should include specific feedback on ways the authors can improve their papers.
 
-**It is worth noting that there will be no rebuttal period for BMVC 2024**. Therefore reviews should not ask for revisions and/or additional experiments but only evaluate the submitted paper as it stands.
+**It is worth noting that there will be no rebuttal period for BMVC 2025**. Therefore reviews should not ask for revisions and/or additional experiments but only evaluate the submitted paper as it stands.
+
 
 ---
-
 ## Check your papers (13th-15th of May)
 
 As soon as you get your reviewing assignment, please go through all the papers to make sure that (a) you have no obvious conflict of interest (see “Avoid Conflicts of Interest” below) and (b) you feel comfortable reviewing the paper assigned. <strong>If issues with either of these points arise, please get in touch with the Area Chair immediately </strong> as instructed in the detailed emails you will receive during the process.
@@ -52,8 +52,8 @@ As soon as you get your reviewing assignment, please go through all the papers t
 
 Please read the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) carefully to familiarise yourself with all official policies the authors are expected to follow. If you believe that a paper may violate any of these policies, please get in touch with the Area Chairs or Programme Chairs. In the meantime, proceed to review the paper, assuming no violation has taken place.
 
----
 
+---
 ## Ethics for Reviewing Papers
 
 #### Respect anonymity in the review process
@@ -90,8 +90,8 @@ As a reviewer of a BMVC paper, it is important for you to avoid any conflict of 
 
 Belittling or sarcastic comments have no place in the reviewing process. The most valuable comments in a review help the authors understand their work's shortcomings and how they might improve it. Write a courteous, informative, incisive, and helpful review that you would be proud to sign with your name (were it not anonymous).
 
----
 
+---
 ## How to Write Good Reviews
 
 <ul>
@@ -108,5 +108,3 @@ Belittling or sarcastic comments have no place in the reviewing process. The mos
 </ul>
 
 Finally, keep in mind that a thoughtful review benefits not only the authors but also yourself. Your reviews are read by other reviewers, especially the Area Chairs, in addition to the authors. Unlike the authors, the Area Chairs and Programme Committee know your identity. Being a helpful reviewer will generate goodwill towards you in the research community—and may even help you win an Outstanding Reviewer award.
-
-<br/>

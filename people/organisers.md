@@ -5,8 +5,11 @@ permalink: /people/organisers/
 index: 0
 ---
 
+{% comment %} 
+
 <h3>Organising Committee</h3>
 <br>
+
 
 <h4>General Chairs</h4>
 <br>
@@ -31,6 +34,7 @@ index: 0
 </div>
 <br>
 <br>
+
 
 <h4>Programme Chairs <a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;" hidden>programme-chairs@bmvc2024.org</a></h4>
 <br>
@@ -80,6 +84,7 @@ index: 0
 <br>
 <br>
 
+
 <h4>Technical Program Chairs<a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;" hidden>programme-chairs@bmvc2024.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -103,6 +108,7 @@ index: 0
 </div>
 <br>
 <br>
+
 
 <h4>Industrial / Keynote Chairs</h4>
 <br>
@@ -128,6 +134,7 @@ index: 0
 <br>
 <br>
 
+
 <h4>Workshop Chairs</h4>
 <!-- <p>Contact: <a href="mailto:workshop-chairs@bmvc2023.org">workshop-chairs@bmvc2023.org</a></p> -->
 <br>
@@ -151,6 +158,7 @@ index: 0
 </div>
 <br>
 <br>
+
 
 <h4>Local Arrangement Chairs</h4>
 <br>
@@ -221,10 +229,10 @@ index: 0
     </div>
 </div>
 
-
 </div>
 <br>
 <br>
+
 
 <h4>Social Media Chairs</h4>
 <br>
@@ -283,6 +291,7 @@ index: 0
 <br>
 <br>
 
+
 <h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -300,3 +309,5 @@ index: 0
 {% endfor %}
 
 </div>
+
+{% endcomment %} 
