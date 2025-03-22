@@ -26,8 +26,8 @@ a.anchor { display: block; position: relative; top: -150px; visibility: hidden; 
 }
 .btn-primary:hover{
   color:#fff;
-  background-color:#9ADBE8;
-  border-color:#9ADBE8
+  background-color:#1D004D;
+  border-color:#1D004D
 }
 
 .dropdown-item:hover{
@@ -41,11 +41,11 @@ a.anchor { display: block; position: relative; top: -150px; visibility: hidden; 
 }
 
 a {
-	color: #9ADBE8;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
+	color: #1D004D;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
 }
 
 a:hover {
-	color: #9ADBE8;/*#555676; /*#3D5B67;/*#3D5B67;*/
+	color: #1D004D;/*#555676; /*#3D5B67;/*#3D5B67;*/
 }
 
 /*
