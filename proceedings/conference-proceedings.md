@@ -4,6 +4,8 @@ title: Proceedings
 permalink: /proceedings/conference-proceedings/
 ---
 
+{% comment %} 
+
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left">
         <table class="table table-striped table-bordered">
                 <tbody>
@@ -4477,3 +4479,5 @@ permalink: /proceedings/conference-proceedings/
                         href="mailt:bmvc@bmvc2024.org">bmvc@bmvc2024.org</a></p>
 
 </div>
+
+{% endcomment %} 
