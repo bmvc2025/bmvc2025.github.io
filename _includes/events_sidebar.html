@@ -1,10 +1,11 @@
 <div class="card mt-2">
-  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a>
-  </h5>
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
+
   <div class="container">
     {% for group in grouped_sponsors %}
     <div class="row mt-1 mb-1 justify-content-around align-items-center">
+
       <div class="col-12">
         {% if group.name == 'Gold' or group.name == 'Platinum' %}
         <b>{{-group.name-}}&nbsp;Sponsors:</b>
@@ -12,18 +13,17 @@
         <b>{{-group.name-}}&nbsp;:</b>
         {% endif %}
       </div>
+    
       {% for item in group.items %}
-      <!--<div class="col mb-1 text-center" style="padding-left: 10px; padding-right: 10px">-->
       <a href="{{item.url}}" target="_blank"><img src="{{ site.baseurl }}/imgs_2025/sponsors_logo/{{item.logo}}"
           class="img-fluid" alt="{{ item.id }}" style="max-height: 50px;"></a>
-      <!--</div>-->
       {% endfor %}
+
     </div>
     {% endfor %}
   </div>
 </div>
 <br>
-
 
 <div class="card">
   <h5 class="card-header" style="text-align: center;">News</h5>
