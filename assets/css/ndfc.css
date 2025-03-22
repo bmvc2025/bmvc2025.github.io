@@ -16,36 +16,36 @@
 a.anchor { display: block; position: relative; top: -150px; visibility: hidden; }
 
 .bg-primary{
-  background-color:#003865!important
+  background-color:#440099!important
 }
 
 .btn-primary{
   color:#fff;
-  background-color:#003865;
-  border-color:#003865
+  background-color:#440099;
+  border-color:#440099
 }
 .btn-primary:hover{
   color:#fff;
-  background-color:#0268bb;
-  border-color:#0268bb
+  background-color:#9ADBE8;
+  border-color:#9ADBE8
 }
 
 .dropdown-item:hover{
   color:#ffffff;
   text-decoration:none;
-  background-color:#003865
+  background-color:#440099
 }
 
 .ndfc-brand {
-	color: #003865;/*#555676; /*#EF8232;*/ /*Dark colour - 7F004B*/
+	color: #440099;/*#555676; /*#EF8232;*/ /*Dark colour - 7F004B*/
 }
 
 a {
-	color: #0268bb;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
+	color: #9ADBE8;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
 }
 
 a:hover {
-	color: #0268bb;/*#555676; /*#3D5B67;/*#3D5B67;*/
+	color: #9ADBE8;/*#555676; /*#3D5B67;/*#3D5B67;*/
 }
 
 /*
