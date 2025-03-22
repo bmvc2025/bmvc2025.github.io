@@ -24,24 +24,29 @@
 
 
 timezone: Europe/London
-title: The 35th British Machine Vision Conference 2024
-formatted-title: The 35<sup>th</sup> British Machine Vision Conference
-brand: BMVC&thinsp;2024
-short-title: "BMVC 2024"
-conf_year: 2024
-email: bmvc@bmvc2024.org
+title: The 36th British Machine Vision Conference 2025
+formatted-title: The 36<sup>th</sup> British Machine Vision Conference
+brand: BMVC&thinsp;2025
+short-title: "BMVC 2025"
+conf_year: 2025
+email: bmvc2025@gmail.org
 #bmvc2024@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website is for the 35th British Machine Vision Conference. 25th - 28th November 2024, Glasgow, UK.
+  The website is for the 36th British Machine Vision Conference. Xth - Xth November 2025, Sheffield, UK.
+
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
 #baseurl: "/"
 #url: "http://bmvc2021.ndfcampbell.org"
+
 baseurl: ""
-url: "https://www.bmvc2024.org"
-conf-url: "https://www.bmvc2024.org"
-chat-url: "https://chat.bmvc2024.org"
-logo: "/assets/images/layout/bmvc-2024.png"
+url: "https://www.bmvc2025.github.io"
+conf-url: "https://www.bmvc2025.github.io"
+chat-url: "https://www.bmvc2025.github.io"
+
+logo: "/assets/images/layout/bmvc-2025.png"
+
 #twitter_username: BMVCconf
 twitter_username: BMVCconf
 github_username:  BritishMachineVisionAssociation
@@ -51,9 +56,9 @@ github_username:  BritishMachineVisionAssociation
 deadline-time: "23:59 GMT"
 
 #cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
-bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
+bmva-event-url: "https://www.bmva.org/"
 
-dates: 25<sup>th</sup> - 28<sup>th</sup> November 2024
+dates: X<sup>th</sup> - X<sup>th</sup> November 2025
 
 author: BMVC PCs
 
@@ -70,9 +75,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 #  - jekyll-liquid
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
