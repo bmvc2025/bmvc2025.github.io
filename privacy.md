@@ -16,9 +16,8 @@ However, we use the following services that might require the use of cookies and
 - ClustrMaps \[[privacy policy](https://clustrmaps.com/policy)\]
 - Twitter \[[privacy policy](https://twitter.com/en/privacy)\]
 
-<!-- TODO: EMAIL ADDRESS -->
 Contact information:
-<privacy@bmvc2023.org>
+<bmvc2025@gmail.com>
 
 
 ## About the BMVC

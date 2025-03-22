@@ -44,7 +44,7 @@ permalink: /sponsors/
         <li class="list-inline-item">
             <div class="image-block text-center">
                 <a href="{{item.url}}" target="_blank" >
-                    <img src="{{ site.baseurl }}/imgs_2024/sponsors_logo/{{ item.logo }}" alt="sponsors-logo" class="img-fluid" style="max-height: 300px;">
+                    <img src="{{ site.baseurl }}/imgs_2025/sponsors_logo/{{ item.logo }}" alt="sponsors-logo" class="img-fluid" style="max-height: 300px;">
                 </a>
             </div>
         </li>
