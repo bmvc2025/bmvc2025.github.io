@@ -111,7 +111,7 @@ exclude:
   - attending/guides.md  
   # - attending/plan-your-visit.md 
   - attending/registration_old.md
-  - attending/registration.md
+  # - attending/registration.md
   - attending/student-funding.md
   - attending/venue.md
 
