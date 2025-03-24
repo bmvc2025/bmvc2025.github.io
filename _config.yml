@@ -99,7 +99,8 @@ exclude:
   - authors/submit-your-paper-old.md
 
   - people/area-chairs.md
-  - people/emergency-reviewers.md  
+  - people/emergency-reviewers.md
+  # TODO: fix the problem  
   - people/reviewers.md
   - people/volunteers.md
 

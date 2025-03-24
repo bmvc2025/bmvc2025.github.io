@@ -5,6 +5,8 @@ permalink: /people/reviewers/
 index: 2
 ---
 
+{% comment %} 
+
 <style>
 table {
     width: 600px;
@@ -29,8 +31,6 @@ table td {
     border: 1px solid;
 }
 </style>
-
-{% comment %} 
 
 <div>
 The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organisers</a> would like to extend their gradititude to all those reviewers who worked very hard to review and discuss conference submissions. Reviewers listed below were considered by the Area Chairs to have provided high-quality or outstanding reviews as per our <a href="{{site.baseurl}}{% link authors/reviewing-guidelines.md %}">reviewing guidelines</a>. There were 860 registered reviewers for BMVC 2025.
