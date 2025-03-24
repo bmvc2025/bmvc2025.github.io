@@ -6,8 +6,6 @@ pages:
   - title: Calls
     url: /calls/
     dropdown: true
-  #- title: Keynotes
-  #  url: /keynotes/
   # - title: Attending
   #   url: /attending/
   #   dropdown: true

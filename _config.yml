@@ -82,67 +82,39 @@ plugins:
 # to override the default setting.
 exclude:
   - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - assets/multipagethumb.sh
-  - assets/thumbnail_script.sh
-  - copy_to_aws.sh
-  - old/
+
   - conference/
-  - programme/oral.md
+
+  - programme/oral.md  
   - programme/paper-awards.md
-  - programme/accepted-papers.md
   - programme/papers.md
   - programme/poster.md
   - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
-  - proceedings/create_all.py
-  - proceedings/CameraReadyPapers.py
-  # - proceedings/workshop-proceedings.md
-  # - programme/workshops.md
-  - old_index.md
-  - attending/guides.md
-  # - attending/code-of-conduct.md
-  - attending/about-the-city.md
-  # - attending/plan-your-visit.md
-  - attending/student-funding.md
-  - attending/registration_old.md
-  - sponsorship_backup.md
-  # - authors/instructions-for-presenting-authors.md
-  - index_v0.md
-  # - calls/doctoral-consortium.md
-  - authors/rebuttal-instructions.md
-  # - authors/reviewing-guidelines-new.md
+
   - authors/faq.md
-  - authors/submit-your-paper-old.md
+  - authors/rebuttal-instructions.md  
   - authors/reviewing-guidelines-old.md
-  # - authors/area-chair-guidelines.md
+  - authors/submit-your-paper-old.md
+
   - people/area-chairs.md
-  - people/emergency-reviewers.md
+  - people/emergency-reviewers.md  
+  - people/organisers.md
   - people/volunteers.md
 
-#main_sponsors:
-#  - name: IAPR
-#    url: http://www.iapr.org/
-#    logo: /img/affiliates/logo-iapr.png
-#sponsors:
-#  - name: BCS
-#    url: http://bcs.org.uk/
-#    logo: /img/affiliates/logo-bcs.png
-#  - name: IET
-#    url: http://www.theiet.org/
-#    logo: /img/affiliates/logo-iet.jpg
-#  - name: UKIVA
-#    url: http://www.ukiva.org/
-#    logo: /img/affiliates/logo-ukiva.jpg
-#  - name: AVA
-#    url: http://www.theava.net/
-#    logo: /img/affiliates/logo-ava.jpg
-# webrick:
-#   headers:
-#     content-disposition: attachment
+  - proceedings/create_all.py
+  - proceedings/CameraReadyPapers.xls
+  
+  - attending/about-the-city.md  
+  - attending/code-of-conduct.md
+  - attending/guides.md  
+  - attending/plan-your-visit.md  
+  - attending/registration_old.md
+  - attending/registration.md
+  - attending/student-funding.md
+  - attending/venue.md
+
+  - sponsorship_backup.md
+
+

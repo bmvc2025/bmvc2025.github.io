@@ -27,8 +27,8 @@ Proposals should include the following information:
 BMVC will cover the costs for rooms, coffee breaks, and A/V equipment. However, any other activities with budget implications will be the responsibility of the workshop organizers.
 
 <!-- TODO: EMAIL ADDRESS & GOOGLE FORM LINK -->
-For any questions, please get in touch with the workshop chairs via [workshop-chairs@bmvc2024.org](mailto:workshop-chairs@bmvc2024.org).
+For any questions, please get in touch with the workshop chairs via [workshop_email](mailto:workshop_email).
 
-Google Form link: [https://forms.gle/V7nxEkMwWHtrD7286](https://forms.gle/V7nxEkMwWHtrD7286)
+Google Form link: [workshop_google_form](workshop_google_form)
 
-<iframe src="https://forms.gle/V7nxEkMwWHtrD7286" width="670" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="workshop_google_form" width="670" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

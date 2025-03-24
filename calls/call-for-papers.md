@@ -88,4 +88,4 @@ Each paper will be reviewed by at least three reviewers. The Area Chair will pro
 Further information about the reviewing process can be found at the [Reviewing policies]({{site.baseurl}}{% link authors/reviewing-guidelines.md %}).
 
 <!-- TODO: EMAIL ADDRESS -->
-Any queries to the Programme Chairs should be sent to [programme-chairs@bmvc2024.org](mailto:programme-chairs@bmvc2024.org).
+Any queries to the Programme Chairs should be sent to [pc_email](mailto:pc_email).

@@ -5,6 +5,8 @@ permalink: /programme/accepted_papers/
 index: 5
 ---
 
+{% comment %} 
+
 Below is the list of accepted papers for BMVC 2025. Congratulations! You will receive an email with further information and the next steps soon!
 
 If your paper is not listed, it has been rejected. We understand how disappointing it can be to have a paper rejected—we've all been there. We hope the feedback from the reviews (when you receive the email) will provide valuable insights for revising the work and that you will consider resubmitting it in the future. 
@@ -12,6 +14,11 @@ If your paper is not listed, it has been rejected. We understand how disappointi
 This year, BMVC received X submissions of which X papers were accepted. Each paper had 3 reviews, including a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). Meta-reviews were verified by our Programme Chairs (PCs). All this was done while preserving author anonymity and avoiding domain conflicts.
 
 ---
+
+{% endcomment %} 
+
+
+{% comment %} 
 
 <head>
     <meta charset="UTF-8">
@@ -39,7 +46,7 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
     </style>
 </head>
 
-<!-- <table border="1">
+<table border="1">
 <thead>
 <tr><th>ID</th><th>Title</th></tr>
 </thead>
@@ -309,9 +316,9 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
 <tr><td>1013</td><td>Open-Vocabulary Temporal Action Localization using Multimodal Guidance</td></tr>
 <tr><td>1020</td><td>Recovering SLAM Tracking Lost by Trifocal Pose Estimation using GPU-HC++</td></tr>
 </tbody>
-</table> -->
+</table>
 
-<!-- <body>
+<body>
     <table>
         <thead>
             <tr>
@@ -365,7 +372,6 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
             <tr><td>986</td><td>987</td><td>991</td><td>998</td><td>1013</td><td>1020</td></tr>
         </tbody>
     </table>
-</body> -->
+</body>
 
-
-
+{% endcomment %} 

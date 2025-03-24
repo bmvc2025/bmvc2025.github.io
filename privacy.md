@@ -17,7 +17,7 @@ However, we use the following services that might require the use of cookies and
 - Twitter \[[privacy policy](https://twitter.com/en/privacy)\]
 
 Contact information:
-<bmvc2025@gmail.com>
+<!-- <bmvc2025@gmail.com> -->
 
 
 ## About the BMVC
