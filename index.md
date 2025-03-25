@@ -10,7 +10,6 @@ title: Home
 
 <div class="alert mt-3 alert-info" style="">
     <!-- <p><strong>BMVC 2025 conference and workshop proceedings are now online!</strong> You can found them at: <a href="https://bmvc2024.org/proceedings/conference-proceedings/">[Conference]</a> and <a href="https://bmvc2024.org/proceedings/workshop-proceedings/">[Workshops].</a></p> -->
-    <!-- <p><strong>The list of outstanding reviewers can be found at: <a href="{{ site.baseurl }}{% link people/reviewers.md %}">[link]</a></strong></p> -->
     <!-- <p>Glasgow Convention Bureau has negotiated <strong>discounted rates with a wide range of hotels</strong>. More information at: <a href="{{ site.baseurl }}{% link attending/plan-your-visit.md %}">[link]</a></p> -->
     <!-- <p><strong>The list of accepted papers is now avialable at: <a href="{{ site.baseurl }}{% link programme/accepted_papers.md %}">[link]</a></strong></p> -->
     <!-- <p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p> -->

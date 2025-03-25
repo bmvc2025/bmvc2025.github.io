@@ -101,7 +101,7 @@ exclude:
   - people/area-chairs.md
   - people/emergency-reviewers.md
   # TODO: fix the problem  
-  # - people/reviewers.md
+  - people/reviewers.md
   - people/volunteers.md
 
   - proceedings/create_all.py
