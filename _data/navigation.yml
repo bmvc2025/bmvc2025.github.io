@@ -6,9 +6,9 @@ pages:
   - title: Calls
     url: /calls/
     dropdown: true
-  # - title: Attending
-  #   url: /attending/
-  #   dropdown: true
+  - title: Attending
+    url: /attending/
+    dropdown: true
   - title: Programme
     url: /programme/
     dropdown: true

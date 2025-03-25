@@ -4,6 +4,9 @@ title: About the City
 permalink: /attending/about-the-city/
 ---
 
+
+{% comment %} 
+
 The following information will help you make the best of your visit to Sheffield, England, and its beautiful surroundings:
 
 - Visit Sheffield: <http://www.visitabdn.com/>
@@ -22,3 +25,5 @@ The following information will help you make the best of your visit to Sheffield
 <br>
 
 <embed src="../../files/aberdeen_brochure.pdf" width="95%" height="2100px" />
+
+{% endcomment %} 

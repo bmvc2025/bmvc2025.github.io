@@ -5,6 +5,9 @@ permalink: /attending/plan-your-visit/
 index: 1
 ---
 
+
+{% comment %} 
+
 ## Hotel Information
 
 **Now accepting reservations! Please see hotel information here: <https://book.passkey.com/go/BMVC2024>**
@@ -35,3 +38,5 @@ This is the city map illustrating addresses of hotels and public transport point
 <div style='display:block;width:40%;height:40%'>
     <img style='width:100%;height:100%' src="/imgs_2024/citymap/QR_code.png" alt="QR code">
 </div>
+
+{% endcomment %} 
