@@ -100,7 +100,6 @@ exclude:
 
   - people/area-chairs.md
   - people/emergency-reviewers.md
-  # TODO: fix the problem  
   - people/reviewers.md
   - people/volunteers.md
 
@@ -110,9 +109,9 @@ exclude:
   - attending/about-the-city.md  
   - attending/code-of-conduct.md
   - attending/guides.md  
-  # - attending/plan-your-visit.md 
+  - attending/plan-your-visit.md 
   - attending/registration_old.md
-  # - attending/registration.md
+  - attending/registration.md
   - attending/student-funding.md
   - attending/venue.md
 
