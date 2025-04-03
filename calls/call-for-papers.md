@@ -14,7 +14,7 @@ permalink: /calls/call-for-papers/
 </div>
 -->
 
-The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 36th BMVC will now be an **in-person** event from Xth—Xth November 2025 in Sheffield, UK. 
+The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 36th BMVC will now be an **in-person** event from 24th—27th November 2025 in Sheffield, UK. 
 
 Authors are invited to submit high-quality papers in image processing, computer vision, machine learning and related areas for BMVC 2025. Submitted papers will be refereed on originality, presentation, empirical results, and evaluation quality. Accepted papers will be included in the conference proceedings published and DOI-indexed by BMVA. Past proceedings are online at the [BMVA proceedings website](https://britishmachinevisionassociation.github.io/bmvc).
 
