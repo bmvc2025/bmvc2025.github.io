@@ -4,19 +4,19 @@ deadlines:
     tags:
       - key: Authors
   - title: Abstract Submission Deadline
-    date: 2025-05-02
+    date: 2025-05-09
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2025-05-09
+    date: 2025-05-16
     tags:
       - key: Authors
   - title: Supplementary Material Submission
-    date: 2025-05-09
+    date: 2025-05-16
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2025-05-19
+    date: 2025-05-26
     tags:
       - key: Reviewers
   - title: Workshop Acceptance Notification
@@ -24,35 +24,35 @@ deadlines:
     tags:
       - key: Authors
   - title: Reviews Submitted (for reviewers)
-    date: 2025-06-02
-    tags:
-      - key: Reviewers
-  - title: Reviews Submitted (for real)
     date: 2025-06-09
     tags:
       - key: Reviewers
+  - title: Reviews Submitted (for real)
+    date: 2025-06-16
+    tags:
+      - key: Reviewers
   - title: Start of AC/reviewer Discussion Period
-    date: 2025-06-13
+    date: 2025-06-20
     tags:
       - key: Reviewers
       - key: ACs
   - title: End of AC/reviewer Discussion Period
-    date: 2025-06-20
+    date: 2025-06-27
     tags:
       - key: Reviewers
       - key: ACs   
   - title: Reviewer Discussion & Final Reviews 
-    date: 2025-06-27
+    date: 2025-07-04
     tags:
       - key: Reviewers
       - key: ACs
   - title: Meta-Reviews Submitted
-    date: 2025-07-01
+    date: 2025-07-08
     tags:
       - key: ACs
       - key: PCs
   - title: Paper Decisions & Meta-Review Consolidation
-    date: 2025-07-11
+    date: 2025-07-18
     tags:
       - key: ACs
       - key: PCs
@@ -61,7 +61,7 @@ deadlines:
   #   tags:
   #     - key: Authors
   - title: Author Notifications
-    date: 2025-07-18
+    date: 2025-07-25
     tags:
       - key: Authors
   # - title: Doctoral Consortium Submission Close
