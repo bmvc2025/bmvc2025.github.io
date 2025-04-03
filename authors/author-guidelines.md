@@ -58,14 +58,7 @@ Given the growth in paper submissions, we expect all authors to be willing to se
 
 BMVC 2025 will use CMT to manage submissions. Consistent with the review process for previous BMVC conferences, submissions under review will be visible only to their assigned members of the program committee (programme chairs, area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
-Anyone who plans to submit a paper as an author or a co-author must create (or update) their CMT and Toronto Paper Matching System (TPMS) profiles by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the CMT and TPMS to match each manuscript to the best possible area chairs and reviewers. <!-- OpenReview author instructions can be found in the link below.
-
-<div class="row no-gutters pt-0 d-xs-block ">
-    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://docs.openreview.net/getting-started/creating-an-openreview-profile">Creating or Updating an OpenReview Profile</a></p>
-    </div>
-</div>
-//-->
+Anyone who plans to submit a paper as an author or a co-author must create (or update) their CMT and Toronto Paper Matching System (TPMS) profiles by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the CMT and TPMS to match each manuscript to the best possible area chairs and reviewers.
 
 PCs are facing a huge growth in submissions and are spending all their energies ensuring that papers find appropriate ACs and reviewers. For this reason, **PCs will NOT:**
 
@@ -86,7 +79,7 @@ All members of the program committee (program chairs, area chairs, and reviewers
 ---
 ## Conflict responsibilities
 
-Anyone who plans to submit a paper as an author or a co-author must create or update their CMT profile. You will be asked to declare domain conflicts. <!--two types of conflicts – domain and personal conflicts – by filling out appropriate sections of your CMT profile, as described on the CMT author instructions page.//-> If any author of a submission is found to have incomplete or inaccurate conflict information, the submission may be summarily rejected.
+Anyone who plans to submit a paper as an author or a co-author must create or update their CMT profile. You will be asked to declare domain conflicts. If any author of a submission is found to have incomplete or inaccurate conflict information, the submission may be summarily rejected.
 
 
 ---
