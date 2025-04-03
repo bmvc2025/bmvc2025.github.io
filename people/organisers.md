@@ -148,7 +148,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Cass_Zhixue_Zhao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Cass_Zhixue_Zhao.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/cass-zhixue-zhao">Cass Zhixue Zhao</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
@@ -173,7 +173,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Marjory_Da_Costa_Abreu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Marjory_Da_Costa_Abreu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/marjory-da-costa-abreu#firstSection">Marjory Da Costa Abreu (name)</a></h4>
         <p class="pb-2">Sheffield Hallam University</p>
     </div>
