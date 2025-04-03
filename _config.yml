@@ -92,6 +92,10 @@ exclude:
   - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
+  - programme/accepted_papers.md
+  - programme/keynotes.md
+  - programme/workshops.md
+  - programme/programme_glance.html
 
   - authors/faq.md
   - authors/rebuttal-instructions.md  
@@ -105,6 +109,8 @@ exclude:
 
   - proceedings/create_all.py
   - proceedings/CameraReadyPapers.xls
+  - proceedings/conference-proceedings.md
+  - proceedings/workshop-proceedings.md
   
   - attending/code-of-conduct.md
   - attending/guides.md  

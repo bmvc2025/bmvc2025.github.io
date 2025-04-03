@@ -132,7 +132,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Tim_Cootes.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://personalpages.manchester.ac.uk/staff/timothy.f.cootes">Tim Cootes (photo)</a></h4>
+        <h4 class="pt-2"><a href="https://personalpages.manchester.ac.uk/staff/timothy.f.cootes">Tim Cootes</a></h4>
         <p class="pb-2">University of Manchester</p>
     </div>
 </div>
@@ -165,7 +165,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao (institution)</a></h4>
+        <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao</a></h4>
         <p class="pb-2">University of Warwick & Southern University of Science and Technology</p>
     </div>
 </div>
@@ -182,7 +182,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Marjory_Da_Costa_Abreu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/marjory-da-costa-abreu#firstSection">Marjory Da Costa Abreu (name)</a></h4>
+        <h4 class="pt-2"><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/marjory-da-costa-abreu#firstSection">Marjory Da Costa Abreu</a></h4>
         <p class="pb-2">Sheffield Hallam University</p>
     </div>
 </div>
@@ -190,7 +190,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Ming_He.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://hm1st.github.io">Ming He (photo)</a></h4>
+        <h4 class="pt-2"><a href="https://hm1st.github.io">Ming He</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
@@ -198,7 +198,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Ricardo_Szcerbacki.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="">Ricardo Szcerbacki (photo, website)</a></h4>
+        <h4 class="pt-2"><a href="">Ricardo Szcerbacki</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
@@ -214,7 +214,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Alyssa_Heggison.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/geography-planning/phd/candidates/alyssa-heggison">Alyssa Heggison (photo)</a></h4>
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/geography-planning/phd/candidates/alyssa-heggison">Alyssa Heggison</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
