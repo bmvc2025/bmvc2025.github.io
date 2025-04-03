@@ -48,7 +48,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Edmond Ho.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Edmond_Ho.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/shulimho/#">Edmond Ho</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
@@ -84,16 +84,8 @@ index: 0
 
 
 <h4>Workshop Chairs</h4>
-<!-- <p>Contact: <a href="mailto:workshop-chairs@bmvc2023.org">workshop-chairs@bmvc2023.org</a></p> -->
 <br>
 <div class="row justify-content-around pl-4 pr-4">
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Ali_Gooya.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/aligooya/">Ali Gooya</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
