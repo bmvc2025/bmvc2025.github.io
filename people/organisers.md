@@ -131,6 +131,14 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2025/Tim_Cootes.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://personalpages.manchester.ac.uk/staff/timothy.f.cootes">Tim Cootes (photo)</a></h4>
+        <p class="pb-2">University of Manchester</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2025/Po_Yang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/po-yang">Po Yang</a></h4>
         <p class="pb-2">University of Sheffield</p>
@@ -197,6 +205,14 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2025/Sijie_Li.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://lezj.github.io/sijieli.github.io">Sijie Li</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2025/Alyssa_Heggison.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/geography-planning/phd/candidates/alyssa-heggison">Alyssa Heggison (photo)</a></h4>
         <p class="pb-2">University of Sheffield</p>
@@ -211,6 +227,14 @@ index: 0
 <h4>Website Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Gerardo_Aragon_Camarasa.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/gerardoaragoncamarasa/">Gerardo Aragon Camarasa</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
