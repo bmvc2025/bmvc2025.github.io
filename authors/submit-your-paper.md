@@ -18,10 +18,11 @@ index: 2
     </div>
 </div>
 
-**<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to CMT for the first time, need to create an CMT profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>**
+<!-- **<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to CMT for the first time, need to create an CMT profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>** -->
 
 Abstract registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submission.
 
+The <a href="https://cmt3.research.microsoft.com/" target="_blank">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 ---
 ## Formatting your paper
