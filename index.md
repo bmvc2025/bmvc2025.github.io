@@ -32,7 +32,7 @@ title: Home
 
 ## Call for Papers
 
-<p class="text-justify">The 36th BMVC will be held from Xth - Xth November 2025. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
+<p class="text-justify">The 36th BMVC will be held from 24th - 27th November 2025. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
