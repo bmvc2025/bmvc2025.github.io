@@ -50,26 +50,27 @@ Papers that are not correctly anonymised, do not use the template, or have more 
 ---
 ## Authors acting as reviewers
 
-Given the growth in paper submissions, we expect all authors to be willing to serve as reviewers if asked to do so. To help us identify qualified reviewers and match submissions to reviewers, all authors are required to have an up-to-date OpenReview profile (see OpenReview author instructions). We will only acknowledge reviewers during the conference and on the BMVC website if the review is above a quality threshold (see [Reviewing policies]({{site.baseurl}}{% link authors/reviewing-guidelines.md %})).
+Given the growth in paper submissions, we expect all authors to be willing to serve as reviewers if asked to do so. To help us identify qualified reviewers and match submissions to reviewers, all authors are required to have up-to-date CMT and TPMS profiles. We will only acknowledge reviewers during the conference and on the BMVC website if the review is above a quality threshold (see [Reviewing policies]({{site.baseurl}}{% link authors/reviewing-guidelines.md %})).
 
 
 ---
 ## Submission and review process
 
-BMVC 2025 will use OpenReview to manage submissions. Consistent with the review process for previous BMVC conferences, submissions under review will be visible only to their assigned members of the program committee (programme chairs, area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
+BMVC 2025 will use CMT to manage submissions. Consistent with the review process for previous BMVC conferences, submissions under review will be visible only to their assigned members of the program committee (programme chairs, area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
-Anyone who plans to submit a paper as an author or a co-author must create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible area chairs and reviewers. OpenReview author instructions can be found in the link below.
+Anyone who plans to submit a paper as an author or a co-author must create (or update) their CMT and Toronto Paper Matching System (TPMS) profiles by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the CMT and TPMS to match each manuscript to the best possible area chairs and reviewers. <!-- OpenReview author instructions can be found in the link below.
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://docs.openreview.net/getting-started/creating-an-openreview-profile">Creating or Updating an OpenReview Profile</a></p>
     </div>
 </div>
+//-->
 
 PCs are facing a huge growth in submissions and are spending all their energies ensuring that papers find appropriate ACs and reviewers. For this reason, **PCs will NOT:**
 
 * **allow late submissions, whatever the reason**
-* **undo OpenReview snarl-ups, whatever the reason**
+* **undo CMT snarl-ups, whatever the reason**
 * **allow you to change author lists, whatever the reason**
 * **explain policies in detail, however puzzling you find them**
 
@@ -85,7 +86,7 @@ All members of the program committee (program chairs, area chairs, and reviewers
 ---
 ## Conflict responsibilities
 
-Anyone who plans to submit a paper as an author or a co-author must create or update their OpenReview profile. You will be asked to declare two types of conflicts – domain and personal conflicts – by filling out appropriate sections of your OpenReview profile, as described on the OpenReview author instructions page. If any author of a submission is found to have incomplete or inaccurate conflict information, the submission may be summarily rejected.
+Anyone who plans to submit a paper as an author or a co-author must create or update their CMT profile. You will be asked to declare domain conflicts. <!--two types of conflicts – domain and personal conflicts – by filling out appropriate sections of your CMT profile, as described on the CMT author instructions page.//-> If any author of a submission is found to have incomplete or inaccurate conflict information, the submission may be summarily rejected.
 
 
 ---
@@ -99,7 +100,7 @@ BMVC reviewing is double-blind in that authors do not know the names of the area
 
 Authors take complete responsibility for their papers' accuracy and authenticity when submitting them to BMVC. To ensure a high standard of academic and professional integrity, authors must avoid misrepresentation, factual inaccuracies, and plagiarism at all costs. Any paper with citations of non-existent material or obvious factual inaccuracies will be rejected outright and will not be subject to review. It is important to note that attributing plagiarism or inaccuracy to LLMs or someone else is not a viable defence. As an author, it is your duty to ensure that every aspect of your paper is of the highest standard and that your contribution is both original and ethically sound.
 
-Plagiarism consists of appropriating the words or results of another without credit. We will actively check for plagiarism. Furthermore, the paper matching system is quite accurate. As a result, it regularly happens that a paper containing plagiarised material goes to a reviewer from whom the material was plagiarised; experience shows that such reviewers enthusiastically pursue plagiarism cases. Therefore, if a submission contains plagiarised material, the submission will be rejected.
+Plagiarism consists of appropriating the words or results of another without credit. We will actively check for plagiarism. Furthermore, the paper-matching system is quite accurate. As a result, it regularly happens that a paper containing plagiarised material goes to a reviewer from whom the material was plagiarised; experience shows that such reviewers enthusiastically pursue plagiarism cases. Therefore, if a submission contains plagiarised material, the submission will be rejected.
 
 
 ---
