@@ -18,9 +18,9 @@ The British Machine Vision Conference (BMVC) is one of the major international c
 
 Authors are invited to submit high-quality papers in image processing, computer vision, machine learning and related areas for BMVC 2025. Submitted papers will be refereed on originality, presentation, empirical results, and evaluation quality. Accepted papers will be included in the conference proceedings published and DOI-indexed by BMVA. Past proceedings are online at the [BMVA proceedings website](https://britishmachinevisionassociation.github.io/bmvc).
 
-Please note that BMVC is a single-track meeting with oral and poster presentations. **The paper submission deadline will be on the Xth of May 2025**. Submitted papers should not exceed <b>NINE</b> pages (references are excluded), and appendices should be submitted via the supplementary information. You can find further information in the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) and [Submit your Paper]({{site.baseurl}}{% link authors/submit-your-paper.md %}) pages.
+Please note that BMVC is a single-track meeting with oral and poster presentations. **The paper submission deadline will be on the 16th of May 2025**. Submitted papers should not exceed <b>NINE</b> pages (references are excluded), and appendices should be submitted via the supplementary information. You can find further information in the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) and [Submit your Paper]({{site.baseurl}}{% link authors/submit-your-paper.md %}) pages.
 
-The submission portal will be available from the Xnd of April, 2025.
+The submission portal will be available from late-April, 2025.
 
 <!-- <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
