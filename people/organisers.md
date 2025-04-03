@@ -5,6 +5,296 @@ permalink: /people/organisers/
 index: 0
 ---
 
+<h3>Organising Committee</h3>
+<br>
+
+
+<h4>General Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Jungong_Han.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jungong-han">Jungong Han</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Steve_Maddock.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/steve-maddock">Steve Maddock</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Programme Chairs</h4>
+<br>
+<div class="row justify-content-around pl-6 pr-6">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Charith_Abhayaratne.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne">Charith Abhayaratne</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Edmond Ho.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/shulimho/#">Edmond Ho</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Fani_Deligianni.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni">Fani Deligianni</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Jefersson_A_dos_Santos.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jefersson-alex-dos-santos">Jefersson A. dos Santos</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Zhixiang_Chen.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/zhixiang-chen">Zhixiang Chen</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Workshop Chairs</h4>
+<!-- <p>Contact: <a href="mailto:workshop-chairs@bmvc2023.org">workshop-chairs@bmvc2023.org</a></p> -->
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Ali_Gooya.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/aligooya/">Ali Gooya</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Chen_Chen.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/chen-chen">Chen Chen</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Guosheng_Hu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://research-information.bris.ac.uk/en/persons/guosheng-hu">Guosheng Hu</a></h4>
+        <p class="pb-2">University of Bristol</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Sponsorship Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Carlos_Moreno-Garcia.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://cfmgcomputing.blogspot.com/p/home.html">Carlos Moreno-Garcia</a></h4>
+        <p class="pb-2">Robert Gordon University</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Industrial / Keynote Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Po_Yang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/po-yang">Po Yang</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Doctoral Consortium Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Cass_Zhixue_Zhao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/cass-zhixue-zhao">Cass Zhixue Zhao</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao (institution)</a></h4>
+        <p class="pb-2">University of Warwick & Southern University of Science and Technology</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Local Arrangement Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Marjory_Da_Costa_Abreu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/marjory-da-costa-abreu#firstSection">Marjory Da Costa Abreu (name)</a></h4>
+        <p class="pb-2">Sheffield Hallam University</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Ming_He.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://hm1st.github.io">Ming He (photo)</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Ricardo_Szcerbacki.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="">Ricardo Szcerbacki (photo, website)</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Alyssa_Heggison.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/geography-planning/phd/candidates/alyssa-heggison">Alyssa Heggison (photo)</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Website Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Bowen_Dang.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://dangbowen-bell.github.io">Bowen Dang</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Social Media Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Chaona_Chen.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/chaona-chen">Chaona Chen</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Lipeng_Zhuang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/lipengzhuang">Lipeng Zhuang</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
+<h4>Communication Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+</div>
+<br>
+<br>
+
+
+<h4>Proceedings Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+</div>
+<br>
+<br>
+
+
+<h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+{% assign bmva_list = site.data.people.bmva %}
+
+{% for person in bmva_list %}
+    <div class="col-6 col-md-4 col-lg-3">
+        <div class="text-center">
+            <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
+            <h4 class="pt-2"><a href="{{ person.url }}">{{ person.name }}</a></h4>
+            <p class="pb-2">{{ person.job }}</p>
+        </div>
+    </div>
+{% endfor %}
+
+</div>
+
+
 {% comment %} 
 
 <h3>Organising Committee</h3>
