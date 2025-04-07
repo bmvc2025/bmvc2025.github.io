@@ -197,7 +197,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Ricardo_Szcerbacki.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Ricardo_Szcerbacki.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="">Ricardo Szcerbacki</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
@@ -213,7 +213,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Alyssa_Heggison.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Alyssa_Heggison.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/geography-planning/phd/candidates/alyssa-heggison">Alyssa Heggison</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
