@@ -1,6 +1,6 @@
 deadlines:
   - title: Workshop Submission Deadline
-    date: 2025-05-02
+    date: 2025-05-09
     tags:
       - key: Authors
   - title: Abstract Submission Deadline
@@ -20,15 +20,11 @@ deadlines:
     tags:
       - key: Reviewers
   - title: Workshop Acceptance Notification
-    date: 2025-05-23
+    date: 2025-05-30
     tags:
       - key: Authors
-  - title: Reviews Submitted (for reviewers)
+  - title: Reviews Submitted
     date: 2025-06-09
-    tags:
-      - key: Reviewers
-  - title: Reviews Submitted (for real)
-    date: 2025-06-16
     tags:
       - key: Reviewers
   - title: Start of AC/reviewer Discussion Period
@@ -68,34 +64,34 @@ deadlines:
   #   date: 2024-7-31
   #   tags:
   #     - key: Authors
-  - title: Camera Ready
-    date: 2025-08-29
-    tags:
-      - key: Authors
+  # - title: Camera Ready
+  #   date: 2025-08-29
+  #   tags:
+  #     - key: Authors
   # - title: Doctoral Consortium Acceptance Notification
   #   date: 2024-09-06
   #   tags:
   #     - key: Authors 
-  - title: Camera Ready for Workshops
-    date: 2025-10-31
-    tags:
-      - key: Authors (workshops) 
-  - title: Poster Submissions
-    date: 2025-10-31
-    tags:
-      - key: Authors
-  - title: Video Submissions
-    date: 2025-10-31
-    tags:
-      - key: Authors
-  # - title: Conference Starts
-  #   date: 2024-11-25
+  # - title: Camera Ready for Workshops
+  #   date: 2025-10-31
   #   tags:
-  #     - key: Everyone
-  # - title: Conference Ends
-  #   date: 2024-11-28
+  #     - key: Authors (workshops) 
+  # - title: Poster Submissions
+  #   date: 2025-10-31
   #   tags:
-  #     - key: Everyone
+  #     - key: Authors
+  # - title: Video Submissions
+  #   date: 2025-10-31
+  #   tags:
+  #     - key: Authors
+  - title: Conference Starts
+    date: 2024-11-24
+    tags:
+      - key: Everyone
+  - title: Conference Ends
+    date: 2024-11-27
+    tags:
+      - key: Everyone
   # - title: Workshops Start
   #   date: 
   #   tags:
