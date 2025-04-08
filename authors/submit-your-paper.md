@@ -11,10 +11,10 @@ index: 2
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://openreview.net/group?id=bmva.org/BMVC/2024/Conference">Submit your Paper via CMT</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2025">Submit your Paper via CMT</a></p>
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://docs.openreview.net/getting-started/creating-an-openreview-profile">How to create an CMT profile</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/docs/help/general/account-creation.html">How to create a CMT Account</a></p>
     </div>
 </div>
 
