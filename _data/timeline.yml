@@ -85,11 +85,11 @@ deadlines:
   #   tags:
   #     - key: Authors
   - title: Conference Starts
-    date: 2024-11-24
+    date: 2025-11-24
     tags:
       - key: Everyone
   - title: Conference Ends
-    date: 2024-11-27
+    date: 2025-11-27
     tags:
       - key: Everyone
   # - title: Workshops Start
