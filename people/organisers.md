@@ -274,6 +274,23 @@ index: 0
 <br>
 
 
+<h4>Proceedings Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Keiller_Nogueira.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.liverpool.ac.uk/people/keiller-nogueira">Keiller Nogueira</a></h4>
+        <p class="pb-2">University of Liverpool</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
 
 <h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
 <br>
