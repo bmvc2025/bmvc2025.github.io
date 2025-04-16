@@ -280,6 +280,14 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2025/Chris_Cooney.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/biosciences/people/academic-staff/chris-cooney">Chris Cooney</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2025/Keiller_Nogueira.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.liverpool.ac.uk/people/keiller-nogueira">Keiller Nogueira</a></h4>
         <p class="pb-2">University of Liverpool</p>
