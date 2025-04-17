@@ -28,10 +28,10 @@ BMVC will cover the costs for rooms, coffee breaks, and A/V equipment. However, 
 
 BMVC Workshop Chairs: 
 
-- [Guosheng Hu](https://huguosheng.github.io/): Senior Lecturer, University of Bristol (g.hu@bristol.ac.uk) 
-- [Chen (Cherise) Chen](https://cherise215.github.io/): Lecturer, University of Sheffield (work.cherise@gmail.com)
+- [Guosheng Hu](https://huguosheng.github.io/): Senior Lecturer, University of Bristol ([g.hu@bristol.ac.uk](g.hu@bristol.ac.uk)) 
+- [Chen (Cherise) Chen](https://cherise215.github.io/): Lecturer, University of Sheffield ([work.cherise@gmail.com](work.cherise@gmail.com))
 
-For any questions regarding the workshops, please get in touch with the workshop chairs via [workshop_chairs.bmvc2025-group@sheffield.ac.uk](mailto:workshop_chairs.bmvc2025-group@sheffield.ac.uk)
+For any questions regarding the workshops, please get in touch with the workshop chairs via [workshop_chairs.bmvc2025-group@sheffield.ac.uk](mailto:workshop_chairs.bmvc2025-group@sheffield.ac.uk).
 
 Google Form link: [https://forms.gle/daqjfk9nTFqu1hVa9](https://forms.gle/daqjfk9nTFqu1hVa9)
 
