@@ -31,7 +31,8 @@ title: Home
 
 
 <div class="alert mt-3 alert-info" style="">
-    <p>The submission portal is alive. Paper submission deadline is 23:59 GMT Friday, 16 May 2025. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
+    <p>Paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p>
+    <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
     <p>BMVC will not have a rebuttal period this year! Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>
     <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city! </p>
     <p>BMVC'25 will be held in Sheffield. </p>
