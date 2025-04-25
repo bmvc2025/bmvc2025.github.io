@@ -261,14 +261,6 @@ index: 0
     </div>
 </div>
 
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Lipeng_Zhuang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/lipengzhuang">Lipeng Zhuang</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
 </div>
 <br>
 <br>
