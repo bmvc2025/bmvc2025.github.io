@@ -30,11 +30,21 @@ title: Home
 {% endcomment %} 
 
 
+<div class="alert mt-3 alert-info" style="">
+    <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
+    <p>BMVC will not have a rebuttal period this year! Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>
+    <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city! </p>
+    <p>BMVC'25 will be held in Sheffield. </p>
+</div>
+
 ## Call for Papers
 
 <p class="text-justify">The 36th BMVC will be held from 24th - 27th November 2025. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
-
+    
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button"  href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">Submit your Paper via OpenReview</a></p>
+    </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link calls/call-for-papers.md %}">Call for Papers</a></p>
     </div>
