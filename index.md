@@ -31,6 +31,7 @@ title: Home
 
 
 <div class="alert mt-3 alert-info" style="">
+    <p>Top papers from BMVC 2025 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV)! </p>
     <p>Paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p>
     <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
     <p>BMVC will not have a rebuttal period this year! Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>
