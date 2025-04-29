@@ -41,7 +41,7 @@ a.anchor { display: block; position: relative; top: -150px; visibility: hidden; 
 }
 
 a {
-	color: #1D004D;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
+	color: #0268bb;   /* #1D004D; /*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
 }
 
 a:hover {
