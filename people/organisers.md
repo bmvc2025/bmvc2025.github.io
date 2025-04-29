@@ -83,6 +83,23 @@ index: 0
 <br>
 
 
+<h4>Technical Program Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao</a></h4>
+        <p class="pb-2">University of Warwick & Southern University of Science and Technology</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+
 <h4>Workshop Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -161,14 +178,6 @@ index: 0
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
-
-<!-- <div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao</a></h4>
-        <p class="pb-2">University of Warwick & Southern University of Science and Technology</p>
-    </div>
-</div> -->
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
