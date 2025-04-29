@@ -32,10 +32,11 @@ All authors should carefully review the following policies that govern the submi
 
 Papers in the BMVC style are limited to nine pages, including figures and tables. Additional pages containing only cited references are allowed. Please download the BMVC 2025 Author Kit for detailed formatting instructions and guidelines. These instructions can be found in the following links.
 
-<div class="row no-gutters pt-0 d-xs-block ">
+{<div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/carlosfmorenog/BMVCTemplate/archive/refs/heads/master.zip">Download the template</a></p>
-    </div>
+    </div>]: #
+    
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/BritishMachineVisionAssociation/BMVCTemplate">View the Github repository</a></p>
     </div>
