@@ -162,11 +162,19 @@ index: 0
     </div>
 </div>
 
-<div class="col-6 col-md-4 col-lg-3">
+<!-- <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://mingqigao.com">Mingqi Gao</a></h4>
         <p class="pb-2">University of Warwick & Southern University of Science and Technology</p>
+    </div>
+</div> -->
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Yang_Long.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.durham.ac.uk/staff/yang-long">Yang Long</a></h4>
+        <p class="pb-2">Durham University</p>
     </div>
 </div>
 
