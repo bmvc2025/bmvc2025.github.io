@@ -7,7 +7,7 @@ index: 1
 
 ## Getting to Sheffield
 
-The Welcome to Sheffield website provides all the information you need: <https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/>
+The Welcome to Sheffield website provides information on getting to Sheffield using a range of transport options: <https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/>
 
 ## Hotel information
 
