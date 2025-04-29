@@ -11,7 +11,7 @@ The following information from the [Welcome to Sheffield website](https://www.we
 
 - Welcome to Sheffield:  [https://www.welcometosheffield.co.uk/visit/](https://www.welcometosheffield.co.uk/visit/)
 - Top 10 things to see:  <https://www.welcometosheffield.co.uk/visit/things-to-see-and-do/top-10-things-to-see/>
-- 5 things within a short walking distance from Cutlers' Hall:
+- 5 things within a short walking distance from Cutlers' Hall, the conference venue:
   - Sheffield Cathedral (1 min) "...the oldest building in the city, still in daily use"
   - Sheffield Theatres (5 mins) "...the largest theatre complex outside of London"
   - National Videogame Museum (5 mins) (Open Thursdays to Sundays) "The UK's national cultural centre for videogames"
