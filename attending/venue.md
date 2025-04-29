@@ -9,7 +9,7 @@ The 36th BMVC will be an **in-person** event.
 
 The meeting will be held at [Cutlers' Hall](https://cutlershall.co.uk/conferences/), Sheffield, including workshop sessions. 
 
-- History: <https://www.cutlers-hallamshire.org.uk/>
+- About the venue and its history: <https://www.cutlers-hallamshire.org.uk/>
 - Virtual tour: <https://my.matterport.com/show/?m=MWZvQjuFnAs>
 - How to get to the Cutlers' Hall: **<https://cutlershall.co.uk/about/directions-to-cutlers-hall/>**
 
