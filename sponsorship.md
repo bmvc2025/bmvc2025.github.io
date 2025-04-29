@@ -29,7 +29,7 @@ permalink: /sponsors/
 }
 </style>
 
-<p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year.</strong></p>
+<p class="mb-3" align="center"><strong>We are currently looking for sponsors to support the conference this year.</strong></p>
 
 {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" -%}
 
