@@ -11,7 +11,7 @@ The meeting will be held at [Cutlers' Hall](https://cutlershall.co.uk/conference
 
 - About the venue and its history: <https://www.cutlers-hallamshire.org.uk/>
 - Virtual tour: <https://my.matterport.com/show/?m=MWZvQjuFnAs>
-- How to get to the Cutlers' Hall: **<https://cutlershall.co.uk/about/directions-to-cutlers-hall/>**
+- How to get to the Cutlers' Hall: <https://cutlershall.co.uk/about/directions-to-cutlers-hall/>
 
 <br>
 <center>
