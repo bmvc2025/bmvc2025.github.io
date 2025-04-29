@@ -5,6 +5,15 @@ permalink: /attending/plan-your-visit/
 index: 1
 ---
 
+## Getting to Sheffield
+
+The Welcome to Sheffield website provides all the information you need: <https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/>
+
+## Hotel information
+
+**Conference-specific hotel information will appear here in due course.**
+
+General information about Sheffield hotels can be found on the Welcome to Sheffield website: <https://www.welcometosheffield.co.uk/visit/accommodation/> and <https://www.welcometosheffield.co.uk/conference/information-for-delegates/>
 
 {% comment %} 
 
