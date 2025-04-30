@@ -31,6 +31,12 @@ title: Home
 
 
 <div class="alert mt-3 alert-info" style="">
+## Call for Area Chairs and Reviewers
+
+<p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
+
+* Area Chairs: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgx2FxpkYZpgmugGTPDRO1jT_A7AXUIvoeul7Dk4Vnkql4oA/viewform?usp=preview">https://docs.google.com/forms/d/e/1FAIpQLSdgx2FxpkYZpgmugGTPDRO1jT_A7AXUIvoeul7Dk4Vnkql4oA/viewform?usp=preview</a>
+* Reviewers: <a href="https://forms.gle/UwvuHkbRtJZrptzw6">https://forms.gle/UwvuHkbRtJZrptzw6</a>
     <p>Top papers from BMVC 2025 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV)! </p>
     <p>Paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p>
     <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
