@@ -5,9 +5,9 @@ permalink: /authors/instructions-for-presenting-at-bmvc/
 ---
 
 These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2025 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.
-
+{% comment %}
 **The deadline for uploading videos and posters is 23:59 GMT on November Xst, 2025.**
-
+{% endcomment %}
 ## Contents
 * Posters
 * Video summaries
@@ -39,8 +39,10 @@ Please note that the video presentation will be publicly available in the confer
 
 ## Uploading your e-poster and videos
 
-Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. **The deadline for uploading videos and posters is 23:59 GMT on November Xst, 2025.**
-
+Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. 
+{% comment %}
+**The deadline for uploading videos and posters is 23:59 GMT on November Xst, 2025.**
+{% endcomment %}
 
 ## Oral presentations
 
