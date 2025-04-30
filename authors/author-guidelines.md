@@ -60,7 +60,7 @@ Anyone who plans to submit a paper as an author or a co-author must create (or u
 PCs are facing a huge growth in submissions and are spending all their energies ensuring that papers find appropriate ACs and reviewers. For this reason, **PCs will NOT:**
 
 * **allow late submissions, whatever the reason**
-* **undo CMT snarl-ups, whatever the reason**
+* **undo OpenReview snarl-ups, whatever the reason**
 * **allow you to change author lists, whatever the reason**
 * **explain policies in detail, however puzzling you find them**
 
