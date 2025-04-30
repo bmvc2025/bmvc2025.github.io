@@ -22,7 +22,7 @@ Thank you for volunteering your time to serve as area chair for BMVC 2025! As an
 
 Please note we expect all ACs to take a proactive role in ensuring papers receive high-quality reviews and meta-reviews. Therefore, you must commit to being available and responsive during the relevant parts of the review period. **You must ensure availability for the periods of the 10th May to 1st of July** and take particular note of the following deadlines:
 
-* **18th - 21st of May (TBD):** desk rejection decisions.
+* **16th - 21st of May (TBD):** desk rejection decisions.
 * **10th of June (TBD):** flagging missing/low-quality reviews to PCs.
 * **11th of June (TBD):** contact emergency reviewers (if needed).
 * **20th - 27th of June:** review consolidation and discussion period.
@@ -30,7 +30,7 @@ Please note we expect all ACs to take a proactive role in ensuring papers receiv
 
 
 ---
-## Desk rejections of papers (18th - 21st of May) (TBD)
+## Desk rejections of papers (16th - 21st of May) (TBD)
 
 Papers for which one of the following is true should be flagged by ACs and desk rejected:
 
