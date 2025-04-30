@@ -22,15 +22,15 @@ Thank you for volunteering your time to serve as area chair for BMVC 2025! As an
 
 Please note we expect all ACs to take a proactive role in ensuring papers receive high-quality reviews and meta-reviews. Therefore, you must commit to being available and responsive during the relevant parts of the review period. **You must ensure availability for the periods of the 10th May to 1st of July** and take particular note of the following deadlines:
 
-* **10th - 15th of May:** desk rejection decisions.
-* **4th of June:** flagging missing/low-quality reviews to PCs.
-* **5th of June:** contact emergency reviewers (if needed).
-* **14th - 21st of June:** review consolidation and discussion period.
-* **1st of July:** submission of the meta-reviews for all papers.
+* **10th - 15th of May (TBD):** desk rejection decisions.
+* **4th of June (TBD):** flagging missing/low-quality reviews to PCs.
+* **5th of June (TBD):** contact emergency reviewers (if needed).
+* **20th - 27th of June:** review consolidation and discussion period.
+* **8th of July:** submission of the meta-reviews for all papers.
 
 
 ---
-## Desk rejections of papers (10th - 15th of May)
+## Desk rejections of papers (10th - 15th of May) (TBD)
 
 Papers for which one of the following is true should be flagged by ACs and desk rejected:
 
@@ -51,7 +51,7 @@ Additionally, **double submission is prohibited**, so if it comes to your knowle
 
 
 ---
-## Evaluation of received reviews (3rd of June then 10th of June)
+## Evaluation of received reviews (3rd of June then 10th of June) (TBD)
 
 At the end of the review period, ACs will do a first evaluation of the received reviews to identify **i) missing reviews** and **ii) low-quality reviews**.
 
@@ -72,7 +72,7 @@ If you identify a low-quality review, you have to query for complement and clari
 
 
 ---
-## Discussion period (14th - 21st of June)
+## Discussion period (20th - 27th of June)
 
 Once all reviews have been received and you have queried low-quality reviews for complement and clarification, the discussion period begins. In many instances, all reviewers will agree, and little discussion will be needed, but for some papers, the reviewers will strongly disagree either in their assessment of the paper or, in extreme cases, over factual assessments (e.g. the novelty of the approach or technical soundness).
 
@@ -86,7 +86,7 @@ During the discussion, you should ensure you have all the arguments and facts to
 
 
 ---
-## Making a decision (1st of July)
+## Making a decision (8th of July)
 
 <ul>
     <li>You have been selected as an area chair based on your experience and expertise in computer vision and its applications. We trust you to use your best judgment to decide on the papers assigned to you.</li>
@@ -94,7 +94,7 @@ During the discussion, you should ensure you have all the arguments and facts to
     <li><strong>Overruling all three reviewers to decide on a paper is unacceptable.</strong> If you strongly believe in a decision that does not reflect the reviews (e.g., accepting a paper with a majority reject or rejecting a paper with a majority accept), make sure to discuss it with the PCs through email.</li>
 </ul>
 
-### Meta-reviews (1st of July)
+### Meta-reviews (8th of July)
 
 The meta-reviews are the **MOST CRUCIAL** aspect of the review process. This is where the Area Chair justifies their recommendation to accept or reject a paper. These meta-reviews should highlight why the decision was reached. If all reviewers agree on a paper, this consolidation report can be simple but feel free to encourage authors and provide constructive feedback. If there is disagreement on the reviews, it is the AC's job to clarify why you decide to side with either an accept or reject in the face of mixed reviews.
 

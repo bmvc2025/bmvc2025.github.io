@@ -7,7 +7,7 @@ index: 2
 
 ## Abstract and Paper Submission
 
-<p>Abstract and paper submissions are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in OpenReview if this is your first time using OpenReview. The submission portal will be available from late-April 2025 at 23:59 GMT.</p>
+<p>Abstract and paper submissions are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in OpenReview if this is your first time using OpenReview.</p>
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
@@ -80,7 +80,7 @@ Supplementary material is to be submitted by the [supplemental material deadline
 ---
 ## Camera ready copy (for accepted papers)
 
-Camera-ready submissions for accepted papers can be completed via OpenReview (https://openreview.net/group?id=bmva.org/BMVC/2025/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
+Camera-ready submissions for accepted papers can be completed via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2025/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
 
 * Final camera-ready paper (in PDF format)
 * Optional supplementary materials (ZIP file up to 100MB)

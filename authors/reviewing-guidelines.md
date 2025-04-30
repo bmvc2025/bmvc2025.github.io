@@ -28,11 +28,11 @@ To contact the Programme Chairs, please send emails to: <a href="mailto:programm
 ---
 ## Reviewing Timeline
 
-* **13th-15th of May:** Check your papers assigned to you
-* **20th of May:** Review period starts
-* **3rd of June:** Reviews due
-* **14th-21st of June:** ACs and reviewers discussion period
-* **21st of June:** Final review recommendation due
+* **13th - 15th of May (TBD):** Check your papers assigned to you
+* **26th of May:** Review period starts
+* **9th of June:** Reviews due
+* **20th - 27th of June:** ACs and reviewers discussion period
+* **4th of July:** Final review recommendation due
 
 
 ---
@@ -44,7 +44,7 @@ Each paper that is accepted should be technically sound and make a contribution 
 
 
 ---
-## Check your papers (13th-15th of May)
+## Check your papers (13th - 15th of May) (TBD)
 
 As soon as you get your reviewing assignment, please go through all the papers to make sure that (a) you have no obvious conflict of interest (see “Avoid Conflicts of Interest” below) and (b) you feel comfortable reviewing the paper assigned. <strong>If issues with either of these points arise, please get in touch with the Area Chair immediately </strong> as instructed in the detailed emails you will receive during the process.
 
