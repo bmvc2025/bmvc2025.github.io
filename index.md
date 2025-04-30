@@ -43,8 +43,8 @@ title: Home
 
 <p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
 
-* Area Chairs: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgx2FxpkYZpgmugGTPDRO1jT_A7AXUIvoeul7Dk4Vnkql4oA/viewform?usp=preview">https://docs.google.com/forms/d/e/1FAIpQLSdgx2FxpkYZpgmugGTPDRO1jT_A7AXUIvoeul7Dk4Vnkql4oA/viewform?usp=preview</a>
-* Reviewers: <a href="https://forms.gle/UwvuHkbRtJZrptzw6">https://forms.gle/UwvuHkbRtJZrptzw6</a>
+* Area Chairs: <a href="https://forms.gle/Jr3ysR6SePgr1vGW8">Call for Area Chairs Form</a>
+* Reviewers: <a href="https://forms.gle/UwvuHkbRtJZrptzw6">Call for Reviewers Form</a>
 
 ## Call for Papers
 
