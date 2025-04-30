@@ -39,9 +39,6 @@ Papers in the BMVC style are limited to nine pages, including figures and tables
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/carlosfmorenog/BMVCTemplate">View the Github repository and download the template</a></p>
     </div>
-    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2025/tnxgnwvggpsv">Get Overleaf Template</a></p>
-    </div>
 </div>
 
 Papers that are not correctly anonymised, do not use the template, or have more than nine pages (excluding references) will be rejected without review.
