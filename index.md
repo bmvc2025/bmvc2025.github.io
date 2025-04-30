@@ -20,13 +20,6 @@ title: Home
     <p>BMVC'24 will be held in  at the <a href="https://www.sec.co.uk/">Scottish Event Campus</a>!</p>
 </div>
 
-## Call for Area Chairs and Reviewers
-
-<p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
-
-* <a href="https://forms.gle/qbiDzc72ovrGsqcp7">https://forms.gle/qbiDzc72ovrGsqcp7</a>
-* <a href="https://forms.gle/mBWeWnBSJKxQcJFP8">https://forms.gle/mBWeWnBSJKxQcJFP8</a> -->
-
 {% endcomment %} 
 
 
