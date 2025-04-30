@@ -106,9 +106,9 @@ Note that a technical report (departmental, arXiv, etc.) version of the submissi
 ---
 ## Supplementary material submission
 
-By the supplementary material deadline, the authors may optionally submit additional material that was ready at the time of paper submission but could not be included due to constraints of format or space. The authors should appropriately refer to the supplementary material's contents in the paper. Reviewers will be encouraged to look at it but are not obligated to do so.
+The supplementary material deadline is the same date and time as the paper submission deadline. Authors should appropriately refer to the supplementary material's contents in the paper. Reviewers will be encouraged to look at it but are not obligated to do so.
 
-Supplementary material may include videos, proofs, additional figures or tables, more detailed analysis of experiments presented in the paper. It may not include results on additional datasets, results obtained with an improved version of the method (e.g., following additional parameter tuning or training), or an updated or corrected version of the submission PDF. Papers with supplementary materials violating the guidelines may be summarily rejected.
+Supplementary material may include videos, proofs, additional figures or tables, more detailed analysis of experiments presented in the paper. It may not include results on additional datasets, results obtained with an improved version of the method (e.g., following additional parameter tuning or training). Papers with supplementary materials violating the guidelines may be summarily rejected.
 
 We encourage (but do not require) authors to upload their code as part of their supplementary material to help reviewers assess the quality of the work. 
 
