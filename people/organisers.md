@@ -95,6 +95,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Ming_He.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://hm1st.github.io">Ming He</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
@@ -201,14 +209,6 @@ index: 0
         <img src="../../imgs_2025/Marjory_Da_Costa_Abreu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/marjory-da-costa-abreu#firstSection">Marjory Da Costa Abreu</a></h4>
         <p class="pb-2">Sheffield Hallam University</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Ming_He.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://hm1st.github.io">Ming He</a></h4>
-        <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
 
