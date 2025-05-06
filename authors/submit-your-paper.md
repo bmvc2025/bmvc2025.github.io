@@ -43,6 +43,9 @@ Papers submitted for review should be anonymous and instead include the paper ID
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/BritishMachineVisionAssociation/BMVCTemplate">View the Github repository</a></p>
     </div>
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2025/wtpstkznrwgf">Get Overleaf Template</a></p>
+     </div>
 </div>
 
 <p>Instructions on how to use the BMVC LaTeX template are described in the README.md file within the repository. To enable review mode in the LaTeX template, the <code>\bmvcreviewcopy{??}</code> command should be used, where <code>??</code> is your assigned paper number.</p>
