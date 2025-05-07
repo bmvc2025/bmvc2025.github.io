@@ -22,7 +22,7 @@ Submission Guidelines:
 - **The submission deadline is 31st July (23:59 GMT).**
 
 <!-- TODO: EMAIL ADDRESS -->
-**Submission for the Doctoral Consortium should be sent to <dc_email>.**
+**Submission for the Doctoral Consortium should be sent to [doctoral-consortium.bmvc2025-group@sheffield.ac.uk](mailto:doctoral-consortium.bmvc2025-group@sheffield.ac.uk).**
 
 Selection Process: Submissions will be reviewed by a panel of experts in computer vision. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
 
@@ -43,4 +43,4 @@ We look forward to receiving your submissions and to a stimulating and productiv
 Organisers: Cass Zhao (University of Sheffield), Yang Long (Durham University)
 
 <!-- TODO: EMAIL ADDRESS -->
-Contact: <dc_email>
+Contact: [doctoral-consortium.bmvc2025-group@sheffield.ac.uk](mailto:doctoral-consortium.bmvc2025-group@sheffield.ac.uk)
