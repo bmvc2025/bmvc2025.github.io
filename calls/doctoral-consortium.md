@@ -19,7 +19,7 @@ Submission Guidelines:
 - Abstracts should describe the research that the student wishes to present and may include already published work.
 - The abstract submission should be formatted according to the BMVC template, available on the conference website.
 - Submission to the Doctoral Consortium while also presenting a paper at the main conference is permitted.
-- **The submission deadline is Xst July (23:59 GMT).**
+- **The submission deadline is 31st July (23:59 GMT).**
 
 <!-- TODO: EMAIL ADDRESS -->
 **Submission for the Doctoral Consortium should be sent to <dc_email>.**
@@ -30,9 +30,9 @@ Accepted authors will be invited to attend the Doctoral Consortium in parallel t
 
 Important Dates:
 
-- Submission Opens: Sunday, Xth July 2025
-- Submission Deadline: Wednesday, Xst July 2025
-- Notification of Acceptance: Friday, Xth September 2025
+- Submission Opens: Sunday, 14th July 2025
+- Submission Deadline: Wednesday, 31st July 2025
+- Notification of Acceptance: Friday, 6th September 2025
 - Doctoral Consortium: TBC, during the main BMVC conference.
 
 All deadlines are 23:59 GMT.
@@ -40,7 +40,7 @@ All deadlines are 23:59 GMT.
 We look forward to receiving your submissions and to a stimulating and productive Doctoral Consortium at BMVC 2025!
 
 <!-- Organisers: Richard Menzies (University of Glasgow), Changrui Chen (University of Warwick) -->
-Organisers: 
+Organisers: Cass Zhao (University of Sheffield), Yang Long (Durham University)
 
 <!-- TODO: EMAIL ADDRESS -->
 Contact: <dc_email>
