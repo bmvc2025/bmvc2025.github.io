@@ -1,10 +1,10 @@
 deadlines:
-  - title: Workshop Submission Deadline
-    date: 2025-05-09
-    tags:
-      - key: Authors
   - title: Abstract Submission Deadline
     date: 2025-05-13
+    tags:
+      - key: Authors
+  - title: Workshop Submission Deadline
+    date: 2025-05-16
     tags:
       - key: Authors
   - title: Paper Submission Deadline
