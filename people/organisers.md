@@ -145,6 +145,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Asra_Aslam.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/ijc/people/asra-aslam">Asra Aslam</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
