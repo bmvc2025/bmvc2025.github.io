@@ -83,7 +83,7 @@ index: 0
 <br>
 
 
-<h4>Technical Program Chairs</h4>
+<h4>Technical Programme Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
