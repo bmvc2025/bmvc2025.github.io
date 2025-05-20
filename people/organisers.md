@@ -99,7 +99,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2025/Shuyan_Li.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/shuyan-li.html">Shuyan Li</a></h4>
-        <p class="pb-2"></p>
+        <p class="pb-2">Queen's University Belfast</p>
     </div>
 </div>
 
