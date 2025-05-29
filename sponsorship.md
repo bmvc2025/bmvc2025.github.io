@@ -9,20 +9,33 @@ permalink: /sponsors/
   margin-right: 15px;
 }
 
+/* .image-block {
+  padding: 30px 0;
+  background: #fff;
+  width: 300px;
+  cursor: pointer;
+  transition: all .3s ease;
+  border: 1px solid transparent;
+  margin-bottom: 10px;
+} */
+
+/* .image-block img {
+  height: 80px;
+} */
+
 .image-block {
   padding: 30px 0;
   background: #fff;
   width: 300px;
-  /* height: 180px; */
+  height: 100px; /* Fixed height for consistent row */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
   transition: all .3s ease;
   border: 1px solid transparent;
   margin-bottom: 10px;
 }
-
-/* .image-block img {
-  height: 80px;
-} */
 
 .image-block img {
   max-height: 80px;
