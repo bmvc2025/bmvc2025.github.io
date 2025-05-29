@@ -35,7 +35,7 @@ permalink: /sponsors/
 
 <section class="sponsors section" align="center">
 {% for group in grouped_sponsors %}
-    {% if group.name == 'Gold' or group.name == 'Platinum' %} 
+    {% if group.name == 'Gold' or group.name == 'Platinum' or group.name == 'Silver'%} 
         <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
         {% else %}
         <h3>{{-group.name-}}&nbsp;:</h3>
