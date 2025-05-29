@@ -1,4 +1,10 @@
 sponsors:
+  - name: ENCORD
+    type: Silver
+    logo: encord.png
+    url: "https://encord.com/"
+    url-external: "https://encord.com/"  
+
   # - name: Technovative Solutions
   #   type: Platinum
   #   logo: technovative_solutions.png
