@@ -20,8 +20,14 @@ permalink: /sponsors/
   margin-bottom: 10px;
 }
 
-.image-block img {
+/* .image-block img {
   height: 80px;
+} */
+
+.image-block img {
+  max-height: 80px;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .image-block:hover {
