@@ -78,6 +78,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Jun_Liu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2">Jun Liu</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
@@ -133,6 +141,14 @@ index: 0
         <img src="../../imgs_2025/Guosheng_Hu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://research-information.bris.ac.uk/en/persons/guosheng-hu">Guosheng Hu</a></h4>
         <p class="pb-2">University of Bristol</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Bryan_Williams.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/lira/people/bryan-williams">Bryan Williams</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
