@@ -53,7 +53,7 @@ deadlines:
       - key: ACs
       - key: PCs
   - title: Doctoral Consortium Submission Open
-    date: 2024-7-13
+    date: 2025-7-13
     tags:
       - key: Authors
   - title: Author Notifications
@@ -61,7 +61,7 @@ deadlines:
     tags:
       - key: Authors
   - title: Doctoral Consortium Submission Close
-    date: 2024-7-30
+    date: 2025-7-30
     tags:
       - key: Authors
   # - title: Camera Ready
@@ -69,7 +69,7 @@ deadlines:
   #   tags:
   #     - key: Authors
   - title: Doctoral Consortium Acceptance Notification
-    date: 2024-09-05
+    date: 2025-09-05
     tags:
       - key: Authors 
   # - title: Camera Ready for Workshops
