@@ -64,26 +64,26 @@ deadlines:
     date: 2025-7-30
     tags:
       - key: Authors
-  # - title: Camera Ready
-  #   date: 2025-08-29
-  #   tags:
-  #     - key: Authors
+  - title: Camera Ready for Papers
+    date: 2025-08-29
+    tags:
+      - key: Authors
   - title: Doctoral Consortium Acceptance Notification
     date: 2025-09-05
     tags:
       - key: Authors 
-  # - title: Camera Ready for Workshops
-  #   date: 2025-10-31
-  #   tags:
-  #     - key: Authors (workshops) 
-  # - title: Poster Submissions
-  #   date: 2025-10-31
-  #   tags:
-  #     - key: Authors
-  # - title: Video Submissions
-  #   date: 2025-10-31
-  #   tags:
-  #     - key: Authors
+  - title: Camera Ready for Workshops
+    date: 2025-10-31
+    tags:
+      - key: Authors
+  - title: Poster Submissions
+    date: 2025-10-31
+    tags:
+      - key: Authors
+  - title: Video Submissions
+    date: 2025-10-31
+    tags:
+      - key: Authors
   - title: Conference Starts
     date: 2025-11-24
     tags:
