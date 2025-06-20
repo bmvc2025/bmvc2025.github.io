@@ -12,7 +12,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://weihaox.github.io/bmvc2025mpi" target="_blank">https://weihaox.github.io/bmvc2025mpi</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Weihao Xia (Postdoctoral Researcher, University of Cambridge); Jingyuan Sun (Assistant Professor, The University of Manchester); Chenghua Lin (Professor, The University of Manchester); Cengiz Oztireli (Professor, University of Cambridge)</p>
         <p class=" mb-1"><b>Contact: </b>wx258@cam.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The goal of this workshop is to catalyse a paradigm shift in the AI community’s approach to perception—from a narrowly multimodal perspective to a truly multisensory one. We aim to highlight recent advancements in specialized domains, including computational olfaction, haptic learning, gustatory modelling, and neuro-symbolic integration, while bringing together researchers from diverse fields. In doing so, we hope to encourage cross-pollination of ideas and support the development of AI systems that more accurately reflect the richness and complexity of human perception.</p>
     </div>
 </div>
@@ -25,7 +25,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://difa2025-bmvc.github.io/" target="_blank">https://difa2025-bmvc.github.io/</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Xingchen Zhang (Senior Lecturer, University of Exeter); Zhixiang Chen (Lecturer, The University of Sheffield); Shuyan Li (Lecturer, Queen's University Belfast)</p>
         <p class=" mb-1"><b>Contact: </b>x.zhang12@exeter.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>Information fusion has become a key enabler for perception, decision-making, and control across a wide range of domains. By integrating data from multiple sensors, modalities, or sources, it produces more robust and accurate representations of the world. In recent years, the field has significantly expanded in both scope and impact, largely driven by the adoption of deep learning techniques. Advances in multimodal and multi-source fusion have led to notable improvements in diverse applications, including robotics, autonomous driving, medical imaging, remote sensing, surveillance, and infrastructure inspection. Deep learning models—such as CNNs, GANs, autoencoders, transformers, and diffusion models—have further accelerated progress in both fusion methodologies and their downstream applications. This workshop aims to bring together researchers from across the information fusion community to present the latest developments in algorithms, datasets, evaluation strategies, and application-driven solutions. It also seeks to foster cross-disciplinary collaboration by welcoming participants from fields such as computer vision, natural language processing, robotics, healthcare, and remote sensing. By reviewing current trends and exploring future directions, the workshop intends to drive innovation and strengthen community ties in the evolving landscape of information fusion.</p>
     </div>
 </div>
@@ -38,7 +38,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://mveo.github.io/index.html" target="_blank">https://mveo.github.io/index.html</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Keiller Nogueira (Lecturer, University of Liverpool); Vahid Akbari (Lecturer, University of Stirling); Jan Boehm (Professor, University College London); Fabiana Di Ciaccio (Assistant Professor, University of Florence); Ribana Roscher (Professor, Research Center Jülich and University of Bonn); Ronny Hänsch (German Aerospace Center (DLR)); Chunbo Luo (Associate Professor, University of Exeter); Diego Marcos (Junior Professor, Inria, Université de Montpellier); Paolo Russo (Assistant Professor, Sapienza University of Rome)</p>
         <p class=" mb-1"><b>Contact: </b>keiller.nogueira@liverpool.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>This workshop focuses on advancing Earth Observation, a multidisciplinary research field combining computer vision, machine learning, and signal/image processing to address pressing global challenges (such as climate change, pollution, biodiversity loss, and so on) which span a wide range of applications (including online mapping services, large-scale surveillance, urban modelling, navigation systems, natural hazard forecasting and response, virtual habitat modelling, etc). Specifically, the primary goal of this workshop is to foster collaboration and idea exchange between the Computer Vision, Remote Sensing, and Environmental Monitoring communities, both nationally and internationally. By bringing together researchers and experts from these fields, we aim to promote interdisciplinary research, encourage innovative computer vision approaches for automated interpretation of Earth observation and Environmental data, and enhance knowledge within the Computer Vision community for this rapidly evolving and highly impactful area of research. Overall, the potential outcomes of this research are far-reaching, affecting human society, economy, industry, and the environment.</p>
     </div>
 </div>
@@ -51,7 +51,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://dbhowmik.github.io/MediaTrust/workshops/" target="_blank">https://dbhowmik.github.io/MediaTrust/workshops/</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Deepayan Bhowmik (Senior Lecturer, Newcastle University); Frederik Temmermans (imec, Vrije Universiteit Brussel); Sabrina Caldwell (Senior Lecturer, Australian National University)</p>
         <p class=" mb-1"><b>Contact: </b>deepayan.bhowmik@ncl.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>Recent advances in artificial intelligence, especially Generative AI, for media creation and manipulation enable users to produce near-realistic media content that is almost indistinguishable from authentic content to the human eye. These developments open a multitude of opportunities, from creative content production, the art industry, and digital restoration to image and video coding. However, they also risk infringing copyrights and spreading manipulated media, such as deepfakes, which often lead to social unrest, the spread of rumours for political gain, or the encouragement of hate crimes. The workshop aims to solicit papers and talks addressing the current advances in trustworthy media generation, distribution and consumption.</p>
     </div>
 </div>
@@ -64,7 +64,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/srbs-bmvc2025/home" target="_blank">https://sites.google.com/view/srbs-bmvc2025/home</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Fadi Boutros (Senior Research Fellow, Fraunhofer Institute for Computer Graphics Research IGD); Naser Damer (Senior Research Fellow, Fraunhofer Institute for Computer Graphics Research IGD and Professor, Technical University Darmstadt); Marija Ivanovska (Assistant, University of Ljubljana); Vishal Patel (Associate Professor, Johns Hopkins University); Ajita Rattani (Assistant Professor, University of North Texas); Anderson Rocha (Full Professor, University of Campinas); Vitomir Štruc (Full Professor, University of Ljubljana)</p>
         <p class=" mb-1"><b>Contact: </b>marija.ivanovska@fe.uni-lj.si</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>Recent advancements in deep learning, including Generative Adversarial Networks (GANs) and Diffusion models, have fueled the generation and detection of highly realistic synthetic images and videos. While such content has applications in entertainment, it also raises serious concerns in security and media, where synthetic data is used to impersonate individuals or spread misinformation. In biometric authentication, manipulated visuals can enable unauthorized access, making robust detection methods essential for preventing breaches and ensuring the integrity of secure systems and public information. The workshop covers a broad range of topics including generative models, image and video synthesis, detection of manipulated content, biometric and physical attacks, forensic analysis, ethical implications, and the role of foundation and multimodal models in generation and detection tasks.</p>
     </div>
 </div>
@@ -77,7 +77,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://mvcc-bmvc.github.io/" target="_blank">https://mvcc-bmvc.github.io/</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Lakshmi Babu Saheer (Director of Computing Informatics and Applications Research group, Assistant Professor in AI, Anglia Ruskin University); Mahdi Maktabdar Oghaz (Assistant Professor in AI, Anglia Ruskin University); Jennifer Schooling (Professor in Digital Innovation and Smart Places, Anglia Ruskin University); Manu Sasidharan (Assistant Professor in Infrastructure Asset Management, University College London); Avar Almukhtar (Senior Lecturer in Construction Informatics, School of the Built Environment, Oxford Brookes University); Raul Aquinos Santos (Professor and Chair for TG-AI for Flood Monitoring and Detection and International Telecommunication Union (ITU), Universidad de Colima)</p>
         <p class=" mb-1"><b>Contact: </b>lakshmi.babu-saheer@aru.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The Machine Vision for Climate Change (MVCC) workshop at BMVC 2025 aims to bring together researchers and practitioners at the intersection of computer vision and environmental sustainability. The workshop will explore how state-of-the-art machine vision techniques, spanning deep learning models, satellite imagery, UAVs, video, and remote sensing can be applied to address critical climate change challenges. We invite contributions focused on sustainable infrastructure, renewable energy, biodiversity, forestry, agriculture, disaster response, air quality, and climate-related public health. Emphasis will also be placed on ethical and responsible AI, including fairness, energy efficiency, and interpretability of vision models in climate applications. MVCC seeks to foster interdisciplinary collaboration and highlight the transformative potential of visual intelligence in building a sustainable and resilient future.</p>
     </div>
 </div>
@@ -90,7 +90,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/pfatcvbmvc25/home" target="_blank">https://sites.google.com/view/pfatcvbmvc25/home</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Fani Deligianni (University of Glasgow); Idris Zakariyya (University of Glasgow); Ng Pai Chet (Singapore Institute of Technology); Jefersson A. dos Santos (The University of Sheffield); Jindong Gu (University of Oxford and DeepMind)</p>
         <p class=" mb-1"><b>Contact: </b>fani.deligianni@glasgow.ac.uk</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The advances in computer vision research have transformed the way people work and think. Deep learning techniques has outperformed classical machine learning and exceeded human performance, demonstrating the potential to translate computer vision in critical real applications. Nevertheless, applying these techniques broadly in privacy sensitive domains is met with significant hurdles, including ethical considerations, safety, and privacy issues, all of which must be thoroughly considered and resolved prior to widespread adoption. Furthermore, the ethical consideration of employing these technologies to continuous monitoring has been underestimated, since signatures of biometrics can be revealed even when subjects are not directly identifiable. This workshop invites outstanding works on this technically challenging domain to reveal threats and ethical issues and propose solutions. Similarly to last year success (PFATCV@BMVC24), we aim to feature cutting-edge research from both academic institutions and industry partners, fostering valuable discussions on privacy-preserving computer vision techniques.</p>
     </div>
 </div>
@@ -103,7 +103,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="" target="_blank"></a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos Conde (Research Leader, University of Würzburg and CIDAUT); Alvaro Garcia (Director, CIDAUT); Daniel Feijoo (Ph.D. Student, CIDAUT and University of Valladolid); Juan Carlos Benito (Ph.D. Student, CIDAUT and University of Valladolid); Takato Morifuji (Ph.D. Student, University of Tokyo); (Tentative) Ziteng Cui (Ph.D. Student, University of Tokyo); (Tentative) Lin Gu (Ph.D. Student, University of Tokyo)</p>
         <p class=" mb-1"><b>Contact: </b>marcos.conde@uni-wuerzburg.de</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b></p>
     </div>
 </div>
@@ -116,7 +116,7 @@ index: 15
         <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/su2hm/home" target="_blank">https://sites.google.com/view/su2hm/home</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Yousef Yeganeh (Senior Research Associate (PhD Candidate), Technical University of Munich (TUM)); Azade Farshad (Postdoctoral Research Associate, Technical University of Munich (TUM)); Marilyn Keller (Senior Research Associate (PhD Candidate), Max Planck Institute); Nassir Navab (Full Professor, Technical University of Munich (TUM)); Ehsan Adeli (Assistant Professor, Stanford University)</p>
         <p class=" mb-1"><b>Contact: </b>y.yeganeh@tum.de</p>
-        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
         <p class="pb-1 text-justify"><b>Summary: </b>This workshop explores advancements in human modeling and contextual scene analysis within deep learning, crucial for interpreting complex visual environments across various applications like robotics and medical imaging. It emphasizes the accurate modeling of humans and the intricate relationships between all entities in a scene. The workshop will delve into sophisticated human representations (motion, physical plausibility, inferred states) for improved action recognition and behavior prediction, alongside techniques for understanding overall scene context (scene graph prediction, temporal dynamics). A key focus is the interplay between these areas: how detailed human models enhance scene understanding, and how broader scene context refines human modeling. It also highlights emerging datasets and generalized foundation models for jointly reasoning about human behavior and the environment.</p>
     </div>
 </div>
