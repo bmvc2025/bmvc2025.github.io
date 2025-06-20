@@ -10,7 +10,7 @@ index: 15
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Multisensory Intelligence for Human Perception</h4>
         <p class=" mb-1"><b>Website: </b><a href="https://weihaox.github.io/bmvc2025mpi" target="_blank">https://weihaox.github.io/bmvc2025mpi</a></p>
-        <p class=" mb-1 text-justify"><b>Organisers: </b>Weihao Xia (Postdoctoral Researcher, University of Cambridge); Jingyuan Sun, (Assistant Professor, The University of Manchester); Chenghua Lin (Professor, The University of Manchester); Cengiz Oztireli (Professor, University of Cambridge)</p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Weihao Xia (Postdoctoral Researcher, University of Cambridge); Jingyuan Sun (Assistant Professor, The University of Manchester); Chenghua Lin (Professor, The University of Manchester); Cengiz Oztireli (Professor, University of Cambridge)</p>
         <p class=" mb-1"><b>Contact: </b>wx258@cam.ac.uk</p>
         <p class=" mb-1"><b>Venue: </b>TBD</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The goal of this workshop is to catalyse a paradigm shift in the AI community’s approach to perception—from a narrowly multimodal perspective to a truly multisensory one. We aim to highlight recent advancements in specialized domains, including computational olfaction, haptic learning, gustatory modelling, and neuro-symbolic integration, while bringing together researchers from diverse fields. In doing so, we hope to encourage cross-pollination of ideas and support the development of AI systems that more accurately reflect the richness and complexity of human perception.</p>
@@ -60,9 +60,22 @@ index: 15
 
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">2nd Workshop on Synthetic Realities and Biometric Security: Advances in Forensic Analysis and Threat Mitigation (SRBS 2025)</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/srbs-bmvc2025/home" target="_blank">https://sites.google.com/view/srbs-bmvc2025/home</a></p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Fadi Boutros (Senior Research Fellow, Fraunhofer Institute for Computer Graphics Research IGD); Naser Damer (Senior Research Fellow, Fraunhofer Institute for Computer Graphics Research IGD and Professor, Technical University Darmstadt); Marija Ivanovska (Assistant, University of Ljubljana); Vishal Patel (Associate Professor, Johns Hopkins University); Ajita Rattani (Assistant Professor, University of North Texas); Anderson Rocha (Full Professor, University of Campinas); Vitomir Štruc (Full Professor, University of Ljubljana)</p>
+        <p class=" mb-1"><b>Contact: </b>marija.ivanovska@fe.uni-lj.si</p>
+        <p class=" mb-1"><b>Venue: </b>TBD</p>
+        <p class="pb-1 text-justify"><b>Summary: </b>Recent advancements in deep learning, including Generative Adversarial Networks (GANs) and Diffusion models, have fueled the generation and detection of highly realistic synthetic images and videos. While such content has applications in entertainment, it also raises serious concerns in security and media, where synthetic data is used to impersonate individuals or spread misinformation. In biometric authentication, manipulated visuals can enable unauthorized access, making robust detection methods essential for preventing breaches and ensuring the integrity of secure systems and public information. The workshop covers a broad range of topics including generative models, image and video synthesis, detection of manipulated content, biometric and physical attacks, forensic analysis, ethical implications, and the role of foundation and multimodal models in generation and detection tasks.</p>
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Machine Vision for Climate change</h4>
         <p class=" mb-1"><b>Website: </b><a href="https://mvcc-bmvc.github.io/" target="_blank">https://mvcc-bmvc.github.io/</a></p>
-        <p class=" mb-1 text-justify"><b>Organisers: </b>Lakshmi Babu Saheer (Director of Computing Informatics and Applications Research group, Assistant Professor in AI, Anglia Ruskin University); Mahdi Maktabdar Oghaz (Assistant Professor in AI, Anglia Ruskin University); Jennifer Schooling (Professor in Digital Innovation and Smart Places,Anglia Ruskin University); Manu Sasidharan (Assistant Professor in Infrastructure Asset Management, University College London); Avar Almukhtar, Senior Lecturer in Construction Informatics, School of the Built Environment, Oxford Brookes University; Raul Aquinos Santos (Professor and Chair for TG- AI for Flood Monitoring and Detection and International Telecommunication Union (ITU), Universidad de Colima)</p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Lakshmi Babu Saheer (Director of Computing Informatics and Applications Research group, Assistant Professor in AI, Anglia Ruskin University); Mahdi Maktabdar Oghaz (Assistant Professor in AI, Anglia Ruskin University); Jennifer Schooling (Professor in Digital Innovation and Smart Places, Anglia Ruskin University); Manu Sasidharan (Assistant Professor in Infrastructure Asset Management, University College London); Avar Almukhtar (Senior Lecturer in Construction Informatics, School of the Built Environment, Oxford Brookes University); Raul Aquinos Santos (Professor and Chair for TG-AI for Flood Monitoring and Detection and International Telecommunication Union (ITU), Universidad de Colima)</p>
         <p class=" mb-1"><b>Contact: </b>lakshmi.babu-saheer@aru.ac.uk</p>
         <p class=" mb-1"><b>Venue: </b>TBD</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The Machine Vision for Climate Change (MVCC) workshop at BMVC 2025 aims to bring together researchers and practitioners at the intersection of computer vision and environmental sustainability. The workshop will explore how state-of-the-art machine vision techniques, spanning deep learning models, satellite imagery, UAVs, video, and remote sensing can be applied to address critical climate change challenges. We invite contributions focused on sustainable infrastructure, renewable energy, biodiversity, forestry, agriculture, disaster response, air quality, and climate-related public health. Emphasis will also be placed on ethical and responsible AI, including fairness, energy efficiency, and interpretability of vision models in climate applications. MVCC seeks to foster interdisciplinary collaboration and highlight the transformative potential of visual intelligence in building a sustainable and resilient future.</p>
@@ -75,7 +88,7 @@ index: 15
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Privacy, Fairness, Accountability and Transparency in Computer Vision</h4>
         <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/pfatcvbmvc25/home" target="_blank">https://sites.google.com/view/pfatcvbmvc25/home</a></p>
-        <p class=" mb-1 text-justify"><b>Organisers: </b>Fani Deligianni (University of Glasgow); Idris Zakariyya (University of Glasgow); Ng Pai Chet (Singapore Institute of Technology); Jefersson A. dos Santos (The University of Sheffield); Jindong Gu (University of Oxford / DeepMind)</p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Fani Deligianni (University of Glasgow); Idris Zakariyya (University of Glasgow); Ng Pai Chet (Singapore Institute of Technology); Jefersson A. dos Santos (The University of Sheffield); Jindong Gu (University of Oxford and DeepMind)</p>
         <p class=" mb-1"><b>Contact: </b>fani.deligianni@glasgow.ac.uk</p>
         <p class=" mb-1"><b>Venue: </b>TBD</p>
         <p class="pb-1 text-justify"><b>Summary: </b>The advances in computer vision research have transformed the way people work and think. Deep learning techniques has outperformed classical machine learning and exceeded human performance, demonstrating the potential to translate computer vision in critical real applications. Nevertheless, applying these techniques broadly in privacy sensitive domains is met with significant hurdles, including ethical considerations, safety, and privacy issues, all of which must be thoroughly considered and resolved prior to widespread adoption. Furthermore, the ethical consideration of employing these technologies to continuous monitoring has been underestimated, since signatures of biometrics can be revealed even when subjects are not directly identifiable. This workshop invites outstanding works on this technically challenging domain to reveal threats and ethical issues and propose solutions. Similarly to last year success (PFATCV@BMVC24), we aim to feature cutting-edge research from both academic institutions and industry partners, fostering valuable discussions on privacy-preserving computer vision techniques.</p>
@@ -88,7 +101,7 @@ index: 15
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Smart Cameras for Smarter Autonomous Vehicles and Robots</h4>
         <p class=" mb-1"><b>Website: </b><a href="" target="_blank"></a></p>
-        <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos Conde (Research Leader, University of Würzburg and CIDAUT); Alvaro Garcia, Director, CIDAUT); Daniel Feijoo (Ph.D. Student, CIDAUT and University of Valladolid); Juan Carlos Benito (Ph.D. Student, CIDAUT and University of Valladolid); Takato Morifuji (Ph.D. Student, University of Tokyo); (Tentative) Ziteng Cui (Ph.D. Student, University of Tokyo); (Tentative) Lin Gu (Ph.D. Student, University of Tokyo)</p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos Conde (Research Leader, University of Würzburg and CIDAUT); Alvaro Garcia (Director, CIDAUT); Daniel Feijoo (Ph.D. Student, CIDAUT and University of Valladolid); Juan Carlos Benito (Ph.D. Student, CIDAUT and University of Valladolid); Takato Morifuji (Ph.D. Student, University of Tokyo); (Tentative) Ziteng Cui (Ph.D. Student, University of Tokyo); (Tentative) Lin Gu (Ph.D. Student, University of Tokyo)</p>
         <p class=" mb-1"><b>Contact: </b>marcos.conde@uni-wuerzburg.de</p>
         <p class=" mb-1"><b>Venue: </b>TBD</p>
         <p class="pb-1 text-justify"><b>Summary: </b></p>
@@ -100,7 +113,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">From Scene Understanding to Human Modeling</h4>
-        <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/su2hm/home" target="_blank"></a>https://sites.google.com/view/su2hm/home</p>
+        <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/su2hm/home" target="_blank">https://sites.google.com/view/su2hm/home</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Yousef Yeganeh (Senior Research Associate (PhD Candidate), Technical University of Munich (TUM)); Azade Farshad (Postdoctoral Research Associate, Technical University of Munich (TUM)); Marilyn Keller (Senior Research Associate (PhD Candidate), Max Planck Institute); Nassir Navab (Full Professor, Technical University of Munich (TUM)); Ehsan Adeli (Assistant Professor, Stanford University)</p>
         <p class=" mb-1"><b>Contact: </b>y.yeganeh@tum.de</p>
         <p class=" mb-1"><b>Venue: </b>TBD</p>
