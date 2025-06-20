@@ -94,7 +94,6 @@ exclude:
   - programme/workshop_papers.md
   - programme/accepted_papers.md
   - programme/keynotes.md
-  - programme/workshops.md
   - programme/programme_glance.html
 
   - authors/faq.md
