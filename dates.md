@@ -17,8 +17,8 @@ permalink: /dates/
     </tr>
     {% for item in site.data.timeline.deadlines %}
     <tr>
-      {% if item.title == 'Abstract Submission Deadline' or item.title == 'Workshop Submission Deadline' or item.title == 'Paper Submission Deadline' or item.title == 'Supplementary Material Submission' or item.title == 'Workshop Submission Deadline' or item.title == 'Workshop Acceptance Notification' or item.title == 'Review Period Starts' or item.title == 'Reviews Submitted' or item.title == 'Start of AC/reviewer Discussion Period' or item.title == 'End of AC/reviewer Discussion Period' or item.title == 'Meta-Reviews Submitted' or item.title == 'Paper Decisions & Meta-Review Consolidation' or item.title == 'Doctoral Consortium Submission Open' or item.title == 'Author Notifications' or item.title == 'Doctoral Consortium Submission Close' or item.title == 'Camera Ready' or item.title == 'Doctoral Consortium Acceptance Notification' or item.title == 'Poster Submissions' or item.title == 'Video Submissions' or item.title == 'Conference Starts' or item.title == 'Conference Ends' %}
-      <td>{{ item.title }}&nbsp;
+      {% if item.title == 'Abstract Submission Deadline' or item.title == 'Workshop Submission Deadline' or item.title == 'Paper Submission Deadline' or item.title == 'Supplementary Material Submission'  or item.title == 'Review Period Starts' or item.title == 'Workshop Acceptance Notification' or item.title == 'Reviews Submitted' or item.title == 'Start of AC/reviewer Discussion Period' or item.title == 'End of AC/reviewer Discussion Period'%}
+      <td><del>{{ item.title }}</del>&nbsp;
           {% for tag in item.tags %}
             {% case tag.key %}
               {% when "Authors" %}
@@ -65,3 +65,20 @@ permalink: /dates/
   </tbody>
 </table>
 </div>
+
+
+<!-- 
+or item.title == 'Reviewer Final Reviews' 
+or item.title == 'Meta-Reviews Submitted' 
+or item.title == 'Paper Decisions & Meta-Review Consolidation' 
+or item.title == 'Doctoral Consortium Submission Open' 
+or item.title == 'Author Notifications' 
+or item.title == 'Doctoral Consortium Submission Close' 
+or item.title == 'Camera Ready for Papers'       
+or item.title == 'Doctoral Consortium Acceptance Notification' 
+or item.title == 'Camera Ready for Workshops' 
+or item.title == 'Poster Submissions' 
+or item.title == 'Video Submissions' 
+or item.title == 'Conference Starts' 
+or item.title == 'Conference Ends' 
+-->
