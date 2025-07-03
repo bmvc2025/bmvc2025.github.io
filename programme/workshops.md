@@ -100,11 +100,11 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Smart Cameras for Smarter Autonomous Vehicles and Robots</h4>
-        <p class=" mb-1"><b>Website: </b><a href="" target="_blank"></a></p>
-        <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos Conde (Research Leader, University of Würzburg and CIDAUT); Alvaro Garcia (Director, CIDAUT); Daniel Feijoo (Ph.D. Student, CIDAUT and University of Valladolid); Juan Carlos Benito (Ph.D. Student, CIDAUT and University of Valladolid); Takato Morifuji (Ph.D. Student, University of Tokyo); (Tentative) Ziteng Cui (Ph.D. Student, University of Tokyo); (Tentative) Lin Gu (Ph.D. Student, University of Tokyo)</p>
+        <p class=" mb-1"><b>Website: </b><a href="https://supercamerai.github.io/" target="_blank">https://supercamerai.github.io/</a></p>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos V. Conde (University of Würzburg and CIDAUT AI); Alvaro Garcia (CIDAUT AI); Daniel Feijoo (CIDAUT AI); Juan Carlos Benito (CIDAUT AI); Lin Gu (University of Tokyo); Arturo Deza (Artificio); Larissa Triess (Mercedes-Benz R&D)</p>
         <p class=" mb-1"><b>Contact: </b>marcos.conde@uni-wuerzburg.de</p>
         <p class=" mb-1"><b>Venue: </b>Cutlers' Hall</p>
-        <p class="pb-1 text-justify"><b>Summary: </b></p>
+        <p class="pb-1 text-justify"><b>Summary: </b></p>Many advances in the development of autonomous robots and self-driving cars are limited by the embedded sensors. Arguably, the most important sensors in autonomous vehicles and robots are the cameras. The complete navigation and driving pipeline relies on high-quality visual input data. Vision-based algorithms for object recognition and scene understanding are key to ensure proper navigation and interaction in the real-world, however, what happens if the camera gets damaged? What if the visual information is noisy? The safety and proper behavior of many autonomous systems depends on the quality and reliability of the cameras. For this reason, we introduce the 1st workshop "Smart Cameras for Smarter Autonomous Vehicles and Robots" to unify low-level vision, computational photography and robotics.
     </div>
 </div>
 
