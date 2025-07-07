@@ -24,14 +24,15 @@ title: Home
 
 
 <div class="alert mt-3 alert-info" style="">
-    <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p>
+    # <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p>
     <p>Top papers from BMVC 2025 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV)! </p>
-    <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
+    # <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p>
     <p>BMVC will not have a rebuttal period this year! Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>
     <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city! </p>
     <p>BMVC'25 will be held in Sheffield. </p>
 </div>
 
+{% comment %} 
 ## Call for Area Chairs and Reviewers
 
 <p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
@@ -40,7 +41,9 @@ title: Home
 * Reviewers: <a href="https://forms.gle/UwvuHkbRtJZrptzw6">Call for Reviewers Form</a>
 
 ## Call for Papers
+{% endcomment %} 
 
+{% comment %} 
 <p class="text-justify">The 36th BMVC will be held from 24th - 27th November 2025. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
     
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
@@ -57,7 +60,7 @@ title: Home
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/author-guidelines.md %}">Author Guidelines</a></p>
     </div> 
 </div>
-
+{% endcomment %} 
 
 ## About the BMVC
 
