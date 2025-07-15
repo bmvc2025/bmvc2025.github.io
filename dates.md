@@ -17,7 +17,7 @@ permalink: /dates/
     </tr>
     {% for item in site.data.timeline.deadlines %}
     <tr>
-      {% if item.title == 'Abstract Submission Deadline' or item.title == 'Workshop Submission Deadline' or item.title == 'Paper Submission Deadline' or item.title == 'Supplementary Material Submission'  or item.title == 'Review Period Starts' or item.title == 'Workshop Acceptance Notification' or item.title == 'Reviews Submitted' or item.title == 'Start of AC/reviewer Discussion Period' or item.title == 'End of AC/reviewer Discussion Period'%}
+      {% if item.title == 'Abstract Submission Deadline' or item.title == 'Workshop Submission Deadline' or item.title == 'Paper Submission Deadline' or item.title == 'Supplementary Material Submission'  or item.title == 'Review Period Starts' or item.title == 'Workshop Acceptance Notification' or item.title == 'Reviews Submitted' or item.title == 'Start of AC/reviewer Discussion Period' or item.title == 'End of AC/reviewer Discussion Period' or item.title == 'Reviewer Final Reviews' or item.title == 'Meta-Reviews Submitted' or item.title == 'Doctoral Consortium Submission Open'%}
       <td><del>{{ item.title }}</del>&nbsp;
           {% for tag in item.tags %}
             {% case tag.key %}
