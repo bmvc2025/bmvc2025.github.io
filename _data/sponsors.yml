@@ -5,6 +5,12 @@ sponsors:
     url: "https://encord.com/"
     url-external: "https://encord.com/"  
 
+  - name: The_University_of_Sheffield
+    type: Supported by
+    logo: tuos_cs.png
+    url: "https://sheffield.ac.uk/cs"
+    url-external: "https://sheffield.ac.uk/cs"
+
   # - name: Technovative Solutions
   #   type: Platinum
   #   logo: technovative_solutions.png

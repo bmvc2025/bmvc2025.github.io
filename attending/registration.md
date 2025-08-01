@@ -5,6 +5,8 @@ permalink: /attending/registration/
 index: 1
 ---
 
+Registration details will be available in due course. 
+
 {% comment %} 
 
 **Registration can be completed in the following link: <a href="https://bmva.charitysuite.com/events/zz5rrcqk">https://bmva.charitysuite.com/events/zz5rrcqk</a>.**
