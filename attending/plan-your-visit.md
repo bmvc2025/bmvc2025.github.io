@@ -7,7 +7,7 @@ index: 1
 
 ## Hotel information
 
-Book your hotel room for the event at special rates, available here: <https://book.passkey.com/event/51086401/owner/9279439/home?utm_campaign=298027909>
+Book your hotel room for the event at special rates, available here: <https://book.passkey.com/e/51086401>
 
 <!-- **Conference-specific hotel information will appear here in due course.**
 
