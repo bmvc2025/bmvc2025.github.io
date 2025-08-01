@@ -57,7 +57,8 @@ permalink: /sponsors/
     {% if group.name == 'Gold' or group.name == 'Platinum' or group.name == 'Silver'%} 
         <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
         {% else %}
-        <h3>{{-group.name-}}&nbsp;:</h3>
+        <!-- <h3>{{-group.name-}}&nbsp;:</h3> -->
+        <h3>{{-group.name-}}:</h3>
     {% endif %}
     {% for item in group.items %}
         <li class="list-inline-item">
