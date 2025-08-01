@@ -18,9 +18,9 @@ General information about Sheffield hotels can be found on the Welcome to Sheffi
 The [Welcome to Sheffield website](https://www.welcometosheffield.co.uk) provides a wealth of information on being [a delegate at a conference in Sheffield](https://www.welcometosheffield.co.uk/conference/information-for-delegates/). 
 
 <div style="display: flex; gap: 10px;">
-  <img src="imgs_2025/sheffield/image1.jpg" style="width: 25%;">
-  <img src="imgs_2025/sheffield/image2.jpg" style="width: 25%;">
-  <img src="imgs_2025/sheffield/image3.jpg" style="width: 25%;">
+  <img src="{{ site.baseurl }}/imgs_2025/sheffield/image1.jpg" style="width: 25%;">
+  <img src="{{ site.baseurl }}/imgs_2025/sheffield/image2.jpg" style="width: 25%;">
+  <img src="{{ site.baseurl }}/imgs_2025/sheffield/image3.jpg" style="width: 25%;">
 </div>
 
 This includes information on getting to Sheffield: <https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/>
