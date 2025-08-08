@@ -47,7 +47,7 @@ function debugLog(message) {
   debugDiv.innerText += message + '\n';
 }
 
-fetch("../../programme/accepted_papers.csv")
+fetch('accepted_papers.csv')
   .then(response => response.text())
   .then(csv => {
     const rows = csv.trim().split('\n').map(row => row.split(','));
@@ -90,9 +90,9 @@ fetch("../../programme/accepted_papers.csv")
     html += '</tbody></table>';
     document.getElementById('csv-table').innerHTML = html;
   })
-  .catch(error => {
-    document.getElementById('csv-table').innerHTML = '<p>Error loading CSV.</p>';
-    debugLog('Fetch error: ' + error);
+  .catch(err => {
+    document.getElementById('csv-table').innerHTML = `<p style="color:red;">Error loading CSV: ${err.message}</p>`;
+    debugLog("Fetch error: " + err.stack);
   });
 </script>
 
