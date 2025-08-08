@@ -42,57 +42,43 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
 <div id="csv-table"></div>
 
 <script>
-function debugLog(message) {
-  const debugDiv = document.getElementById('debug-output');
-  debugDiv.innerText += message + '\n';
-}
-
 fetch('accepted_papers.csv')
   .then(response => response.text())
   .then(csv => {
     const rows = csv.trim().split('\n').map(row => row.split(','));
+    
+    const header = rows[0].map(h => h.replace(/^\uFEFF/, '').trim().toLowerCase());
 
-    if (rows.length === 0) {
-      document.getElementById('csv-table').innerHTML = '<p>No data found in CSV.</p>';
-      return;
-    }
+    document.getElementById('csv-table').innerText = "Header: " + JSON.stringify(header);
 
-    const rawHeader = rows[0];
-    const header = rawHeader.map(h => h.replace(/^\uFEFF/, '').trim());
-
-    debugLog('Raw Header: ' + JSON.stringify(rawHeader));
-    debugLog('Cleaned Header: ' + JSON.stringify(header));
-
-    const numberIndex = header.indexOf('number');
+    const idIndex = header.indexOf('number');
     const titleIndex = header.indexOf('title');
 
-    debugLog('number index: ' + numberIndex);
-    debugLog('title index: ' + titleIndex);
+    document.getElementById('csv-table').innerText += 
+      `\nnumber index: ${idIndex}, title index: ${titleIndex}`;
 
-    if (numberIndex === -1 || titleIndex === -1) {
+    if (idIndex === -1 || titleIndex === -1) {
       document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
       return;
     }
 
-    let html = '<table><thead><tr>';
-    html += `<th>${header[numberIndex]}</th><th>${header[titleIndex]}</th>`;
+    let html = '<table border="1"><thead><tr>';
+    html += `<th>${rows[0][idIndex]}</th><th>${rows[0][titleIndex]}</th>`;
     html += '</tr></thead><tbody>';
 
     for (let i = 1; i < rows.length; i++) {
-      const cols = rows[i].map(cell => cell.trim());
-      if (cols.length > Math.max(numberIndex, titleIndex)) {
+      const cols = rows[i];
+      if (cols.length > Math.max(idIndex, titleIndex)) {
         html += '<tr>';
-        html += `<td>${cols[numberIndex]}</td><td>${cols[titleIndex]}</td>`;
+        html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
         html += '</tr>';
       }
     }
-
     html += '</tbody></table>';
     document.getElementById('csv-table').innerHTML = html;
   })
   .catch(err => {
     document.getElementById('csv-table').innerHTML = `<p style="color:red;">Error loading CSV: ${err.message}</p>`;
-    debugLog("Fetch error: " + err.stack);
   });
 </script>
 
