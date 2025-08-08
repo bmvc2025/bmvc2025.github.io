@@ -42,35 +42,57 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
 <div id="csv-table"></div>
 
 <script>
+function debugLog(message) {
+  const debugDiv = document.getElementById('debug-output');
+  debugDiv.innerText += message + '\n';
+}
+
 fetch('accepted_papers.csv')
   .then(response => response.text())
   .then(csv => {
     const rows = csv.trim().split('\n').map(row => row.split(','));
 
-    const header = rows[0];
-    const idIndex = header.indexOf('number');
+    if (rows.length === 0) {
+      document.getElementById('csv-table').innerHTML = '<p>No data found in CSV.</p>';
+      return;
+    }
+
+    const rawHeader = rows[0];
+    const header = rawHeader.map(h => h.replace(/^\uFEFF/, '').trim());
+
+    debugLog('Raw Header: ' + JSON.stringify(rawHeader));
+    debugLog('Cleaned Header: ' + JSON.stringify(header));
+
+    const numberIndex = header.indexOf('number');
     const titleIndex = header.indexOf('title');
 
-    if (idIndex === -1 || titleIndex === -1) {
+    debugLog('number index: ' + numberIndex);
+    debugLog('title index: ' + titleIndex);
+
+    if (numberIndex === -1 || titleIndex === -1) {
       document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
       return;
     }
 
     let html = '<table><thead><tr>';
-    html += `<th>${header[idIndex]}</th><th>${header[titleIndex]}</th>`;
+    html += `<th>${header[numberIndex]}</th><th>${header[titleIndex]}</th>`;
     html += '</tr></thead><tbody>';
 
     for (let i = 1; i < rows.length; i++) {
-      const cols = rows[i];
-      if (cols.length > Math.max(idIndex, titleIndex)) {
+      const cols = rows[i].map(cell => cell.trim());
+      if (cols.length > Math.max(numberIndex, titleIndex)) {
         html += '<tr>';
-        html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
+        html += `<td>${cols[numberIndex]}</td><td>${cols[titleIndex]}</td>`;
         html += '</tr>';
       }
     }
 
     html += '</tbody></table>';
     document.getElementById('csv-table').innerHTML = html;
+  })
+  .catch(error => {
+    document.getElementById('csv-table').innerHTML = '<p>Error loading CSV.</p>';
+    debugLog('Fetch error: ' + error);
   });
 </script>
 
