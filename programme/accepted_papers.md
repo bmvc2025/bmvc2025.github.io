@@ -13,73 +13,67 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
 
 ---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Number Table</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            color:#ffffff;
-            background-color: #003865;
-        }
-    </style>
-</head>
+<style>
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    color: #fff;
+    background-color: #003865;
+}
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+</style>
 
 <div id="csv-table"></div>
 
 <script>
-fetch('accepted_papers.csv')
-  .then(response => response.text())
-  .then(csv => {
-    const rows = csv.trim().split('\n').map(row => row.split(','));
-    
-    const header = rows[0].map(h => h.replace(/^\uFEFF/, '').trim().toLowerCase());
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('accepted_papers.csv')
+    .then(response => response.text())
+    .then(csv => {
+      const rows = csv.trim().split('\n').map(row => row.split(','));
+      const header = rows[0].map(h => h.replace(/^\uFEFF/, '').trim().toLowerCase());
 
-    document.getElementById('csv-table').innerText = "Header: " + JSON.stringify(header);
+      document.getElementById('csv-table').innerText = "Header: " + JSON.stringify(header);
 
-    const idIndex = header.indexOf('number');
-    const titleIndex = header.indexOf('title');
+      const idIndex = header.indexOf('number');
+      const titleIndex = header.indexOf('title');
 
-    document.getElementById('csv-table').innerText += 
-      `\nnumber index: ${idIndex}, title index: ${titleIndex}`;
+      document.getElementById('csv-table').innerText += 
+        `\nnumber index: ${idIndex}, title index: ${titleIndex}`;
 
-    if (idIndex === -1 || titleIndex === -1) {
-      document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
-      return;
-    }
-
-    let html = '<table border="1"><thead><tr>';
-    html += `<th>${rows[0][idIndex]}</th><th>${rows[0][titleIndex]}</th>`;
-    html += '</tr></thead><tbody>';
-
-    for (let i = 1; i < rows.length; i++) {
-      const cols = rows[i];
-      if (cols.length > Math.max(idIndex, titleIndex)) {
-        html += '<tr>';
-        html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
-        html += '</tr>';
+      if (idIndex === -1 || titleIndex === -1) {
+        document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
+        return;
       }
-    }
-    html += '</tbody></table>';
-    document.getElementById('csv-table').innerHTML = html;
-  })
-  .catch(err => {
-    document.getElementById('csv-table').innerHTML = `<p style="color:red;">Error loading CSV: ${err.message}</p>`;
-  });
+
+      let html = '<table><thead><tr>';
+      html += `<th>${rows[0][idIndex]}</th><th>${rows[0][titleIndex]}</th>`;
+      html += '</tr></thead><tbody>';
+
+      for (let i = 1; i < rows.length; i++) {
+        const cols = rows[i];
+        if (cols.length > Math.max(idIndex, titleIndex)) {
+          html += '<tr>';
+          html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
+          html += '</tr>';
+        }
+      }
+      html += '</tbody></table>';
+      document.getElementById('csv-table').innerHTML = html;
+    })
+    .catch(err => {
+      document.getElementById('csv-table').innerHTML = `<p style="color:red;">Error loading CSV: ${err.message}</p>`;
+    });
+});
 </script>
 
 {% comment %} 
