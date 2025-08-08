@@ -47,7 +47,7 @@ function debugLog(message) {
   debugDiv.innerText += message + '\n';
 }
 
-fetch('accepted_papers.csv')
+fetch("../../programme/accepted_papers.csv")
   .then(response => response.text())
   .then(csv => {
     const rows = csv.trim().split('\n').map(row => row.split(','));
