@@ -5,8 +5,6 @@ permalink: /programme/accepted_papers/
 index: 5
 ---
 
-{% comment %} 
-
 Below is the list of accepted papers for BMVC 2025. Congratulations! You will receive an email with further information and the next steps soon!
 
 If your paper is not listed, it has been rejected. We understand how disappointing it can be to have a paper rejected—we've all been there. We hope the feedback from the reviews (when you receive the email) will provide valuable insights for revising the work and that you will consider resubmitting it in the future. 
@@ -14,11 +12,6 @@ If your paper is not listed, it has been rejected. We understand how disappointi
 This year, BMVC received X submissions of which X papers were accepted. Each paper had 3 reviews, including a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). Meta-reviews were verified by our Programme Chairs (PCs). All this was done while preserving author anonymity and avoiding domain conflicts.
 
 ---
-
-{% endcomment %} 
-
-
-{% comment %} 
 
 <head>
     <meta charset="UTF-8">
@@ -45,6 +38,43 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
         }
     </style>
 </head>
+
+<div id="csv-table"></div>
+
+<script>
+fetch('accepted_papers.csv')
+  .then(response => response.text())
+  .then(csv => {
+    const rows = csv.trim().split('\n').map(row => row.split(','));
+
+    const header = rows[0];
+    const idIndex = header.indexOf('number');
+    const titleIndex = header.indexOf('title');
+
+    if (idIndex === -1 || titleIndex === -1) {
+      document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
+      return;
+    }
+
+    let html = '<table><thead><tr>';
+    html += `<th>${header[idIndex]}</th><th>${header[titleIndex]}</th>`;
+    html += '</tr></thead><tbody>';
+
+    for (let i = 1; i < rows.length; i++) {
+      const cols = rows[i];
+      if (cols.length > Math.max(idIndex, titleIndex)) {
+        html += '<tr>';
+        html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
+        html += '</tr>';
+      }
+    }
+
+    html += '</tbody></table>';
+    document.getElementById('csv-table').innerHTML = html;
+  });
+</script>
+
+{% comment %} 
 
 <table border="1">
 <thead>
