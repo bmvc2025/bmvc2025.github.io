@@ -32,50 +32,6 @@ td {
 }
 </style>
 
-<div id="csv-table"></div>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  fetch('accepted_papers.csv')
-    .then(response => response.text())
-    .then(csv => {
-      const rows = csv.trim().split('\n').map(row => row.split(','));
-      const header = rows[0].map(h => h.replace(/^\uFEFF/, '').trim().toLowerCase());
-
-      document.getElementById('csv-table').innerText = "Header: " + JSON.stringify(header);
-
-      const idIndex = header.indexOf('number');
-      const titleIndex = header.indexOf('title');
-
-      document.getElementById('csv-table').innerText += 
-        `\nnumber index: ${idIndex}, title index: ${titleIndex}`;
-
-      if (idIndex === -1 || titleIndex === -1) {
-        document.getElementById('csv-table').innerHTML = '<p>Missing "number" or "title" column in CSV.</p>';
-        return;
-      }
-
-      let html = '<table><thead><tr>';
-      html += `<th>${rows[0][idIndex]}</th><th>${rows[0][titleIndex]}</th>`;
-      html += '</tr></thead><tbody>';
-
-      for (let i = 1; i < rows.length; i++) {
-        const cols = rows[i];
-        if (cols.length > Math.max(idIndex, titleIndex)) {
-          html += '<tr>';
-          html += `<td>${cols[idIndex]}</td><td>${cols[titleIndex]}</td>`;
-          html += '</tr>';
-        }
-      }
-      html += '</tbody></table>';
-      document.getElementById('csv-table').innerHTML = html;
-    })
-    .catch(err => {
-      document.getElementById('csv-table').innerHTML = `<p style="color:red;">Error loading CSV: ${err.message}</p>`;
-    });
-});
-</script>
-
 {% comment %} 
 
 <table border="1">
