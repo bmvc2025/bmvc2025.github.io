@@ -13,24 +13,31 @@ This year, BMVC received X submissions of which X papers were accepted. Each pap
 
 ---
 
-<style>
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-th {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-    color: #fff;
-    background-color: #003865;
-}
-td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-}
-</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            color:#ffffff;
+            background-color: #003865;
+        }
+    </style>
+</head>
 
 {% comment %} 
 
