@@ -9,7 +9,7 @@ Below is the list of accepted papers for BMVC 2025. Congratulations! You will re
 
 If your paper is not listed, it has been rejected. We understand how disappointing it can be to have a paper rejected—we've all been there. We hope the feedback from the reviews (when you receive the email) will provide valuable insights for revising the work and that you will consider resubmitting it in the future. 
 
-This year, BMVC received X submissions of which X papers were accepted. Each paper had 3 reviews, including a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). Meta-reviews were verified by our Programme Chairs (PCs). All this was done while preserving author anonymity and avoiding domain conflicts.
+This year, BMVC received 865 submissions of which 276 papers were accepted. Each paper had 3 reviews, including a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). Meta-reviews were verified by our Programme Chairs (PCs). All this was done while preserving author anonymity and avoiding domain conflicts.
 
 ---
 
