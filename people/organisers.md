@@ -24,7 +24,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Steve_Maddock.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/steve-maddock">Steve Maddock</a></h4>
+        <h4 class="pt-2"><a href="https://staffwww.dcs.shef.ac.uk/people/S.Maddock/index.shtml">Steve Maddock</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
