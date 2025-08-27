@@ -1,4 +1,10 @@
 sponsors:
+  - name: Tavus
+    type: Gold
+    logo: tavus.png
+    url: "https://www.tavus.io/"
+    url-external: "https://www.tavus.io/"  
+
   - name: ENCORD
     type: Silver
     logo: encord.png
