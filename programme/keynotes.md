@@ -11,7 +11,7 @@ index: 5
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
                     <img src="../../imgs_2025/Marc_Pollefeys.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-                    <h4 class="pt-2"><a href="https://laurasevilla.me">Marc Pollefeys</a></h4>
+                    <h4 class="pt-2"><a href="https://people.inf.ethz.ch/marc.pollefeys/">Marc Pollefeys</a></h4>
                     <span class=""><small>ETH Zurich</small></span>
                 </div>
             </div>
