@@ -24,7 +24,6 @@ index: 5
                 </div>
             </div>
         </div>
-
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
@@ -39,6 +38,23 @@ index: 5
                     <p class="text-center mb-1"><small></small></p> 
                     <p class="pb-1 mb-1 text-justify"><b>Abstract: </b></p>
                     <p class="pb-2 text-justify"><b>Bio: </b>Professor Philip Torr did his PhD (DPhil) at the Robotics Research Group of the University of Oxford under Professor David Murray of the Active Vision Group. He worked for another three years at Oxford as a research fellow, and still maintains close contact as visiting fellow there. He left Oxford to work for six years as a research scientist for Microsoft Research, first in Redmond, USA, in the Vision Technology Group, then in Cambridge founding the vision side of the Machine Learning and Perception Group. He then became a Professor in Computer Vision and Machine Learning at Oxford Brookes University. In 2013, Philip returned to Oxford as full professor where he has established the Torr Vision group. He won several awards including the Marr prize (the highest honour in vision) in 1998. He is a Royal Society Wolfson Research Merit Award Holder. Recently, together with members of his group, he has won several other awards including an honorary mention at the NIPS 2007 conference for the paper 'P. Kumar, V. Kolmorgorov, and P.H.S. Torr, An Analysis of Convex Relaxations for MAP Estimation', in NIPS 21, Neural Information Processing Conference, and (oral) Best Paper at Conference for 'O. Woodford, P.H.S. Torr, I. Reid, and A.W. Fitzgibbon, Global Stereo Reconstruction under Second Order Smoothness Priors', in Proceedings IEEE Conference of Computer Vision and Pattern Recognition, 2008 . More recently he has been awarded best science paper at BMVC 2010 and ECCV 2010. He was involved in the algorithm design for Boujou released by 2D3. Boujou has won a clutch of industry awards, including Computer Graphics World Innovation Award, IABM Peter Wayne Award, and CATS Award for Innovation, and a technical EMMY. He then worked closely with this Oxford based company as well as other companies such as Sony on the Wonderbook project. He has been involved in numerous spin-outs as founder or advisor including: FiveAI, Onfido, Oxsight, Eigent, DreamTech, Visionary Machines, CamelAI, as well as working closely with big tech companies like Google, Meta, Apple, Microsoft, and Sony. He was elected Fellow of the Royal Academy of Engineering (FREng) in 2019, and Fellow of the Royal Society (FRS) in 2021 for contributions to computer vision. In 2021 he was made Turing AI world leading researcher fellow.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2025/Angela_Dai.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://eng.ox.ac.uk/people/philip-torr/">Angela Dai</a></h4>
+                    <span class=""><small>Technical University of Munich</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <h5 class="pt-1 text-center"><b>Geometry First: Structured Representations for Generating 3D in a Large-Data World</b></h5>
+                    <p class="text-center mb-1"><small></small></p> 
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Recent advances in machine learning have shown remarkable progress in generative synthesis of text, images, and even video, fueled by very large-scale data and compute. 3D, however, stands at the frontier of enabling machines to perceive and imagine the physical world -- critical for applications spanning content creation, mixed reality, and robotics. However, synthesis of 3D geometry remains constrained by significantly more limited data representing higher-dimensional information. In this talk, we explore lessons learned in incorporating structured priors into such generative 3D geometric synthesis. We examine how spatially grounded 3D scene representations can anchor learning, but often come at a high-dimensional cost. To address this, we construct compact 3D representations that preserve essential structures while remaining highly expressive. Finally, we show how integrating 3D structured priors with powerful complementary 2D signal can enable new possibilities in generative 3D synthesis. This opens the door to new paradigms beyond data limits for 3D synthesis.</p>
+                    <p class="pb-2 text-justify"><b>Bio: </b>Angela Dai is an Associate Professor at the Technical University of Munich where she leads the 3D AI Lab. Angela's research focuses on understanding how real-world 3D scenes around us can be modeled and semantically understood. Previously, she received her PhD in computer science from Stanford in 2018, advised by Pat Hanrahan, and her BSE in computer science from Princeton in 2013. Her research has been recognized through an ECVA Young Researcher Award, ERC Starting Grant, Eurographics Young Researcher Award, German Pattern Recognition Award, Google Research Scholar Award, and an ACM SIGGRAPH Outstanding Doctoral Dissertation Honorable Mention.</p>
                 </div>
             </div>
         </div>
