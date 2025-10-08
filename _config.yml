@@ -92,7 +92,6 @@ exclude:
   - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
-  - programme/programme_glance.html
 
   - authors/faq.md
   - authors/rebuttal-instructions.md  
