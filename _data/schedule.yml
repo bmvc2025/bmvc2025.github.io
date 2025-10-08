@@ -17,7 +17,7 @@ monday:
     start-time: "09:45"
     end-time: "11:00"
     session-type: "oral"
-    data: "Main Hall, 5 papers"
+    data: "Main Hall"
   - session: Tea & Coffee
     start-time: "11:00"
     end-time: "11:45"
@@ -26,7 +26,7 @@ monday:
     start-time: "11:00"
     end-time: "12:30"
     session-type: "poster"
-    data: "Cutlers' Hall, 47 posters"
+    data: "Cutlers' Hall"
   - session: Lunch
     start-time: "12:30"
     end-time: "14:00"
@@ -40,7 +40,7 @@ monday:
     start-time: "15:00"
     end-time: "16:30"
     session-type: "poster"
-    data: "Cutlers' Hall, 43 posters"
+    data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "16:00"
@@ -49,7 +49,7 @@ monday:
     start-time: "16:30"
     end-time: "17:30"
     session-type: "oral"
-    data: "Main Hall, 4 papers"
+    data: "Main Hall"
   - session: End
     start-time: "17:30"
     end-time: "17:30"
@@ -77,7 +77,7 @@ tuesday:
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Cutlers' Hall, 40 posters"
+    data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:45"
@@ -86,7 +86,7 @@ tuesday:
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Main Hall, 5 papers"
+    data: "Main Hall"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
@@ -95,7 +95,7 @@ tuesday:
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
-    data: "Cutlers' Hall, 57 posters"
+    data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "15:45"
@@ -104,7 +104,7 @@ tuesday:
     start-time: "15:45"
     end-time: "16:45"
     session-type: "oral"
-    data: "Main Hall, 4 papers"
+    data: "Main Hall"
   - session: Tea & Coffee
     start-time: "16:40"
     end-time: "17:05"
@@ -113,7 +113,7 @@ tuesday:
     start-time: "17:00"
     end-time: "18:00"
     session-type: "oral"
-    data: "Main Hall, 4 papers"
+    data: "Main Hall"
   - session: End
     start-time: "18:00"
     end-time: "18:00"
@@ -141,12 +141,12 @@ wednesday:
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Cutlers' Hall, 60 posters"
+    data: "Cutlers' Hall"
   - session: Doctoral Consortium
     start-time: "10:00"
     end-time: "13:00"
     session-type: "workshop"
-    data: "Cutlers' Hall, 8 presenters"
+    data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:45"
@@ -155,7 +155,7 @@ wednesday:
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Main Hall, 5 papers"
+    data: "Main Hall"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
@@ -164,7 +164,7 @@ wednesday:
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
-    data: "Cutlers' Hall, 37 posters + 8 DC"
+    data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "15:45"
@@ -173,7 +173,7 @@ wednesday:
     start-time: "15:45"
     end-time: "17:00"
     session-type: "oral"
-    data: "Main Hall, 5 papers"
+    data: "Main Hall"
   - session: Awards & closing speech
     start-time: "17:00"
     end-time: "17:30"
