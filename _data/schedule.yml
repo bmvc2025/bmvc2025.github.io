@@ -194,11 +194,10 @@ thursday:
     start-time: "08:30"
     end-time: "09:00"
     session-type: "break"
-  - session: Workshops start
+  - session: Morning workshops start
     start-time: "09:00"
     end-time: "09:00"
     session-type: "workshop"
-    data: "Nine workshops: one full-day and 8 half-day"
   - session: BMVA Town Hall
     start-time: "10:00"
     end-time: "11:00"
@@ -223,7 +222,7 @@ thursday:
     start-time: "15:45"
     end-time: "16:15"
     session-type: "break"
-  - session: Workshops end
+  - session: Afternoon workshops end
     start-time: "18:00"
     end-time: "18:00"
     session-type: "workshop"
