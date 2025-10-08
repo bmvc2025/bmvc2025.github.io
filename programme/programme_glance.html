@@ -63,6 +63,41 @@ index: 20
 </div>
 
 <div>
+  <p>BMVC 2025 can be found at: <a href="">BMVC Proceedings</a></p>
+</div>
+
+<hr>
+
+<div class="grid-container">
+  {% for day in site.data.schedule %}
+    {% assign day_name = day[0] %}
+    {% assign sessions = day[1] %}
+    <div class="container">
+      <div class="header">
+        {{ day_name }}
+      </div>
+      <div class="body-container">
+        {% for session in sessions %}
+          {% capture start %}{{ session.start-time | date: "%H:%M" }}{% endcapture %}
+          {% capture end %}{{ session.end-time | date: "%H:%M" }}{% endcapture %}
+          <div class="start-time" data-type="{{session.session-type}}">
+              {{ session.start-time | date: "%H:%M" }} - {{ session.end-time | date: "%H:%M" }}
+          </div>
+          <div class="session {{session.session-type}}" data-type="{{session.session-type}}" >
+                {{- session.session -}}
+              <div class="loc">
+                {{session.data}}
+              </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+{% comment %}
+
+<div>
   <p>BMVC 2025 can be found at: <a href="https://bmvc2025.github.io/conference_proceedings/">BMVC Proceedings</a></p>
 </div>
 
@@ -99,3 +134,5 @@ index: 20
 <div class="image-block text-center">
   <img src="{{ site.baseurl }}/imgs_2025/sponsors.png" alt="sponsors-logos" class="img-fluid" style="max-height: 300px;">
 </div>
+
+{% endcomment %}
