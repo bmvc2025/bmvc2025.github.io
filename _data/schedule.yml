@@ -201,7 +201,7 @@ thursday:
   - session: BMVA Town Hall
     start-time: "10:00"
     end-time: "11:00"
-    session-type: "meeting event"
+    session-type: "ceremony event"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:15"
