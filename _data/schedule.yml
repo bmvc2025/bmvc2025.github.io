@@ -53,7 +53,7 @@ monday:
   - session: End
     start-time: "17:30"
     end-time: "17:30"
-    session-type: "break event"
+    session-type: "break"
   - session: Reception (inc. the Fellowship award)
     start-time: "19:00"
     end-time: "20:30"
@@ -117,7 +117,7 @@ tuesday:
   - session: End
     start-time: "18:00"
     end-time: "18:00"
-    session-type: "break event"
+    session-type: "break"
   - session: Dinner
     start-time: "19:00"
     end-time: "23:00"
@@ -145,7 +145,7 @@ wednesday:
   - session: Doctoral Consortium
     start-time: "10:00"
     end-time: "13:00"
-    session-type: "workshop"
+    session-type: "poster"
     data: "Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "10:45"
@@ -160,7 +160,7 @@ wednesday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-  - session: Poster Session 6/6 - Human & Motion Analysis (+ 8 DC)
+  - session: Poster Session 6/6 - Human & Motion Analysis (+ Doctoral Consortium)
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
@@ -182,7 +182,7 @@ wednesday:
   - session: End
     start-time: "17:30"
     end-time: "17:30"
-    session-type: "break event"
+    session-type: "break"
 
 thursday:
   - session: Registration for workshops
@@ -229,4 +229,4 @@ thursday:
   - session: End
     start-time: "18:00"
     end-time: "18:00"
-    session-type: "break event"
+    session-type: "break"
