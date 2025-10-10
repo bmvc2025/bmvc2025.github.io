@@ -12,12 +12,12 @@ monday:
     start-time: "09:30"
     end-time: "09:45"
     session-type: "ceremony event"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Oral Session 1/7 - Multimodal Learning
     start-time: "09:45"
     end-time: "11:00"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "11:00"
     end-time: "11:45"
@@ -35,7 +35,7 @@ monday:
     start-time: "14:00"
     end-time: "15:00"
     session-type: "keynote"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Poster Session 2/6 - Generative Models and Synthesis
     start-time: "15:00"
     end-time: "16:30"
@@ -49,7 +49,7 @@ monday:
     start-time: "16:30"
     end-time: "17:30"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: End
     start-time: "17:30"
     end-time: "17:30"
@@ -72,7 +72,7 @@ tuesday:
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Poster Session 3/6 - 3D Scene Analysis and Understanding
     start-time: "10:00"
     end-time: "11:45"
@@ -86,7 +86,7 @@ tuesday:
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
@@ -104,7 +104,7 @@ tuesday:
     start-time: "15:45"
     end-time: "16:45"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Tea & Coffee
     start-time: "16:40"
     end-time: "17:05"
@@ -113,7 +113,7 @@ tuesday:
     start-time: "17:00"
     end-time: "18:00"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: End
     start-time: "18:00"
     end-time: "18:00"
@@ -122,6 +122,7 @@ tuesday:
     start-time: "19:00"
     end-time: "23:00"
     session-type: "ceremony event"
+    data: "Cambridge Street Collective"
 
 wednesday:
   - session: Registration
@@ -136,7 +137,7 @@ wednesday:
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Poster Session 5/6 - Advanced Architectures, Robustness and Efficiency
     start-time: "10:00"
     end-time: "11:45"
@@ -155,12 +156,12 @@ wednesday:
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-  - session: Poster Session 6/6 - Human & Motion Analysis (+ Doctoral Consortium)
+  - session: Poster Session 6/6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
@@ -173,12 +174,12 @@ wednesday:
     start-time: "15:45"
     end-time: "17:00"
     session-type: "oral"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: Awards & closing speech
     start-time: "17:00"
     end-time: "17:30"
     session-type: "ceremony event"
-    data: "Main Hall"
+    data: "Main Hall, Cutlers' Hall"
   - session: End
     start-time: "17:30"
     end-time: "17:30"
