@@ -13,7 +13,7 @@ monday:
     end-time: "09:45"
     session-type: "ceremony event"
     data: "Main Hall, Cutlers' Hall"
-  - session: Oral Session 1/7 - Multimodal Learning
+  - session: Oral Session 1 - Multimodal Learning
     start-time: "09:45"
     end-time: "11:00"
     session-type: "oral"
@@ -22,7 +22,7 @@ monday:
     start-time: "11:00"
     end-time: "11:45"
     session-type: "break"
-  - session: Poster Session 1/6 - Multimodal Learning
+  - session: Poster Session 1 - Multimodal Learning
     start-time: "11:00"
     end-time: "12:30"
     session-type: "poster"
@@ -36,7 +36,7 @@ monday:
     end-time: "15:00"
     session-type: "keynote"
     data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 2/6 - Generative Models and Synthesis
+  - session: Poster Session 2 - Generative Models and Synthesis
     start-time: "15:00"
     end-time: "16:30"
     session-type: "poster"
@@ -45,7 +45,7 @@ monday:
     start-time: "15:15"
     end-time: "16:00"
     session-type: "break"
-  - session: Oral Session 2/7 - Generative Models and Synthesis
+  - session: Oral Session 2 - Generative Models and Synthesis
     start-time: "16:30"
     end-time: "17:30"
     session-type: "oral"
@@ -73,7 +73,7 @@ tuesday:
     end-time: "10:00"
     session-type: "keynote"
     data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 3/6 - 3D Scene Analysis and Understanding
+  - session: Poster Session 3 - 3D Scene Analysis and Understanding
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
@@ -82,7 +82,7 @@ tuesday:
     start-time: "10:45"
     end-time: "11:45"
     session-type: "break"
-  - session: Oral Session 3/7 - 3D Scene Analysis and Understanding
+  - session: Oral Session 3 - 3D Scene Analysis and Understanding
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
@@ -91,7 +91,7 @@ tuesday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-  - session: Poster Session 4/6 - Medical and Biological Image Analysis and Real World Applications and Systems
+  - session: Poster Session 4 - Medical and Biological Image Analysis and Real World Applications and Systems
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
@@ -100,7 +100,7 @@ tuesday:
     start-time: "15:15"
     end-time: "15:45"
     session-type: "break"
-  - session: Oral Session 4/7 - Medical and Biological Image Analysis
+  - session: Oral Session 4 - Medical and Biological Image Analysis
     start-time: "15:45"
     end-time: "16:45"
     session-type: "oral"
@@ -109,7 +109,7 @@ tuesday:
     start-time: "16:40"
     end-time: "17:05"
     session-type: "break"
-  - session: Oral Session 5/7 - Real World Applications and Systems
+  - session: Oral Session 5 - Real World Applications and Systems
     start-time: "17:00"
     end-time: "18:00"
     session-type: "oral"
@@ -138,7 +138,7 @@ wednesday:
     end-time: "10:00"
     session-type: "keynote"
     data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 5/6 - Advanced Architectures, Robustness and Efficiency
+  - session: Poster Session 5 - Advanced Architectures, Robustness and Efficiency
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
@@ -152,7 +152,7 @@ wednesday:
     start-time: "10:45"
     end-time: "11:45"
     session-type: "break"
-  - session: Oral Session 6/7 - Advanced Architectures, Robustness and Efficiency
+  - session: Oral Session 6 - Advanced Architectures, Robustness and Efficiency
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
@@ -161,7 +161,7 @@ wednesday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-  - session: Poster Session 6/6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
+  - session: Poster Session 6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
@@ -170,7 +170,7 @@ wednesday:
     start-time: "15:15"
     end-time: "15:45"
     session-type: "break"
-  - session: Oral Session 7/7 - Human & Motion Analysis
+  - session: Oral Session 7 - Human & Motion Analysis
     start-time: "15:45"
     end-time: "17:00"
     session-type: "oral"
