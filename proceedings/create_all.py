@@ -110,7 +110,7 @@ for rx in range(sh.nrows):
         f.write('booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},\n')
         f.write('publisher = {BMVA},\n')
         f.write('year      = {2025},\n')
-        f.write('url       = {https://bmva-archive.org.uk/bmvc/2025/papers/Paper_' + paper_id_str + '/paper.pdf' + '}\n')
+        f.write('url       = {https://bmva-archive.org.uk/bmvc/2025/papers/Paper_' + paper_id_str_short + '/paper.pdf' + '}\n')
         f.write('}\n')
         f.write('</code></pre></div></div>')
 
