@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /><title>Task Progressive Curriculum Learning for Robust Visual Question Answering</title><link rel="stylesheet" href="../assets/css/style.css"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png"></head><body><div class="wrapper"><section><center><a href="../"><img src="../images/bmvc-logo.png" width="800" class="figure-img img-responsive center-block"></a><br /><br /></center><h2 class="project-name" style="font-weight:normal; font-size: 167%;" align="center"><style>body { background-color: white !important; color: black !important; }</style>Task Progressive Curriculum Learning for Robust Visual Question Answering</h2><br><h5 style="font-weight:normal; font-size: 1.25em;" align="center"><autocolor><h5 style="font-weight:normal; color: black;" align="center">Ahmed Akl (Griffith University), Abdelwahed Khamis (CSIRO), Zhe Wang (Griffith University), Ali Cheraghian (CSIRO), Sara Khalifa (Queensland University of Technology), Kewen Wang (Griffith University)</h5></autocolor></h5><h5 style="font-weight:normal; color: black;" align="center"><a href="https://bmvc2025.bmva.org" target="_blank" style="color: black;"><i>The 35<sup>th</sup> British Machine Vision Conference</i></a></h5><div class="cta"><a href="https://bmva-archive.org.uk/bmvc/2025/papers/Paper_294/paper.pdf" role="button">PDF</a><a href="https://bmva-archive.org.uk/bmvc/2025/papers/Paper_294/294_supplementary.zip" role="button">Supplementary</a><br></div><h2 id="abstract">Abstract</h2>Visual Question Answering (VQA) systems are notoriously brittle under distribution
+shifts and data scarcity. While previous solutions—such as ensemble methods and data
+augmentation—can improve performance in isolation, they fail to generalise well across
+in-distribution (IID), out-of-distribution (OOD), and low-data settings simultaneously.
+We argue that this limitation stems from the suboptimal training strategies employed.
+Specifically, treating all training samples uniformly—without accounting for question
+difficulty or semantic structure— leaves the models vulnerable to dataset biases. Thus,
+they struggle to generalise beyond the training distribution.
+To address this issue, we introduce Task-Progressive Curriculum Learning (TPCL)—
+a simple, model-agnostic framework that progressively trains VQA models using a curriculum built by jointly considering question type and difficulty. Specifically, TPCL first
+groups questions based on their semantic type (e.g., yes/no, counting) and then orders
+them using a novel Optimal Transport-based difficulty measure. Without relying on data
+augmentation or explicit debiasing, TPCL improves generalisation across IID, OOD, and
+low-data regimes and achieves state-of-the-art performance on VQA-CP v2, VQA-CP
+v1, and VQA v2. It outperforms the most competitive robust VQA baselines by over
+5% and 7% on VQA-CP v2 and v1, respectively, and boosts backbone performance
+by up to 28.5%.<br><br><h2>Citation</h2><div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{Akl_2025_BMVC,
+author    = {Ahmed Akl and Abdelwahed Khamis and Zhe Wang and Ali Cheraghian and Sara Khalifa and Kewen Wang},
+title     = {Task Progressive Curriculum Learning for Robust Visual Question Answering},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/papers/Paper_0294/paper.pdf}
+}
+</code></pre></div></div><br><br><p><small style="color: black;">Copyright &copy 2025 <a href="https://britishmachinevisionassociation.github.io/" rel="noopener"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a><br>The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a>. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</small></p><p><small><a href="https://imprint.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de" rel="noopener"><black>Imprint<black></a> | <a href="https://data-protection.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de?lang=en" rel="noopener"><black>Data Protection</autocolor></a></small></p></section></div></body></html>

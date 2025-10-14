@@ -3,7 +3,7 @@ import xlrd
 import pdb
 import os
 
-book = xlrd.open_workbook("CameraReadyPapers.xls")
+book = xlrd.open_workbook("CameraReadyPapers.xlsx")
 
 sh = book.sheet_by_index(0)
 
