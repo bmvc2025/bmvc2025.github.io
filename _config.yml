@@ -103,9 +103,6 @@ exclude:
   - people/reviewers.md
   - people/volunteers.md
 
-  - proceedings/create_all.py
-  - proceedings/CameraReadyPapers.xls
-  - proceedings/conference-proceedings.md
   - proceedings/workshop-proceedings.md
   
   - attending/code-of-conduct.md

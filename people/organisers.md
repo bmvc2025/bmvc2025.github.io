@@ -295,7 +295,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Bowen_Dang.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2025/Bowen_Dang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://dangbowen-bell.github.io">Bowen Dang</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>

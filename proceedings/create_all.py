@@ -63,20 +63,20 @@ for rx in range(sh.nrows):
         f.write(paper_title)
         f.write('</h2><br><h5 style="font-weight:normal; font-size: 1.25em;" align="center"><autocolor>')
         f.write('<h5 style="font-weight:normal; color: black;" align="center">' + paper_authors + '</h5>')
-        f.write('</autocolor></h5><h5 style="font-weight:normal; color: black;" align="center"><a href="https://bmvc2024.org" target="_blank" style="color: black;"><i>The 35<sup>th</sup> British Machine Vision Conference</i></a></h5><div class="cta">')
-        f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
+        f.write('</autocolor></h5><h5 style="font-weight:normal; color: black;" align="center"><a href="https://bmvc2025.bmva.org" target="_blank" style="color: black;"><i>The 35<sup>th</sup> British Machine Vision Conference</i></a></h5><div class="cta">')
+        f.write('<a href="https://bmva-archive.org.uk/bmvc/2025/papers/')
         f.write('Paper_' + paper_id_str_short + '/paper.pdf')
         f.write('" role="button">PDF</a>')
         if items["poster"] != None:
-            f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
+            f.write('<a href="https://bmva-archive.org.uk/bmvc/2025/papers/')
             f.write('Paper_' + paper_id_str_short + "/" + items["poster"])
             f.write('" role="button">Poster</a>')
         if items["video"] != None:
-            f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
+            f.write('<a href="https://bmva-archive.org.uk/bmvc/2025/papers/')
             f.write('Paper_' + paper_id_str_short + "/" + items["video"])
             f.write('" role="button">Video (Right click to download)</a>')
         if items["supplementary"] != None:
-            f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
+            f.write('<a href="https://bmva-archive.org.uk/bmvc/2025/papers/')
             f.write('Paper_' + paper_id_str_short + "/" + items["supplementary"])
             f.write('" role="button">Supplementary</a>')
         # if os.path.exists('./' +  paper_id_str + '_supp.pdf'):
@@ -92,13 +92,13 @@ for rx in range(sh.nrows):
         f.write('<br><br>')
 
         # if os.path.exists('./Paper_' + paper_id_str_short + '/video.mp4'):
-        #     f.write('<h2>Video</h2><center><iframe height="540" width="960" style="max-width:100%;max-height:100%;" src="https://bmva-archive.org.uk/bmvc/2024/papers/' + 'Paper_' + paper_id_str_short + '/video.mp4'+ '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></center><br><br>')
+        #     f.write('<h2>Video</h2><center><iframe height="540" width="960" style="max-width:100%;max-height:100%;" src="https://bmva-archive.org.uk/bmvc/2025/papers/' + 'Paper_' + paper_id_str_short + '/video.mp4'+ '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></center><br><br>')
 
         f.write('<h2>Citation</h2><div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{')
 
         first_author_name = all_author_names[0].split(" ")[-1]
 
-        f.write(first_author_name+'_2024_BMVC,\n')
+        f.write(first_author_name+'_2025_BMVC,\n')
         f.write('author    = {')
         for author_name_idx in range(len(all_author_names)):
             author_name = all_author_names[author_name_idx]
@@ -107,16 +107,16 @@ for rx in range(sh.nrows):
             else:
                 f.write(author_name + '},\n')
         f.write('title     = {'+paper_title+'},\n')
-        f.write('booktitle = {35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK, November 25-28, 2024},\n')
+        f.write('booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},\n')
         f.write('publisher = {BMVA},\n')
-        f.write('year      = {2024},\n')
-        f.write('url       = {https://papers.bmvc2024.org/' + paper_id_str + '.pdf' + '}\n')
+        f.write('year      = {2025},\n')
+        f.write('url       = {https://bmva-archive.org.uk/bmvc/2025/papers/Paper_' + paper_id_str + '/paper.pdf' + '}\n')
         f.write('}\n')
         f.write('</code></pre></div></div>')
 
         # f.write('<br><br><p><small>Copyright &copy 2024 <a href="https://britishmachinevisionassociation.github.io/" rel="noopener"><autocolor>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a><br>The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/"><autocolor>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a>. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</small></p><p><small><a href="https://imprint.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de" rel="noopener"><autocolor>Imprint</autocolor></a> | <a href="https://data-protection.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de?lang=en" rel="noopener"><autocolor>Data Protection</autocolor></a></small></p></section></div></body></html>')
         
-        f.write('<br><br><p><small style="color: black;">Copyright &copy 2024 <a href="https://britishmachinevisionassociation.github.io/" rel="noopener"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a><br>The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a>. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</small></p><p><small><a href="https://imprint.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de" rel="noopener"><black>Imprint<black></a> | <a href="https://data-protection.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de?lang=en" rel="noopener"><black>Data Protection</autocolor></a></small></p></section></div></body></html>')
+        f.write('<br><br><p><small style="color: black;">Copyright &copy 2025 <a href="https://britishmachinevisionassociation.github.io/" rel="noopener"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a><br>The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/"><black>The British Machine Vision Association and Society for Pattern Recognition</autocolor></a>. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</small></p><p><small><a href="https://imprint.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de" rel="noopener"><black>Imprint<black></a> | <a href="https://data-protection.mpi-klsb.mpg.de/inf/bmvc2022.mpi-inf.mpg.de?lang=en" rel="noopener"><black>Data Protection</autocolor></a></small></p></section></div></body></html>')
         f.close()
         #pdb.set_trace()
 
