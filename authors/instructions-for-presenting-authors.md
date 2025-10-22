@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Presentating at BMVC
+title: Presenting at BMVC
 permalink: /authors/instructions-for-presenting-at-bmvc/
 ---
 
