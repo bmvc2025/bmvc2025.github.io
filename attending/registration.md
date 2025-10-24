@@ -25,12 +25,14 @@ Once that is done, we will make a limited number of places available for registr
 
 If there is remaining capacity for the conference, these links will become active on Wednesday 8 October 2025. Once capacity is reached, these links will then be removed.
 
-Early-bird: We have reached capacity. We may be able to release a few more places at a later date so do please check back occasionally.
+Early-bird: We have a few 'General Registration' places available at: [link](https://bmva.charitysuite.com/events/prwpddoj?tickets=XaK8) 
 
 Late: We have reached capacity. 
 
 
 {% comment %} 
+
+We have reached capacity. We may be able to release a few more places at a later date so do please check back occasionally.
 
 ## Cancelations and Refunds
 
