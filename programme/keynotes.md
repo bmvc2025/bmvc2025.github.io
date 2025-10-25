@@ -45,7 +45,7 @@ index: 5
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
                     <img src="../../imgs_2025/Angela_Dai.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-                    <h4 class="pt-2"><a href="https://eng.ox.ac.uk/people/philip-torr/">Angela Dai</a></h4>
+                    <h4 class="pt-2"><a href="https://www.3dunderstanding.org/">Angela Dai</a></h4>
                     <span class=""><small>Technical University of Munich</small></span>
                 </div>
             </div>
