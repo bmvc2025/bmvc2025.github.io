@@ -7,9 +7,9 @@ index: 1
 
 ## Rates and deadlines
 
-Early-bird registration rate: £500. Deadline for early-bird registration: 3pm, Tuesday 28 October, 2025.
+Early-bird registration rate: £500. Deadline for early-bird registration: 3pm, Friday 31 October, 2025 (GMT).
 
-Late registration rate: £550. Deadline for late registration: 3pm, Tuesday 11 November, 2025.
+Late registration rate: £550. Deadline for late registration: 3pm, Tuesday 11 November, 2025 (GMT).
 
 There will be no registration at the conference venue. 
 
