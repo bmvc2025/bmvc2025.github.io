@@ -757,7 +757,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>364</strong></span></td>
             <td><strong><a href="/proceedings/364/">Learning from Silence and Noise for Visual Sound Source Localization</a></strong><br />
-            Xavier Juanola (); Giovana Morais (New York University); Magdalena Fuentes (New York University); Gloria Haro (Universitat Pompeu Fabra)<br />
+            Xavier Juanola (Universitat Pompeu Fabra); Giovana Morais (New York University); Magdalena Fuentes (New York University); Gloria Haro (Universitat Pompeu Fabra)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/papers/Paper_364/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/papers/Paper_364/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/papers/Paper_364/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
