@@ -32,7 +32,7 @@ Important Dates:
 - Submission Opens: Sunday, 13th July 2025
 - Submission Deadline: Wednesday, 30th July 2025
 - Notification of Acceptance: Friday, 5th September 2025
-- Doctoral Consortium: TBC, during the main BMVC conference.
+- Doctoral Consortium: 10am-1pm, Wed 26 November, 2025
 
 All deadlines are 23:59 GMT.
 
