@@ -2,8 +2,11 @@ from collections import defaultdict
 import xlrd
 import pdb
 import os
+import openpyxl
 
 book = xlrd.open_workbook("CameraReadyPapers.xlsx")
+#* install xlrd == 2.0.1 if reading .xls files
+# book = xlrd.open_workbook("CameraReadyPapers_New.xls")
 
 sh = book.sheet_by_index(0)
 

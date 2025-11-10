@@ -72,6 +72,7 @@ def build_page(df: pd.DataFrame, col_id: str, col_title: str, col_authors: str, 
 def main():
     parser = argparse.ArgumentParser(description="Generate BMVC {YEAR} HTML from Excel")
     parser.add_argument("-i", "--input", default="CameraReadyPapers.xlsx", help="")
+    # parser.add_argument("-i", "--input", default="CameraReadyPapers_New.xls", help="")
     parser.add_argument("-o", "--output", default="conf_proc.html", help="")
     parser.add_argument("--sheet", default=0, help="")
     parser.add_argument("--year", type=int, default=2025, help="")
@@ -88,12 +89,17 @@ def main():
         sys.exit(1)
 
     email = args.email or f"bmvc@bmvc{args.year}.org"
-
+    
+    #* install xlrd == 2.0.1 if reading .xls files
     try:
-        df = pd.read_excel(xlsx, sheet_name=args.sheet, engine=None)
+        if xlsx.suffix.lower() == ".xls":
+            engine = "xlrd"
+        else:
+            engine = "openpyxl"
+
+        df = pd.read_excel(xlsx, sheet_name=args.sheet, engine=engine)
     except Exception as e:
         print(f"[ERROR] 读取 Excel 失败：{e}", file=sys.stderr)
-        print("提示：请确认已安装 openpyxl：  pip install openpyxl", file=sys.stderr)
         sys.exit(2)
 
     missing = [c for c in [args.col_id, args.col_title, args.col_authors] if c not in df.columns]
