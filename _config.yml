@@ -102,8 +102,6 @@ exclude:
   - people/emergency-reviewers.md
   - people/volunteers.md
 
-  - proceedings/workshop-proceedings.md
-
   - proceedings_old/create_all.py
   - proceedings_old/CameraReadyPapers.xls
   - proceedings_old/conference-proceedings.md
