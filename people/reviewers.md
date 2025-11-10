@@ -36,8 +36,8 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
 
 ---
 
-<table style="width:80%; max-width:800px; margin:auto; border-collapse:collapse;">
-  <tr><th style="text-align:left; border-bottom:2px solid #ccc;">Reviewer Name</th></tr>
+<table style="width:40%; max-width:800px; margin:auto; border-collapse:collapse;">
+  <tr><th style="text-align:center; border-bottom:2px solid #ccc;">Reviewer Name</th></tr>
   <tr><td>Ilker Hacihaliloglu</td></tr>
   <tr><td>Jing Zhang</td></tr>
   <tr><td>Stefan Duffner</td></tr>
