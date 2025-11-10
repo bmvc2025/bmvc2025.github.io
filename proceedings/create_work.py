@@ -35,7 +35,7 @@ def build_row(workshop, paper_id, title, authors, files, year=2025):
     buttons = f'<a class="btn btn-primary btn-sm mt-1" href="{pdf_link}" role="button">PDF</a>&nbsp;'
     if supp_file:
         supp_link = f"{base_url}/{supp_file}"
-        buttons += f'<a class="btn btn-primary btn-sm mt-1" href="{supp_link}" role="button">Supp</a>&nbsp;'
+        buttons += f'<a class="btn btn-primary btn-sm mt-1" href="{supp_link}" role="button">Supplementary</a>&nbsp;'
 
     # 构建 HTML 行
     return f'''
