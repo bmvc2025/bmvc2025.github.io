@@ -6,13 +6,13 @@ from typing import Optional
 
 
 WORKSHOP_LINKS = {
-    "SU2HM": "https://sites.google.com/view/su2hm/home",
+    "SHUM": "https://sites.google.com/view/su2hm/home",
     "MVCC": "https://mvcc-bmvc.github.io/",
     "PFATCV": "https://sites.google.com/view/pfatcvbmvc25/home",
-    "MAI": "https://dbhowmik.github.io/MediaTrust/workshops/",
+    "MAAAI": "https://dbhowmik.github.io/MediaTrust/workshops/",
     "DIFA": "https://difa2025-bmvc.github.io/",
     "MVEO": "https://mveo.github.io/index.html",
-    "SCAVR": "https://supercamerai.github.io/",
+    "Smart": "https://supercamerai.github.io/",
     "MPI": "https://weihaox.github.io/bmvc2025mpi",
     "SRBS": "https://sites.google.com/view/srbs-bmvc2025/home",
 }
