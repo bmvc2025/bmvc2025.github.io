@@ -29,7 +29,7 @@ Early-bird: We have a small number of 'General Registration' places available fo
 
 Late: It is unlikely there will be any late registration places. 
 
-Workshop-only registration: [workshop-only link](https://bmva.charitysuite.com/events/prwpddoj?tickets=RohQ)
+**Workshop-only registration:** [workshop-only link](https://bmva.charitysuite.com/events/prwpddoj?tickets=RohQ)
 
 {% comment %} 
 
