@@ -7,13 +7,13 @@ index: 1
 
 ## Rates and deadlines
 
-Early-bird registration rate: £500. Deadline for early-bird registration: 3pm, Friday 31 October, 2025 (GMT).
+Early-bird registration rate: £500. Deadline for early-bird registration: 3pm, Monday 10 November, 2025 (GMT).
 
-Late registration rate: £550. Deadline for late registration: 3pm, Tuesday 11 November, 2025 (GMT).
+Late registration rate: £550. Deadline for late registration: 11.59pm, Monday 17 November, 2025 (GMT).
 
 There will be no registration at the conference venue. 
 
-If you are only attending a workshop and not the rest of the conference, the rate is £100. Note: All workshops will take place on Thursday 27th November.
+If you are only attending the workshop day and not the rest of the conference, the rate is £100. Note: All workshops will take place on Thursday 27th November.
 
 ## Capacity
 
@@ -25,11 +25,11 @@ Once that is done, we will make a limited number of places available for registr
 
 If there is remaining capacity for the conference, these links will become active on Wednesday 8 October 2025. Once capacity is reached, these links will then be removed.
 
-Early-bird: We have a small number of 'General Registration' places available for the full conference at: [link](https://bmva.charitysuite.com/events/prwpddoj?tickets=XaK8).
+Early-bird: No longer available.
 
-Late: It is unlikely there will be any late registration places. 
+Late registration. There are a few places remaining: [link](https://bmva.charitysuite.com/events/prwpddoj?tickets=PZmY)
 
-**Workshop-only registration:** [workshop-only link](https://bmva.charitysuite.com/events/prwpddoj?tickets=RohQ)
+**Workshop-only registration:** [workshop-only link](https://bmva.charitysuite.com/events/prwpddoj?tickets=RohQ)  (Deadline: 11.59pm, Monday 17 November, 2025 (GMT))
 
 {% comment %} 
 
