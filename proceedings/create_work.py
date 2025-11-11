@@ -5,6 +5,19 @@ from html import escape
 from typing import Optional
 
 
+WORKSHOP_LINKS = {
+    "SU2HM": "https://sites.google.com/view/su2hm/home",
+    "MVCC": "https://mvcc-bmvc.github.io/",
+    "PFATCV": "https://sites.google.com/view/pfatcvbmvc25/home",
+    "MAI": "https://dbhowmik.github.io/MediaTrust/workshops/",
+    "DIFA": "https://difa2025-bmvc.github.io/",
+    "MVEO": "https://mveo.github.io/index.html",
+    "SCAVR": "https://supercamerai.github.io/",
+    "MPI": "https://weihaox.github.io/bmvc2025mpi",
+    "SRBS": "https://sites.google.com/view/srbs-bmvc2025/home",
+}
+
+
 def detect_supp_file(files: str) -> Optional[str]:
     if not isinstance(files, str):
         return None
@@ -37,11 +50,19 @@ def build_row(workshop, paper_id, title, authors, files, year=2025):
         supp_link = f"{base_url}/{supp_file}"
         buttons += f'<a class="btn btn-primary btn-sm mt-1" href="{supp_link}" role="button">Supplementary</a>&nbsp;'
 
-    # 构建 HTML 行
+    # ✅ 新增：Workshop 名称加超链接
+    workshop_key = workshop.strip().upper()
+    link = WORKSHOP_LINKS.get(workshop_key)
+    if link:
+        workshop_html = f'<a href="{link}" target="_blank">{escape(workshop)}</a>'
+    else:
+        workshop_html = escape(workshop)
+
+    # 构建 HTML 行（只改这一部分）
     return f'''
         <tr id="paper">
             <td class="text-center"><strong> </strong><br />
-                <span style="opacity: 0.8;"><strong>{escape(workshop)}</strong></span></td>
+                <span style="opacity: 0.8;"><strong>{workshop_html}</strong></span></td>
             <td><strong><a href="{pdf_link}">{title_txt}</a></strong><br />
                 {authors_txt}<br />{buttons}
             </td>
@@ -50,7 +71,6 @@ def build_row(workshop, paper_id, title, authors, files, year=2025):
 
 
 def build_table(workshop_name, df_group, year=2025):
-    """为单个 workshop 构建一个完整的 <div><table> 块"""
     header = f'''
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left">
     <table class="table table-striped table-bordered">
@@ -77,15 +97,12 @@ def build_table(workshop_name, df_group, year=2025):
 '''.rstrip()
 
     html = header + "\n".join(rows) + "\n" + footer
-
-    # 清理 <tr> 之间空行
     html = re.sub(r">\s*\n\s*<tr", "><tr", html)
     html = re.sub(r"\n\s*\n+", "\n", html)
     return html
 
 
 def build_full_page(df, year=2025, email="bmvc@bmvc2025.org"):
-    """构建整个页面，多个 workshop 分表格显示"""
     workshops = [w for w in df["Workshop"].dropna().unique()]
     sections = []
 
@@ -93,9 +110,9 @@ def build_full_page(df, year=2025, email="bmvc@bmvc2025.org"):
         df_ws = df[df["Workshop"] == ws]
         sections.append(build_table(ws, df_ws, year))
 
-    # 用 --- 分开每个 workshop
     html_page = "\n\n---\n\n".join(sections)
-    html_page += f'\n\n<p>If there are any mistakes on this page, please contact <a href="mailto:{email}">{email}</a></p>'
+    html_page += f'\n\n<div><p>If there are any mistakes on this page, please do not hesitate to contact <a href="mailto:{email}">{email}</a></p></div>'
+    
     return html_page
 
 
