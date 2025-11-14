@@ -8,7 +8,7 @@ monday:
     start-time: "08:00"
     end-time: "09:30"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Welcome speech
     start-time: "09:30"
     end-time: "09:45"
@@ -23,17 +23,17 @@ monday:
     start-time: "11:00"
     end-time: "11:45"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Poster Session 1 - Multimodal Learning
     start-time: "11:00"
     end-time: "12:30"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Lunch
     start-time: "12:30"
     end-time: "14:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Keynote 1/3 - Phil Torr
     start-time: "14:00"
     end-time: "15:00"
@@ -43,12 +43,12 @@ monday:
     start-time: "15:00"
     end-time: "16:30"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "16:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 2 - Generative Models and Synthesis
     start-time: "16:30"
     end-time: "17:30"
@@ -73,7 +73,7 @@ tuesday:
     start-time: "08:30"
     end-time: "09:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Keynote 2/3 - Marc Pollefeys
     start-time: "09:00"
     end-time: "10:00"
@@ -83,12 +83,12 @@ tuesday:
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:45"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 3 - 3D Scene Analysis and Understanding
     start-time: "11:45"
     end-time: "13:00"
@@ -98,17 +98,17 @@ tuesday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Poster Session 4 - Medical and Biological Image Analysis and Real World Applications and Systems
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "15:45"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 4 - Medical and Biological Image Analysis
     start-time: "15:45"
     end-time: "16:45"
@@ -118,7 +118,7 @@ tuesday:
     start-time: "16:40"
     end-time: "17:05"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 5 - Real World Applications and Systems
     start-time: "17:00"
     end-time: "18:00"
@@ -143,7 +143,7 @@ wednesday:
     start-time: "08:30"
     end-time: "09:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Keynote 3/3 - Angela Dai
     start-time: "09:00"
     end-time: "10:00"
@@ -153,17 +153,17 @@ wednesday:
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Doctoral Consortium
     start-time: "10:00"
     end-time: "13:00"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:45"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 6 - Advanced Architectures, Robustness and Efficiency
     start-time: "11:45"
     end-time: "13:00"
@@ -173,17 +173,17 @@ wednesday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Poster Session 6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
-    data: "Drawing Room, Hadfield Room"
+    data: "Drawing Room and Hadfield Hall"
   - session: Tea & Coffee
     start-time: "15:15"
     end-time: "15:45"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Oral Session 7 - Human & Motion Analysis
     start-time: "15:45"
     end-time: "17:00"
@@ -209,7 +209,7 @@ thursday:
     start-time: "08:30"
     end-time: "09:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Morning workshops start
     start-time: "09:00"
     end-time: "09:00"
@@ -222,7 +222,7 @@ thursday:
     start-time: "10:45"
     end-time: "11:15"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Morning workshops end
     start-time: "13:00"
     end-time: "13:00"
@@ -231,7 +231,7 @@ thursday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Afternoon workshops start
     start-time: "14:00"
     end-time: "14:00"
@@ -240,7 +240,7 @@ thursday:
     start-time: "15:45"
     end-time: "16:15"
     session-type: "break"
-    data: "Hadfield Room, Old Banqueting Hall"
+    data: "Hadfield Hall and Old Banqueting Hall"
   - session: Afternoon workshops end
     start-time: "18:00"
     end-time: "18:00"

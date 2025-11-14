@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Dinner
-permalink: /attending/dinner/
+permalink: /programme/dinner/
 index: 1
 ---
 
