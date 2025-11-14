@@ -2,7 +2,7 @@
 layout: default_sparse
 title: Dinner
 permalink: /programme/dinner/
-index: 1
+index: 25
 ---
 
 The dinner will be held at [Cambridge Street Collective](https://cambridgestreetcollective.com/), Sheffield.
