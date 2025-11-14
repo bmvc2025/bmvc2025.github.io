@@ -65,7 +65,7 @@ index: 20
 <div>
   <p><b>BMVC conference papers</b>, supplementary material and video presentations can be found at: <a href="https://bmvc2025.bmva.org/proceedings/conference-proceedings/">BMVC Papers</a></p>
   <p><b>BMVC workshop papers</b> can be found at: <a href="https://bmvc2025.bmva.org/proceedings/workshop-proceedings/">BMVC Workshop Papers</a></p>
-  <p>All the rooms listed are in Cutlers' Hall.</p>
+  <p>All the rooms listed (except Cambridge Street Collective) are in Cutlers' Hall.</p>
 </div>
 
 <hr>
@@ -88,8 +88,12 @@ index: 20
           <div class="session {{session.session-type}}" data-type="{{session.session-type}}" >
                 {{- session.session -}}
               <div class="loc">
-                {{session.data}}
-              </div>
+              {% if session.session == "Dinner" %}
+                <a href="/attending/dinner/" class="dinner-link">{{ session.data }}</a>
+              {% else %}
+                {{ session.data }}
+              {% endif %}
+            </div>
           </div>
         {% endfor %}
       </div>
