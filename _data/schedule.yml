@@ -12,12 +12,12 @@ monday:
     start-time: "09:30"
     end-time: "09:45"
     session-type: "ceremony event"
-    data: "Main Hall, Cutlers' Hall"
+    data: "Main Hall"
   - session: Oral Session 1 - Multimodal Learning
     start-time: "09:45"
     end-time: "11:00"
     session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
+    data: "Main Hall"
   - session: Tea & Coffee
     start-time: "11:00"
     end-time: "11:45"
