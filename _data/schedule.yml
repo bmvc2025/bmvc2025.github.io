@@ -128,7 +128,7 @@ tuesday:
     start-time: "18:00"
     end-time: "18:00"
     session-type: "break"
-  - session: Dinner
+  - session: Dinner (Bring Your Badge)
     start-time: "19:00"
     end-time: "23:00"
     session-type: "ceremony event"
