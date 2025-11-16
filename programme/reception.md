@@ -11,6 +11,8 @@ Venue: Cutlers' Hall
 
 Canapes and drinks will be served.
 
+**BRING YOUR BADGE!!**
+
 A welcome speech will be given by Professor Keith Jackson CEng CDir, Master Cutler, The Company of Cutlers in Hallamshire - see biography below.
 
 A BMVA Distinguished Fellowship will be awarded by Prof Neill Campbell, Chairman of the BMVA.
