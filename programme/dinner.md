@@ -12,7 +12,8 @@ Tuesday 25 November, 7-11pm.
 **BRING YOUR BADGE!!**
 
 - You will be given a prepaid card at the entrance (Bring Your Badge) which will is pre-loaded with £60 which you can spend on any food and drink during the evening. The card is valid for one year.
-- Food partners at Cambridge Street Collective: <https://cambridgestreetcollective.com/food-partners>
+- Approx 8 minutes walk (0.4 miles) from Cutlers' Hall.
+- Food partners at Cambridge Street Collective: <https://cambridgestreetcollective.com/food-partners>.
 - Entertainment on the evening: a musician, a magician, a 360 photo booth and AR darts.
 - Cambridge Street Collective [news](https://cambridgestreetcollective.com/news)
 - [Europe's largest purpose-built food hall](https://www.welcometosheffield.co.uk/content/articles/europe-s-largest-purpose-built-food-hall-cambridge-street-collective-opens-in-sheffield/)
