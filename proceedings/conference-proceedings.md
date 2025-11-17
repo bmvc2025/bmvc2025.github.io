@@ -19,7 +19,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>18</strong></span></td>
             <td><strong><a href="/proceedings/18/">Volumetric Temporal Texture for Smoke Stylization using Dynamic Radiance Fields</a></strong><br />
-            Dongqing Wang (EPFL - EPF Lausanne); Ehsan Pajouheshgar (EPFL - EPF Lausanne); Yitao Xu (EPFL - EPF Lausanne); Tong Zhang (EPFL - EPF Lausanne); Sabine Süsstrunk (EPFL - EPF Lausanne)<br />
+            Dongqing Wang (École Polytechnique Fédérale de Lausanne (EPFL)); Ehsan Pajouheshgar (École Polytechnique Fédérale de Lausanne (EPFL)); Yitao Xu (École Polytechnique Fédérale de Lausanne (EPFL)); Tong Zhang (École Polytechnique Fédérale de Lausanne (EPFL)); Sabine Süsstrunk (École Polytechnique Fédérale de Lausanne (EPFL))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_18/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_18/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_18/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -27,8 +27,8 @@ permalink: /proceedings/conference-proceedings/
         </tr>
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>22</strong></span></td>
-            <td><strong><a href="/proceedings/22/">SynGround: Learning from Synthetic Data for Visual Grounding</a></strong><br />
-            Ruozhen He (Rice University); Ziyan Yang (Rice University); Paola Cascante-Bonilla (State University of New York at Stony Brook); Alexander C. Berg (University of California); Vicente Ordonez (Rice University)<br />
+            <td><strong><a href="/proceedings/22/">Learning from Synthetic Data for Visual Grounding</a></strong><br />
+            Ruozhen He (Rice University); Ziyan Yang (Rice University); Paola Cascante-Bonilla (Stony Brook University); Alexander C. Berg (University of California, Irvine); Vicente Ordonez (Rice University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_22/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_22/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_22/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -37,7 +37,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>24</strong></span></td>
             <td><strong><a href="/proceedings/24/">MSMVD: Exploiting Multi-scale Image Features via Multi-scale BEV Features for Multi-view Pedestrian Detection</a></strong><br />
-            Taiga Yamane (NTT Corporation); Satoshi Suzuki (NTT Corporation); Ryo Masumura (NTT Corporation); Shota Orihashi (NTT Corporation); Tomohiro Tanaka (NTT); Mana Ihori (NTT); Naoki Makishima (NTT); Naotaka Kawata (NTT)<br />
+            Taiga Yamane (NTT Corporation); Satoshi Suzuki (NTT Corporation); Ryo Masumura (NTT Corporation); Shota Orihashi (NTT Corporation); Tomohiro Tanaka (NTT Corporation); Mana Ihori (NTT Corporation); Naoki Makishima (NTT Corporation); Naotaka Kawata (NTT Corporation)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_24/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_24/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_24/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -46,7 +46,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>26</strong></span></td>
             <td><strong><a href="/proceedings/26/">Guiding a diffusion model with itself using sliding windows</a></strong><br />
-            Nikolas Adaloglou (HHU - University of Dusseldorf); Tim Kaiser (Heinrich-Heine-University); Damir Iagudin (HHU - University of Dusseldorf); Markus Kollmann (HHU - University of Dusseldorf)<br />
+            Nikolas Adaloglou (Heinrich Heine University); Tim Kaiser (Heinrich Heine University); Damir Iagudin (Heinrich Heine University); Markus Kollmann (Heinrich Heine University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_26/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_26/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_26/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -55,7 +55,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>28</strong></span></td>
             <td><strong><a href="/proceedings/28/">Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition</a></strong><br />
-            Chun-Hsiao Yeh (Meta); Ta-Ying Cheng (University of Oxford); He-Yen Hsieh (Harvard University); David Chuan-En Lin (Carnegie Mellon University); Yi Ma (University of Hong Kong); Andrew Markham (University of Oxford); Niki Trigoni (University of Oxford); H. T. Kung (Harvard University); Yubei Chen (University of California)<br />
+            Chun-Hsiao Yeh (UC Berkeley); Ta-Ying Cheng (University of Oxford); He-Yen Hsieh (Harvard University); David Chuan-En Lin (Carnegie Mellon University); Yi Ma (University of Hong Kong); Andrew Markham (University of Oxford); Niki Trigoni (University of Oxford); H. T. Kung (Harvard University); Yubei Chen (UC Davis)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_28/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_28/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_28/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -64,7 +64,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>29</strong></span></td>
             <td><strong><a href="/proceedings/29/">SPARTAN: Spatiotemporal Pose-Aware Retrieval for Text-guided Autonomous Navigation</a></strong><br />
-            Xiangyu Bai (Northeastern University); Sai Anish Sreeramagiri (Northeastern University); Sai Siddhartha Vivek Dhir Rangoju (Northeastern University); Bishoy Galoaa (Northeastern University); Eric C Mortin (); Sarah Ostadabbas (Northeastern University)<br />
+            Xiangyu Bai (Northeastern University); Sai Anish Sreeramagiri (Northeastern University); Sai Siddhartha Vivek Dhir Rangoju (Northeastern University); Bishoy Galoaa (Northeastern University); Eric C Mortin (DEVCOM Analysis Center (DAC), US Army); Sarah Ostadabbas (Northeastern University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_29/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_29/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_29/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -73,7 +73,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>37</strong></span></td>
             <td><strong><a href="/proceedings/37/">Cross-Modal Scene Semantic Alignment for Image Complexity Assessment</a></strong><br />
-            Yuqing Luo (Cardiff University); YIXIAO LI (Beijing University of Aeronautics and Astronautics); Jiang Liu (Cardiff University); Jun Fu (); Hadi Amirpour (Alpen-Adria Universität Klagenfurt); Guanghui Yue (Shenzhen University); Baoquan Zhao (SUN YAT-SEN UNIVERSITY); Padraig Corcoran (Cardiff University); Hantao Liu (Cardiff University); Wei Zhou (Cardiff University)<br />
+            Yuqing Luo (Cardiff University); YIXIAO LI (Beihang University); Jiang Liu (Cardiff University); Jun Fu (Cardiff University); Hadi Amirpour (University of Klagenfurt); Guanghui Yue (Shenzhen University); Baoquan Zhao (SUN YAT-SEN UNIVERSITY); Padraig Corcoran (Cardiff University); Hantao Liu (Cardiff University); Wei Zhou (Cardiff University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_37/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_37/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_37/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -82,7 +82,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>38</strong></span></td>
             <td><strong><a href="/proceedings/38/">GC-Font: Few-Shot Font Generation via Global Contextual Feature Modelling</a></strong><br />
-            Weiran Chen (Soochow University); Guiqian Zhu (Soochow University); Ying Li (); Yi Ji (); Chunping Liu (Soochow University)<br />
+            Weiran Chen (Soochow University); Guiqian Zhu (Soochow University); Ying Li (Soochow University); Yi Ji (Soochow University); Chunping Liu (Soochow University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_38/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_38/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_38/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -91,7 +91,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>39</strong></span></td>
             <td><strong><a href="/proceedings/39/">DocAttentionRect: Attention-Guided Document Image Rectification</a></strong><br />
-            Pooja Kumari (Indian Institute of Technology); Sukhendu Das (Indian Institute of Technology Madras)<br />
+            Pooja Kumari (Indian Institute of Technology Madras); Sukhendu Das (Indian Institute of Technology Madras)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_39/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_39/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_39/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -100,7 +100,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>43</strong></span></td>
             <td><strong><a href="/proceedings/43/">Split Matching for Inductive Zero-shot Semantic Segmentation</a></strong><br />
-            Jialei Chen (Nagoya University); Xu Zheng (Institute for Computer Science); Dongyue Li (Nagoya University); Chong Yi (Nagoya University); Seigo Ito (Toyota Central R&amp;D Labs. Inc.); Danda Pani Paudel (INSAIT Sofia &amp; ETH Zurich); Luc Van Gool (Sofia Un. St. Kliment Ohridski); Hiroshi Murase (Nagoya University); Daisuke Deguchi (Nagoya University)<br />
+            Jialei Chen (Nagoya University); Xu Zheng (The Hong Kong University of Science and Technology (Guangzhou) (HKUST (GZ))); Dongyue Li (Nagoya University); Chong Yi (Nagoya University); Seigo Ito (Nagoya University); Danda Pani Paudel (Artificial Intelligence and Technology (INSAIT), Sofia University); Luc Van Gool (Artificial Intelligence and Technology (INSAIT), Sofia University); Hiroshi Murase (Nagoya University); Daisuke Deguchi (Nagoya University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_43/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_43/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_43/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -118,7 +118,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>56</strong></span></td>
             <td><strong><a href="/proceedings/56/">Pointly-Supervised Weak-Shot Semantic Segmentation via Dual Mapping Transfer</a></strong><br />
-            Wenhui Jiang (Jiangxi University of Finance and Economics); Ruikang Luo (Jiangxi University of Finance and Economics); Zeyu Luo (Jiangxi University of Finance and Economics); Xiaowei Zhao (); Junjie Chen (Jiangxi University of Finance and Economics); Yuming Fang (Jiangxi University of Finance and Economics)<br />
+            Wenhui Jiang (Jiangxi University of Finance and Economics); Ruikang Luo (Jiangxi University of Finance and Economics); Zeyu Luo (Jiangxi University of Finance and Economics); Xiaowei Zhao (Sany Heavy Industry Co.); Junjie Chen (Jiangxi University of Finance and Economics); Yuming Fang (Jiangxi University of Finance and Economics)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_56/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_56/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_56/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -127,7 +127,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>59</strong></span></td>
             <td><strong><a href="/proceedings/59/">CMAMRNet: A Contextual Mask-Aware Network Enhancing Mural Restoration Through Comprehensive Mask Guidance</a></strong><br />
-            Yingtie Lei (Ohio State University); Fanghai Yi (Guangdong University of Technology); Yihang Dong (Shenzhen Institute of Advanced Technology); Weihuang Liu (University of Macau); Xiaofeng Zhang (Shanghai Jiao Tong University); Zimeng Li (Shenzhen Polytechnic University); Chi-Man Pun (University of Macau); Xuhang Chen (Shenzhen Institute of Advanced Technology)<br />
+            Yingtie Lei (University of Macau); Fanghai Yi (Guangdong University of Technology); Yihang Dong (University of Chinese Academy of Sciences); Weihuang Liu (University of Macau); Xiaofeng Zhang (Shanghai Jiao Tong University); Zimeng Li (Shenzhen Polytechnic University); Chi-Man Pun (University of Macau); Xuhang Chen (University of Macau)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_59/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_59/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_59/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -136,7 +136,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>66</strong></span></td>
             <td><strong><a href="/proceedings/66/">ST-GDance: Long-Term and Collision-Free Group Choreography from Music</a></strong><br />
-            Jing Xu (Monash University); Weiqiang Wang (Hong Kong University of Science and Technology); Cunjian Chen (Monash University); Jun Liu (Lancaster University); Qiuhong Ke (Monash University)<br />
+            Jing Xu (Monash University); Weiqiang Wang (Monash University); Cunjian Chen (Monash University); Jun Liu (Lancaster University); Qiuhong Ke (Monash University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_66/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_66/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_66/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -145,7 +145,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>69</strong></span></td>
             <td><strong><a href="/proceedings/69/">TACTFL: Temporal Contrastive Training for Multi-modal Federated Learning with Similarity-guided Model Aggregation</a></strong><br />
-            Guanxiong Sun (Huawei Technologies Ltd.); Majid Mirmehdi (University of Bristol); Zahraa S. Abdallah (University of Bristol); Raúl Santos-Rodriguez (University of Bristol); Ian James Craddock (University of Bristol); Telmo M Silva Filho (University of Bristol)<br />
+            Guanxiong Sun (University of Bristol); Majid Mirmehdi (University of Bristol); Zahraa S. Abdallah (University of Bristol); Raúl Santos-Rodriguez (University of Bristol); Ian James Craddock (University of Bristol); Telmo M Silva Filho (University of Bristol)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_69/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_69/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_69/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -154,7 +154,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>77</strong></span></td>
             <td><strong><a href="/proceedings/77/">Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance</a></strong><br />
-            Luc Boudier (École Polytechnique); Loris Manganelli (École Polytechnique); Eleftherios Tsonis (École Polytechnique); Nicolas Dufour (Ecole Nationale des Ponts et Chausees); Vicky Kalogeiton (Ecole polytechnique)<br />
+            Luc Boudier (École Polytechnique); Loris Manganelli (École Polytechnique); Eleftherios Tsonis (École Polytechnique); Nicolas Dufour (École Polytechnique, École des Ponts); Vicky Kalogeiton (Ecole polytechnique)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_77/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_77/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_77/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -163,7 +163,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>81</strong></span></td>
             <td><strong><a href="/proceedings/81/">SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation</a></strong><br />
-            Xiao Cao (National University of Singapore); Beibei Lin (National University of Singapore); Bo Wang (University of Mississippi); Zhiyong Huang (NUS School of Computing); Robby T. Tan (National University of Singapore)<br />
+            Xiao Cao (National University of Singapore); Beibei Lin (National University of Singapore); Bo Wang (University of Mississippi); Zhiyong Huang (National University of Singapore); Robby T. Tan (National University of Singapore)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_81/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_81/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_81/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -181,7 +181,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>84</strong></span></td>
             <td><strong><a href="/proceedings/84/">Continual Vision-and-Language Navigation</a></strong><br />
-            SeongJun Jeong (Seoul National University); Gi-Cheon Kang (Seoul National University); Seongho Choi (); Joochan Kim (Korea Institute of Science and Technology); Byoung-Tak Zhang (Seoul National University)<br />
+            SeongJun Jeong (Seoul National University); Gi-Cheon Kang (Seoul National University); Seongho Choi (Seoul National University); Joochan Kim (Korea Institute of Science and Technology); Byoung-Tak Zhang (Seoul National University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_84/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_84/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_84/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -208,7 +208,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>113</strong></span></td>
             <td><strong><a href="/proceedings/113/">Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning</a></strong><br />
-            Ruxiao Duan (Yale University); Jieneng Chen (Johns Hopkins University); Adam Kortylewski (Saarland Informatics Campus); Alan Yuille (Johns Hopkins University); Yaoyao Liu (University of Illinois Urbana-Champaign)<br />
+            Ruxiao Duan (Yale University); Jieneng Chen (Johns Hopkins University); Adam Kortylewski (University of Freiburg); Alan Yuille (Johns Hopkins University); Yaoyao Liu (University of Illinois Urbana-Champaign)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_113/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_113/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_113/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -217,7 +217,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>117</strong></span></td>
             <td><strong><a href="/proceedings/117/">RAPrivacy: a Readable Anonymizer for Privacy Preserving Action Recognition</a></strong><br />
-            Zi-Zhen Wang (National Yang Ming Chiao Tung University); Yen-Lung Chu (); Pei-Chun Tsai (National Yang Ming Chiao Tung University); Kuan-Wen Chen (National Yang Ming Chiao Tung University)<br />
+            ZiZhen Wang (National Yang Ming Chiao Tung University); Yen-Lung Chu (National Yang Ming Chiao Tung University); Pei-Chun Tsai (National Yang Ming Chiao Tung University); Kuan-Wen Chen (National Yang Ming Chiao Tung University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_117/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_117/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_117/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -226,7 +226,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>121</strong></span></td>
             <td><strong><a href="/proceedings/121/">BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching</a></strong><br />
-            Zhihua Liu (University of Edinburgh); Lei Tong (AstraZeneca); Xilin He (The Chinese University of Hong Kong); Che Liu (DAMO Academy); Rossella Arcucci (Imperial College London); Chen Jin (Astrazeneca); Huiyu Zhou (University of Leicester)<br />
+            Zhihua Liu (University of Leicester); Lei Tong (AstraZeneca); Xilin He (The Chinese University of Hong Kong); Che Liu (Imperial College London); Rossella Arcucci (Imperial College London); Chen Jin (Astrazeneca); Huiyu Zhou (University of Leicester)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_121/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_121/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_121/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -235,7 +235,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>122</strong></span></td>
             <td><strong><a href="/proceedings/122/">Distribution-guided Generative Replay with Semantic Prompts for Class-Incremental Chest X-ray Diagnosis</a></strong><br />
-            Jayant Mahawar (Indian Institue of Technology Jodhpur); Devi Prasad Maharathy (Indian Institute of Technology); Angshuman Paul (Indian Institute of Technology Jodhpur)<br />
+            Jayant Mahawar (Indian Institue of Technology Jodhpur); Devi Prasad Maharathy (Indian Institute of Technology Jodhpur); Angshuman Paul (Indian Institute of Technology Jodhpur)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_122/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_122/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_122/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -244,7 +244,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>124</strong></span></td>
             <td><strong><a href="/proceedings/124/">Mask2Act: Predictive Multi-Object Tracking as Video Pre-Training for Robot Manipulation</a></strong><br />
-            Junbo Zhang (Tsinghua University); Kaisheng Ma (Institute for Interdisciplinary Information Sciences (IIIS))<br />
+            Junbo Zhang (Tsinghua University); Kaisheng Ma (Tsinghua University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_124/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_124/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_124/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -253,7 +253,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>126</strong></span></td>
             <td><strong><a href="/proceedings/126/">CLAIR: CLIP-Aided Weakly Supervised Zero-Shot Cross-Domain Image Retrieval</a></strong><br />
-            Chor Boon Tan (); Conghui Hu (National University of Singapore); Gim Hee Lee (National University of Singapore)<br />
+            Chor Boon Tan (National University of Singapore); Conghui Hu (National University of Singapore); Gim Hee Lee (National University of Singapore)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_126/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_126/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_126/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -262,7 +262,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>128</strong></span></td>
             <td><strong><a href="/proceedings/128/">Uncertainty Diffusion: Parameter-Efficient Depth Refinement via Uncertainty-Guided Diffusion Models</a></strong><br />
-            Jeng-Huo Tzeng (Delta Corp.); Chuan-Yuan Huang (); Kuan-Wen Chen (National Yang Ming Chiao Tung University)<br />
+            Jeng-Huo Tzeng (National Yang Ming Chiao Tung University); Chuan-Yuan Huang (National Yang Ming Chiao Tung University); Kuan-Wen Chen (National Yang Ming Chiao Tung University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_128/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_128/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_128/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -271,7 +271,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>131</strong></span></td>
             <td><strong><a href="/proceedings/131/">Dual-Stream Attention with Multi-Modal Queries for Object Detection in Transportation Applications</a></strong><br />
-            Noreen Anwar (École Polytechnique de Montréal); Guillaume-Alexandre Bilodeau (Polytechnique Montreal); Wassim Bouachir (Télé-université)<br />
+            Noreen Anwar (LITIV, Polytechnique Montréal); Guillaume-Alexandre Bilodeau (LITIV, Polytechnique Montréal); Wassim Bouachir (Université du Québec (TELUQ))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_131/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_131/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_131/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -280,7 +280,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>133</strong></span></td>
             <td><strong><a href="/proceedings/133/">M$^2$StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting</a></strong><br />
-            Xingyu Miao (Durham University); Xueqi Qiu (Durham University); Haoran Duan (University of Newcastle-upon-Tyne); Yawen Huang (Tencent); Xian Wu (Tencent); Jingjing Deng (University of Bristol); Yang Long (Durham University)<br />
+            Xingyu Miao (Durham University); Xueqi Qiu (Durham University); Haoran Duan (Tsinghua University); Yawen Huang (Tencent Jarvis Lab); Xian Wu (Tencent Jarvis Lab); Jingjing Deng (University of Bristol); Yang Long (Durham University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_133/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_133/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_133/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -289,7 +289,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>136</strong></span></td>
             <td><strong><a href="/proceedings/136/">Lang4D: Weakly Supervised Learning of 4D Language Splatting</a></strong><br />
-            Mana Masuda (SB Intuitions); Taiki Sekii (CyberAgent)<br />
+            Mana Masuda (CyberAgent, Keio University); Taiki Sekii (CyberAgent)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_136/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_136/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_136/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -316,7 +316,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>150</strong></span></td>
             <td><strong><a href="/proceedings/150/">WTNet: A Weather Transfer Network for Domain-Adaptive All-In-One Adverse Weather Image Restoration</a></strong><br />
-            Si-Yu Huang (National Yang Ming Chiao Tung University); Fu-Jen Tsai (National Tsinghua University); Chia-Wen Lin (National Tsing Hua University); Yen-Yu Lin (National Yang Ming Chiao Tung University)<br />
+            Si-Yu Huang (National Yang Ming Chiao Tung University); Fu-Jen Tsai (National Tsing Hua University); Chia-Wen Lin (National Tsing Hua University); Yen-Yu Lin (National Yang Ming Chiao Tung University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_150/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_150/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_150/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -325,7 +325,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>154</strong></span></td>
             <td><strong><a href="/proceedings/154/">Seed-to-Seed: Unpaired Image Translation in Diffusion Seed Space</a></strong><br />
-            Or Greenberg (Hebrew University of Jerusalem); Eran Kishon (General Motors); Dani Lischinski (Google)<br />
+            Or Greenberg (General Motors R&amp;D, The Hebrew University of Jerusalem); Eran Kishon (General Motors R&amp;D); Dani Lischinski (The Hebrew University of Jerusalem)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_154/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_154/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_154/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -334,7 +334,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>159</strong></span></td>
             <td><strong><a href="/proceedings/159/">Identity-Motion Trade-offs in Text-to-Video Generation</a></strong><br />
-            Yuval Atzmon (NVIDIA); Rinon Gal (NVIDIA); Yoad Tewel (Tel Aviv University); Yoni Kasten (NVIDIA); Gal Chechik (Bar Ilan University)<br />
+            Yuval Atzmon (NVIDIA Research); Rinon Gal (NVIDIA Research); Yoad Tewel (NVIDIA Research); Yoni Kasten (NVIDIA Research); Gal Chechik (NVIDIA Research)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_159/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_159/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_159/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -343,7 +343,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>165</strong></span></td>
             <td><strong><a href="/proceedings/165/">Four eyes see more than two: Dataset Distillation with Mixture-of-Experts</a></strong><br />
-            Jia-Jiun Yao (); Sheng-Feng Yu (National Chiao Tung University); Wei-Chen Chiu (National Yang Ming Chiao Tung University)<br />
+            Jia-Jiun Yao (National Yang Ming Chiao Tung University); Sheng-Feng Yu (National Yang Ming Chiao Tung University, Macronix International Co., Ltd.); Wei-Chen Chiu (National Yang Ming Chiao Tung University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_165/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_165/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_165/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -361,7 +361,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>173</strong></span></td>
             <td><strong><a href="/proceedings/173/">CellMamba: Adaptive Mamba for Accurate and Efficient Cell Detection</a></strong><br />
-            Ruochen Liu (University of Liverpool); Yi.Tian (Xi&#x27;an Jiaotong-Liverpool University); Jiahao Wang (Xi&#x27;an Jiaotong-Liverpool University); Hongbin Liu (Xi&#x27;an Jiaotong-Liverpool University); Xianxu Hou (Xi&#x27;an Jiaotong-Liverpool University); Jingxin Liu (Xi&#x27;an Jiaotong-Liverpool University)<br />
+            Ruochen Liu (University of Liverpool); Yi.Tian (National University of Singapore); Jiahao Wang (Xi&#x27;an Jiaotong-Liverpool University); Hongbin Liu (Xi&#x27;an Jiaotong-Liverpool University); Xianxu Hou (Xi&#x27;an Jiaotong-Liverpool University); Jingxin Liu (Xi&#x27;an Jiaotong-Liverpool University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_173/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_173/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_173/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -406,7 +406,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>211</strong></span></td>
             <td><strong><a href="/proceedings/211/">Efficient Image Restoration via Latent Consistency Flow Matching</a></strong><br />
-            Elad Cohen (Sony Semiconductor Israel); Idan Achituve (Sony Europe Ltd.); Idit Diamant (Sony Semiconductor Israel); Arnon Netzer (Sony); Hai Victor Habi (Tel Aviv University)<br />
+            Elad Cohen (Sony Semiconductor Israel); Idan Achituve (Sony Semiconductor Israel); Idit Diamant (Sony Semiconductor Israel); Arnon Netzer (Sony Semiconductor Israel); Hai Victor Habi (Sony Semiconductor Israel)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_211/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_211/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_211/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -415,7 +415,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>218</strong></span></td>
             <td><strong><a href="/proceedings/218/">Bridging Visual-Textual Modalities: Weakly Supervised Histopathology Segmentation</a></strong><br />
-            Sicong Gao (University of New South Wales); Matthew AB Baker (University of New South Wales); Maurice Pagnucco (University of New South Wales); Zhiwei Gao (Shijiazhuang Tiedao University); Yang Song (University of New South Wales)<br />
+            Sicong Gao (University of New South Wales); Matthew AB Baker (University of New South Wales); Maurice Pagnucco (University of New South Wales); Zhiwei Gao (Hebei Key Laboratory of Electromagnetic Environmental Effects and Information Processing); Yang Song (University of New South Wales)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_218/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_218/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_218/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -424,7 +424,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>220</strong></span></td>
             <td><strong><a href="/proceedings/220/">LiDAR MOT-DETR: A LiDAR-based Two-Stage Transformer for 3D Multiple Object Tracking</a></strong><br />
-            Martha Teiko Teye (University of Wuppertal); Ori Maoz (Aptiv); Matthias Rottmann ()<br />
+            Martha Teiko Teye (University of Wuppertal); Ori Maoz (Aptiv); Matthias Rottmann (Universität Osnabrück)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_220/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_220/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_220/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -433,7 +433,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>228</strong></span></td>
             <td><strong><a href="/proceedings/228/">Dual-Expert Collaborative Network for Fake News Detection with External Knowledge Integration</a></strong><br />
-            Wenxin Luo (Beijing Jiaotong University); Zhu Teng (Beijing jiaotong univercity); Wei Zhang (Beijing Jiaotong University); Baopeng Zhang (Beijing jiaotong university)<br />
+            Wenxin Luo (Beijing Jiaotong University); Zhu Teng (Beijing Jiaotong Univeristy); Wei Zhang (Beijing Jiaotong University); Baopeng Zhang (Beijing Jiaotong Univeristy)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_228/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_228/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_228/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -451,7 +451,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>238</strong></span></td>
             <td><strong><a href="/proceedings/238/">Capture and Reconstruct 3D Clothed Human from Images</a></strong><br />
-            Onat Vuran (ETHZ - ETH Zurich); Hsuan-I Ho (Google)<br />
+            Onat Vuran (ETH Zürich); Hsuan-I Ho (ETH Zürich)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_238/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_238/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_238/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -460,7 +460,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>239</strong></span></td>
             <td><strong><a href="/proceedings/239/">REACT: Real-time Efficiency and Accuracy Compromise for Tradeoffs in Scene Graph Generation</a></strong><br />
-            Maëlic Neau (Umea University); Paulo Eduardo Santos (Priori Analytica); Anne-Gwenn Bosser (Ecole Nationale d&#x27;Ingenieurs de Brest); Akihiro Sugimoto (NII); Cedric Buche ()<br />
+            Maëlic Neau (Umeå University); Paulo Eduardo Santos (PrioriAnalytica); Anne-Gwenn Bosser (Bretagne INP); Akihiro Sugimoto (National Institute of Informatics); Cedric Buche (CNRS IRL 2010 CROSSING, IMT Atlantique)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_239/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_239/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_239/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -469,7 +469,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>257</strong></span></td>
             <td><strong><a href="/proceedings/257/">S$^2$V2V: Training-Free Video-to-Video with Sparse Points and Motion Guidance</a></strong><br />
-            Xinyu Zhang (University of Auckland); Zicheng Duan (); Dong Gong (University of New South Wales); Lingqiao Liu (University of Adelaide)<br />
+            Xinyu Zhang (University of Auckland); Zicheng Duan (The University of Adelaide); Dong Gong (University of New South Wales); Lingqiao Liu (University of Adelaide)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_257/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_257/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_257/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -478,7 +478,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>259</strong></span></td>
             <td><strong><a href="/proceedings/259/">Revisiting Entropy Minimization for Long-Sequence Continual Test-Time Adaptation</a></strong><br />
-            Wei Qin Chuah (Royal Melbourne Institute of Technology); Ruwan Tennakoon (Royal Melbourne Institute of Technology); Alireza Bab-Hadiashar (Royal Melbourne Institute of Technology)<br />
+            WeiQin Chuah (Royal Melbourne Institute of Technology); Ruwan Tennakoon (Royal Melbourne Institute of Technology); Alireza Bab-Hadiashar (Royal Melbourne Institute of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_259/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_259/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_259/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -487,7 +487,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>261</strong></span></td>
             <td><strong><a href="/proceedings/261/">ADIR: Adaptive Diffusion for Image Reconstruction</a></strong><br />
-            Shady Abu-Hussein (Tel Aviv University); Tom Tirer (Bar-Ilan University); Raja Giryes (Tel Aviv University)<br />
+            Shady Abu-Hussein (Tel Aviv University); Tom Tirer (Tel Aviv University); Raja Giryes (Bar Ilan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_261/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_261/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_261/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -505,7 +505,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>270</strong></span></td>
             <td><strong><a href="/proceedings/270/">FaceGCD: Generalized Face Discovery via Dynamic Prefix Generation</a></strong><br />
-            Yunseok Oh (Inha University); Dong-Wan Choi (Inha University)<br />
+            Yunseok Oh (Inha University, AutoLabs, Inc.); Dong-Wan Choi (Inha University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_270/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_270/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_270/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -514,7 +514,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>272</strong></span></td>
             <td><strong><a href="/proceedings/272/">B-RIGHT: Benchmark Re-evaluation for Integrity in Generalized Human-Object Interaction Testing</a></strong><br />
-            Yoojin Jang (Ulsan National Institute of Science and Technology); Junsu Kim (Ulsan National Institute of Science and Technology); Hayeon Kim (Ulsan National Institute of Science and Technology); Eunki Lee (Hanyang University); Eunsol Kim (Hanyang University); Seungryul Baek (Ulsan National Institute of Science and Technology); Jaejun Yoo (Ulsan National Institute of Science and Technology)<br />
+            Yoojin Jang (Ulsan National Institute of Science and Technology); Junsu Kim (Ulsan National Institute of Science and Technology); Ha Yeon Kim (Ulsan National Institute of Science and Technology); Eun-Ki Lee (Hanyang University); Eun-Sol Kim (Hanyang University); Seungryul Baek (Ulsan National Institute of Science and Technology); Jaejun Yoo (Ulsan National Institute of Science and Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_272/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_272/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_272/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -523,7 +523,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>276</strong></span></td>
             <td><strong><a href="/proceedings/276/">Learning Event-guided Exposure-agnostic Video Frame Interpolation via Adaptive Feature Blending</a></strong><br />
-            Junsik Jung (KAIST); Yoonki Cho (KAIST); Woo Jae Kim (Korea Advanced Institute of Science and Technology); Lin Wang (Nanyang Technological University); Sung-Eui Yoon ()<br />
+            Junsik Jung (KAIST); Yoonki Cho (KAIST); Woo Jae Kim (KAIST); Lin Wang (Nanyang Technological University); Sung-Eui Yoon (KAIST)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_276/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_276/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_276/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -532,7 +532,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>277</strong></span></td>
             <td><strong><a href="/proceedings/277/">CFFlow: An Optical Flow Estimation Hinging on Cross-Frequency Attention</a></strong><br />
-            Wang Mengfei (Shanghai Institute of Microsystem and Information Technology); Zhu Dongchen (Shanghai Institute of Microsystem and Information Technology); Wang Lei (simit); Li Jiamao (Shanghai Institute of Microsystem and Information Technology)<br />
+            Mengfei Wang (Shanghai Institute of Microsystem and Information Technology); Dongchen Zhu (Shanghai Institute of Microsystem and Information Technology); Lei Wang (Shanghai Institute of Microsystem and Information Technology); Jiamao Li (Shanghai Institute of Microsystem and Information Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_277/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_277/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_277/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -541,7 +541,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>281</strong></span></td>
             <td><strong><a href="/proceedings/281/">CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections</a></strong><br />
-            Mohamed Fazli Mohamed Imam (); Rufael Fekadu Marew (Mohamed bin Zayed University of Artificial Intelligence); Jameel Hassan Abdul Samadh (Johns Hopkins University); Mustansar Fiaz (International Business Machines); Alham Fikri Aji (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (MBZUAI)<br />
+            Mohamed Fazli Mohamed Imam (Mohamed bin Zayed University of Artificial Intelligence); Rufael Fekadu Marew (Mohamed bin Zayed University of Artificial Intelligence); Jameel Hassan Abdul Samadh (Johns Hopkins University); Mustansar Fiaz (IBM Research); Alham Fikri Aji (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (Mohamed bin Zayed University of Artificial Intelligence)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_281/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_281/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_281/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -550,7 +550,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>283</strong></span></td>
             <td><strong><a href="/proceedings/283/">AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields</a></strong><br />
-            Woo Jae Kim (Korea Advanced Institute of Science and Technology); Kyu Beom Han (Korea Advanced Institute of Science &amp; Technology); Yoonki Cho (KAIST); Youngju Na (Korea Advanced Institute of Science &amp; Technology); Junsik Jung (KAIST); Sooel Son (Korea Advanced Institute of Science and Technology); Sung-Eui Yoon ()<br />
+            Woo Jae Kim (Korea Advanced Institute of Science and Technology (KAIST)); Kyu Beom Han (Korea Advanced Institute of Science and Technology (KAIST)); Yoonki Cho (Korea Advanced Institute of Science and Technology (KAIST)); Youngju Na (Korea Advanced Institute of Science and Technology (KAIST)); Junsik Jung (Korea Advanced Institute of Science and Technology (KAIST)); Sooel Son (Korea Advanced Institute of Science and Technology (KAIST)); Sung-Eui Yoon (Korea Advanced Institute of Science and Technology (KAIST))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_283/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_283/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_283/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -568,7 +568,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>288</strong></span></td>
             <td><strong><a href="/proceedings/288/">Benchmarking Microsaccade Recognition with Event Cameras: A Novel Dataset and Evaluation</a></strong><br />
-            Waseem Shariff (National University of Ireland); Timothy Hanley (National University of Ireland); Maciej Stec (National University of Ireland); Hossein Javidnia (University of Dublin); Peter Corcoran (University of Galway)<br />
+            Waseem Shariff (University of Galway); Timothy Hanley (University of Galway); Maciej Stec (University of Galway); Hossein Javidnia (University of Dublin); Peter Corcoran (University of Galway)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_288/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_288/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_288/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -577,7 +577,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>289</strong></span></td>
             <td><strong><a href="/proceedings/289/">CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings</a></strong><br />
-            Mattia Nardon (Fondazione Bruno Kessler); Mikel Mujika Agirre (Ikerlan Technology Research Centre); Ander González Tomé (Ikerlan S. Coop.); Daniel Sedano Algarabel (Ikerlan); Josep Rueda Collell (ikerlan); Ana Paola Caro (ANDREU WORLD DESIGN SOCIEDAD ANONIMA.); Andrea Caraffa (Fondazione Bruno Kessler); Fabio Poiesi (Fondazione Bruno Kessler); Paul Ian Chippendale (Fondazione Bruno Kessler); Davide Boscaini (Fondazione Bruno Kessler)<br />
+            Mattia Nardon (Bruno Kessler Foundation); Mikel Mujika Agirre (Ikerlan); Ander González Tomé (Ikerlan); Daniel Sedano Algarabel (Ikerlan); Josep Rueda Collell (ikerlan); Ana Paola Caro (Andreu World); Andrea Caraffa (Bruno Kessler Foundation); Fabio Poiesi (Bruno Kessler Foundation); Paul Ian Chippendale (Bruno Kessler Foundation); Davide Boscaini (Bruno Kessler Foundation)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_289/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_289/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_289/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -595,7 +595,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>292</strong></span></td>
             <td><strong><a href="/proceedings/292/">SVAC: Scaling Is All You Need For Referring Video Object Segmentation</a></strong><br />
-            Li Zhang (Amazon); Haoxiang Gao (XPeng Inc); Zhihao Zhang (Two Sigma); Luoxiao Huang (LSEG); Tao Zhang (Wuhan University)<br />
+            Li Zhang (Columbia University); Haoxiang Gao (Carnegie Mellon University); Zhihao Zhang (Columbia University); Luoxiao Huang (New York University); Tao Zhang (Wuhan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_292/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_292/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_292/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -613,7 +613,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>310</strong></span></td>
             <td><strong><a href="/proceedings/310/">PME3D: An Adaptive and Efficient Multi-modal Feature Extraction Plug-in for 3D Object Detection</a></strong><br />
-            Tianyi Yu (Beijing University of Aeronautics and Astronautics); Lei Yu (Beihang University)<br />
+            TianyiYu (University of Glasgow); Lei Yu (Beihang University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_310/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_310/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_310/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -622,7 +622,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>313</strong></span></td>
             <td><strong><a href="/proceedings/313/">OctreeNCA: Single-Pass 184 MP Segmentation on Consumer Hardware</a></strong><br />
-            Nick Lemke (Technische Universität Darmstadt); John Kalkhof (INRIA); Niklas Babendererde (Technische Universität Darmstadt); Anirban Mukhopadhyay (TU Darmstadt)<br />
+            Nick Lemke (Technische Universität Darmstadt); John Kalkhof (Technical University of Darmstadt); Niklas Babendererde (Technische Universität Darmstadt); Anirban Mukhopadhyay (Technical University of Darmstadt)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_313/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_313/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_313/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -631,7 +631,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>320</strong></span></td>
             <td><strong><a href="/proceedings/320/">Extreme Model Compression with Structured Sparsity at Low Precision</a></strong><br />
-            Dan Liu (McGill University); Nikita Dvornik (Palona AI); Xue Liu (McGill University)<br />
+            Dan Liu (McGill University); Nikita Dvornik (Palona AI); Xue Liu (Mohamed bin Zayed University of Artificial Intelligence)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_320/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_320/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_320/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -640,7 +640,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>328</strong></span></td>
             <td><strong><a href="/proceedings/328/">DepthHMR: Leveraging Depth Around Humans for Multi-Human Mesh Generation</a></strong><br />
-            Nikhil Sharma (Illinois Institute of Technology); Jiachen Tao (University of Illinois at Chicago); Junyi Wu (University of Illinois at Chicago); Yan Yan (University of Illinois Chicago)<br />
+            Nikhil Sharma (University of Illinois Chicago); Jiachen Tao (University of Illinois Chicago); Junyi Wu (University of Illinois Chicago); Yan Yan (University of Illinois Chicago)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_328/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_328/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_328/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -649,7 +649,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>330</strong></span></td>
             <td><strong><a href="/proceedings/330/">FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion</a></strong><br />
-            Kazuaki Mishima (Institute of Science Tokyo); Antoni Bigata Casademunt (); Stavros Petridis (Facebook); Maja Pantic (); Kenji Suzuki (Institute of Science Tokyo)<br />
+            Kazuaki Mishima (Institute of Science Tokyo); Antoni Bigata Casademunt (Imperial College London); Stavros Petridis (Imperial College London); Maja Pantic (Imperial College London); Kenji Suzuki (Institute of Science Tokyo)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_330/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_330/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_330/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -658,7 +658,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>333</strong></span></td>
             <td><strong><a href="/proceedings/333/">Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking</a></strong><br />
-            Milad Khanchi (Concordia University); Maria Amer (); Charalambos Poullis (Concordia University)<br />
+            Milad Khanchi (Concordia University); Maria Amer (Concordia University); Charalambos Poullis (Concordia University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_333/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_333/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_333/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -676,7 +676,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>338</strong></span></td>
             <td><strong><a href="/proceedings/338/">GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition</a></strong><br />
-            Tianyue Wang (Beijing Institute of Technology); Shuang Yang (Institute of Computing Technology); Shiguang Shan (Institute of Computing Technology); Xilin Chen (Institute of Computing Technology)<br />
+            Tianyue Wang (University of the Chinese Academy of Sciences); Shuang Yang (University of Chinese Academy of Sciences); Shiguang Shan (University of Chinese Academy of Sciences); Xilin CHEN (University of Chinese Academy of Sciences)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_338/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_338/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_338/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -685,7 +685,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>339</strong></span></td>
             <td><strong><a href="/proceedings/339/">Events Meet Dynamic Mode Decomposition: Capturing the Spatiotemporal Dynamics of Moving Objects</a></strong><br />
-            Zhouning Du (AISIN CORPORATION); Israr Ulhaq (AISIN ); Thanh Thi Huyen Phan (Aisin Corporation); Yuichiro Yoshimura (Aisin corporation); Jigyasa Chand (Aisin Corporation ); Truong Vinh Truong Duy (Aisin)<br />
+            Zhouning Du (AISIN CORPORATION); Israr Ulhaq (AISIN CORPORATION); Thanh Thi Huyen Phan (AISIN CORPORATION); Yuichiro Yoshimura (AISIN CORPORATION); Jigyasa Chand (AISIN CORPORATION); Truong Vinh Truong Duy (AISIN CORPORATION)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_339/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_339/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_339/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -712,7 +712,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>348</strong></span></td>
             <td><strong><a href="/proceedings/348/">PosBridge: Multi-View Positional Embedding Transplant for Identity-Aware Image Editing</a></strong><br />
-            PEILIN XIONG (University of Electro-Communications); Junwen Chen (The University of Electro-Communications); HONGHUI YUAN (University of Electro-Communications); Keiji Yanai (The University of Electro-Communications)<br />
+            PEILIN XIONG (The University of Electro-Communications); Junwen Chen (The University of Electro-Communications); HONGHUI YUAN (The University of Electro-Communications); Keiji Yanai (The University of Electro-Communications)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_348/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_348/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_348/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -730,7 +730,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>357</strong></span></td>
             <td><strong><a href="/proceedings/357/">What Can We Learn from Harry Potter? An Exploratory Study of Visual Representation Learning from Atypical Videos</a></strong><br />
-            Qiyue Sun (University of Birmingham); Qiming Huang (University of Birmingham); Yang Yang (Shandong University); Hongjun Wang (); Jianbo Jiao (University of Birmingham)<br />
+            Qiyue Sun (University of Birmingham); Qiming Huang (University of Birmingham); Yang Yang (Shandong University); Hongjun Wang (Shandong University); Jianbo Jiao (University of Birmingham)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_357/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_357/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_357/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -739,7 +739,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>358</strong></span></td>
             <td><strong><a href="/proceedings/358/">Pose-Robust Calibration Strategy for Point-of-Gaze Estimation on Mobile Phones</a></strong><br />
-            Yujie Zhao (Chinese Academy of Sciences); Jiabei Zeng (Institute of Computing Technology); Shiguang Shan (Institute of Computing Technology)<br />
+            Yujie Zhao (Institute of Computing Technology, Chinese Academy of Sciences); Jiabei Zeng (Institute of Computing Technology, Chinese Academy of Sciences); Shiguang Shan (Institute of Computing Technology, Chinese Academy of Sciences)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_358/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_358/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_358/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -757,7 +757,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>364</strong></span></td>
             <td><strong><a href="/proceedings/364/">Learning from Silence and Noise for Visual Sound Source Localization</a></strong><br />
-            Xavier Juanola (); Giovana Morais (New York University); Magdalena Fuentes (New York University); Gloria Haro (Universitat Pompeu Fabra)<br />
+            Xavier Juanola (Universitat Pompeu Fabra); Giovana Morais (New York University); Magdalena Fuentes (New York University); Gloria Haro (Universitat Pompeu Fabra)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_364/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_364/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_364/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -775,7 +775,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>367</strong></span></td>
             <td><strong><a href="/proceedings/367/">RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction</a></strong><br />
-            Zhuodong Jiang (University of Bristol); Haoran Wang (University of Bristol); Guoxi Huang (University of Bristol); Brett Seymour (Messiah College); Nantheera Anantrasirichai (University of Bristol)<br />
+            Zhuodong Jiang (University of Bristol); Haoran Wang (University of Bristol); Guoxi Huang (University of Bristol); Brett Seymour (National Park Service); Nantheera Anantrasirichai (University of Bristol)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_367/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_367/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_367/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -802,7 +802,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>376</strong></span></td>
             <td><strong><a href="/proceedings/376/">Multi-Rationale Explainable Object Recognition via Contrastive Conditional Inference</a></strong><br />
-            Ali Rasekh (L3S Research Center); Sepehr Kazemi Ranjbar (Sharif University of Technology); Simon Gottschalk (L3S Research Center)<br />
+            Ali Rasekh (L3S Research Center); Sepehr Kazemi Ranjbar (Independent Researcher); Simon Gottschalk (L3S Research Center)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_376/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_376/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_376/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -838,7 +838,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>398</strong></span></td>
             <td><strong><a href="/proceedings/398/">Knowledge Distillation via Cross Supervising with Attention for Remote Sensing Object Detection</a></strong><br />
-            Kefan Zhan (Xiangtan University); An Luo (Xiangtan University); Yunpeng Zeng (Xiangtan University); Jiaxin Li (Xiangtan University); Yuan Zhang (Xiangtan University); Kai Hu (Xiangtan University)<br />
+            KefanZhan (Xiangtan University); An Luo (Xiangtan University); Yunpeng Zeng (Xiangtan University); Jiaxin Li (Xiangtan University); Yuan Zhang (Xiangtan University); Kai Hu (Xiangtan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_398/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_398/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_398/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -847,7 +847,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>399</strong></span></td>
             <td><strong><a href="/proceedings/399/">3D Shape Reconstruction from Autonomous Driving Radars</a></strong><br />
-            Samah Hussein (EPFL - EPF Lausanne); Junfeng Guan (Bosch Research); Swathi Shree Narashiman (Indian Institute of Technology); Saurabh Gupta (University of Illinois); Haitham Al Hassanieh (EPFL - EPF Lausanne)<br />
+            Samah Hussein (École Polytechnique Fédérale de Lausanne (EPFL)); Junfeng Guan (École Polytechnique Fédérale de Lausanne (EPFL), Bosch Research); Swathi Shree Narashiman (École Polytechnique Fédérale de Lausanne (EPFL)); Saurabh Gupta (University of Illinois Urbana-Champaign); Haitham Al Hassanieh (École Polytechnique Fédérale de Lausanne (EPFL))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_399/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_399/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_399/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -865,7 +865,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>404</strong></span></td>
             <td><strong><a href="/proceedings/404/">Exploring Histogram-based Color Constancy</a></strong><br />
-            David R. Treadwell IV (Northeastern University); Yunxuan Rao (Northeastern University); Daniel Y. Bi (); Bruce A. Maxwell (Northeastern University)<br />
+            David R. Treadwell IV (Northeastern University); Yunxuan Rao (Northeastern University); Daniel Y. Bi (Northeastern University); Bruce A. Maxwell (Northeastern University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_404/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_404/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_404/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -874,7 +874,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>405</strong></span></td>
             <td><strong><a href="/proceedings/405/">HVLO-YOLO: An Ultra-Lightweight Detection Model for High-voltage Line Obstacles</a></strong><br />
-            Weichao Pan (Shandong Jianzhu University); Xu Wang (School of computer science and technology); Chengze Lv (Shandong Jianzhu University); Zicheng Lin (Shandong Jianzhu University); Gongrui Wang (sdjzu.edu.cn); Xuening Zhang (Harbin Institute of Technology); Yi Sun (University of Ulster); Xingbo Liu (Shandong Jianzhu University)<br />
+            Weichao Pan (Shandong Jianzhu University); Xu Wang (Shandong Jianzhu University); Chengze Lv (Shandong Jianzhu University); Zicheng Lin (Shandong Jianzhu University); Gongrui Wang (Shandong Jianzhu University); Xuening Zhang (Harbin Institute of Technology); Yi Sun (University of Ulster); Xingbo Liu (Shandong Jianzhu University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_405/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_405/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_405/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -883,7 +883,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>408</strong></span></td>
             <td><strong><a href="/proceedings/408/">Multimodal Hate Detection Using Dual-Stream Graph Neural Networks</a></strong><br />
-            Jiangbei Yue (University of Exeter); Shuonan Yang (University of Manchester); Tailin Chen (University of Exeter); Jianbo Jiao (University of Birmingham); ZEYU FU (University of Exeter)<br />
+            Jiangbei Yue (University of Exeter); Shuonan Yang (University of Exeter); Tailin Chen (University of Exeter); Jianbo Jiao (University of Birmingham); Zeyu Fu (University of Exeter)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_408/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_408/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_408/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -892,7 +892,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>416</strong></span></td>
             <td><strong><a href="/proceedings/416/">Beyond Softmax: Dual-Branch Sigmoid Architecture for Accurate Class Activation Maps</a></strong><br />
-            Yoojin Oh (Ewha Women&#x27;s University); Junhyug Noh (Ewha Womans University)<br />
+            Yoojin Oh (Ewha Womans University); Junhyug Noh (Ewha Womans University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_416/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_416/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_416/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -901,7 +901,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>423</strong></span></td>
             <td><strong><a href="/proceedings/423/">JDATT: A Joint Distillation Framework for Atmospheric Turbulence Mitigation and Target Detection</a></strong><br />
-            Zhiming Liu (University of Bristol); Paul Hill (University of Bristol); Nantheera Anantrasirichai (University of Bristol)<br />
+            Zhiming Liu (University of Bristo); Paul Hill (University of Bristol); Nantheera Anantrasirichai (University of Bristol)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_423/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_423/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_423/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -919,7 +919,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>444</strong></span></td>
             <td><strong><a href="/proceedings/444/">Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering</a></strong><br />
-            Haopeng Li (University of Melbourne); Mohammed Bennamoun (University of Western Australia); Jun Liu (Lancaster University); Hossein Rahmani (Lancaster University); Qiuhong Ke (Monash University)<br />
+            Haopeng Li (The University of Melbourne); Mohammed Bennamoun (University of Western Australia); Jun Liu (Lancaster University); Hossein Rahmani (Lancaster University); Qiuhong Ke (Monash University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_444/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_444/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_444/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -928,7 +928,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>445</strong></span></td>
             <td><strong><a href="/proceedings/445/">Frequency-Temporal Feature Integration for Compressed Video Action Recognition</a></strong><br />
-            Jiangwan Zhou (Beijing University of Posts and Telecommunications); Yue Ming (Beijing University of Posts and Telecommunications)<br />
+            Zhou Jiang wan (Beijing University of Posts and Telecommunications); Yue Ming (Beijing University of Posts and Telecommunications)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_445/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_445/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_445/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -946,7 +946,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>457</strong></span></td>
             <td><strong><a href="/proceedings/457/">A Novel Local Focusing Mechanism for Deepfake Detection Generalization</a></strong><br />
-            Mingliang Li (Jiangxi Normal University); Hanxi Li (); Lin Yuanbo Wu (Swansea University); Changhong Liu (Jiangxi Normal University)<br />
+            Mingliang Li (Jiangxi Normal University); Hanxi Li (Jiangxi Normal University); Lin Yuanbo Wu (The University of Warwick); Changhong Liu (Jiangxi Normal University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -955,7 +955,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>458</strong></span></td>
             <td><strong><a href="/proceedings/458/">Intra-Modal Divergence-Weighted Distillation for Vision-Language Models</a></strong><br />
-            Youva Addad (Université de Caen Basse Normandie); Alexis Lechervy (Université de Caen Basse Normandie); Frédéric Jurie (Université de Caen Normandie)<br />
+            Addad Youva (Université de Caen Basse Normandie); Alexis Lechervy (Université de Caen Basse Normandie); Frédéric Jurie (Université de Caen Normandie)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_458/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_458/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_458/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -964,7 +964,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>461</strong></span></td>
             <td><strong><a href="/proceedings/461/">FSF3A: Federated Spatial Feature Alignment and Adaptive Aggregation for Heterogeneous Brain Tumor Segmentation</a></strong><br />
-            Peketi Divya (Indian Institute of Technology Hyderabad); Krishna Mohan Chalavadi (Indian Institute of Technology Hyderabad); Sobhan Babu (Indian Institute of Technology Hyderabad); Sumanth Yenduri (Sam Houston State University)<br />
+            Peketi Divya (Indian Institute of Technology Hyderabad); C Krishna Mohan (Indian Institute of Technology Hyderabad); Sobhan Babu (Indian Institute of Technology Hyderabad); Sumanth Yenduri (Sam Houston State University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_461/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_461/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_461/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -982,7 +982,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>479</strong></span></td>
             <td><strong><a href="/proceedings/479/">CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation</a></strong><br />
-            Hariprasath Govindarajan (Qualcomm Inc); Maciej Wozniak (Qualcomm Inc); Marvin Klingner (Qualcomm Inc); Camille Maurice (Qualcomm Inc); B Ravi Kiran (Qualcomm Inc); Senthil Yogamani (QualComm)<br />
+            Hariprasath Govindarajan (Linköping University, Qualcomm Inc); Maciej Wozniak (KTH Royal Institute of Technology); Marvin Klingner (Qualcomm Inc); Camille Maurice (Qualcomm Inc); B Ravi Kiran (Qualcomm Inc); Senthil Yogamani (Qualcomm Inc)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_479/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_479/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_479/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -991,7 +991,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>486</strong></span></td>
             <td><strong><a href="/proceedings/486/">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</a></strong><br />
-            Junliang Ye (Australian National University); Lei Wang (Griffith University); Md Zakir Hossain (Curtin University of Technology)<br />
+            Junliang Ye (Australian National University); Lei Wang (Griffith University); Md Zakir Hossain (Curtin University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_486/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_486/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_486/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1018,7 +1018,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>499</strong></span></td>
             <td><strong><a href="/proceedings/499/">One target to align them all: LiDAR, RGB and event cameras extrinsic calibration for Autonomous Driving</a></strong><br />
-            Andrea Bertogalli (Polytechnic Institute of Milan); Giacomo Boracchi (Polytechnic Institute of Milan); Luca Magri (Politecnico di Milano)<br />
+            Andrea Bertogalli (Politecnico di Milano); Giacomo Boracchi (Politecnico di Milano); Luca Magri (Politecnico di Milano)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_499/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_499/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_499/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1027,7 +1027,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>500</strong></span></td>
             <td><strong><a href="/proceedings/500/">UFD-KD: Unified Frequency Decoupled Knowledge Distillation</a></strong><br />
-            Sihan Lu (Beijing Institute of Technology); Yang Zheng (Institute of automation); Jie Liu (Beijing University of Posts and Telecommunications); Zhenghao Xi ()<br />
+            Lu Sihan (Beijing Institute of Technology); Yang Zheng (Institute of automation, Chinese Academy of Sciences); Jie Liu (Beijing University of Posts and Telecommunications); Zhenghao Xi (Shanghai University of Engineering Science)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_500/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_500/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_500/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1036,7 +1036,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>502</strong></span></td>
             <td><strong><a href="/proceedings/502/">DefectGPT: Towards Multi-Class Defect Detection with Limited Electrical Samples</a></strong><br />
-            Zhuoyi Lin (Institute for Infocomm Research); Kaixin Xu (Nanyang Technological University); Aye Phyu Phyu Aung (); Wen Qiu (Advanced Micro Devices); Bernice Zee (Advanced Micro Devices); Jiann Min Chin (); Jayavelu Senthilnath (National University of Singapore)<br />
+            Zhuoyi Lin (Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR)); Kaixin Xu (Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR)); Aye Phyu Phyu Aung (Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR)); Wen Qiu (Advanced Micro Devices (Singapore) Pte Ltd); Bernice Zee (Advanced Micro Devices (Singapore) Pte Ltd); Jiann Min Chin (Advanced Micro Devices (Singapore) Pte Ltd); Senthilnath Jayavelu (Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_502/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_502/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_502/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1054,7 +1054,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>509</strong></span></td>
             <td><strong><a href="/proceedings/509/">Dynamic Convolution and Graph-Coupled Attention for Cross-Subject EEG-Vision Decoding</a></strong><br />
-            Tianyu Zhang (Durham University); FAN WAN (Durham University); Kaili Sun (Durham University); Xingyu Miao (Durham University); Yueming Sun (University of Durham); Minye Shao (Durham University); Yang Long (Durham University)<br />
+            Tianyu Zhang (Durham University); FAN WAN (Tongfang Knowledge Network Digital Technology Co., Ltd. China National Nuclear Corporation); Kaili Sun (Durham University); Xingyu Miao (Durham University); Yueming Sun (University of Durham); Minye Shao (Durham University); Yang Long (Durham University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_509/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_509/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_509/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1072,7 +1072,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>516</strong></span></td>
             <td><strong><a href="/proceedings/516/">Making Rotation Averaging Fast and Robust with Anisotropic Coordinate Descent</a></strong><br />
-            Yaroslava Lochman (Chalmers University of Technology); Carl Olsson (); Christopher Zach (Chalmers University)<br />
+            Yaroslava Lochman (Chalmers University of Technology); Carl Olsson (Lund University); Christopher Zach (Chalmers University of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_516/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_516/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_516/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1081,7 +1081,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>517</strong></span></td>
             <td><strong><a href="/proceedings/517/">Catching the Unknown with Limited Data: Bi-Directional Prompt Tuning in CLIP for Few-Shot Open-Set Adaptation</a></strong><br />
-            Moloud Abdar (The University of Queensland); Md Mehedi Hasan (); Biplab Banerjee (Indian Institute of Technology); Abbas Khosravi (Deakin University); Pietro Lio (University of Cambridge)<br />
+            Moloud Abdar (The University of Queensland); Md Mehedi Hasan (Deakin University); Biplab Banerjee (Indian Institute of Technology Bombay); Abbas Khosravi (Deakin University); Pietro Lio (University of Cambridge)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_517/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_517/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_517/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1090,7 +1090,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>528</strong></span></td>
             <td><strong><a href="/proceedings/528/">OmniSegNet: Towards Scalable, Efficient &amp; Universal Medical Image Segmentation</a></strong><br />
-            Soma Dasgupta (Tata Consultancy Services Limited); Swarnava Dey (Indian Institute of Technology Kharagpur); Arijit Mukherjee (Tata Consultancy Services Limited); Arpan Pal (Tata Consultancy Services Limited)<br />
+            Soma Dasgupta (Tata Consultancy Services); Swarnava Dey (Tata Consultancy Services); Arijit Mukherjee (Tata Consultancy Services); Arpan Pal (Tata Consultancy Services)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_528/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_528/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_528/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1099,7 +1099,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>540</strong></span></td>
             <td><strong><a href="/proceedings/540/">OptSplat: Recurrent Optimization for Generalizable Reconstruction and Novel View Renderings</a></strong><br />
-            Vemburaj Chockalingam Yadav (German Research Center for AI); Alain Pagani (German Research Center for Artificial Intelligence); Didier Stricker (Technical University Kaiserslautern)<br />
+            Vemburaj Chockalingam Yadav (German Research Center for Artificial Intelligence); Alain Pagani (German Research Center for Artificial Intelligence); Didier Stricker (German Research Center for Artificial Intelligence, RPTU)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_540/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_540/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_540/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1108,7 +1108,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>543</strong></span></td>
             <td><strong><a href="/proceedings/543/">Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes</a></strong><br />
-            Saqib Javed (EPFL - EPF Lausanne); Ahmad Jarrar Khan (EPFL - EPF Lausanne); Corentin Dumery (Meta); Chen Zhao (EPFL - EPF Lausanne); Mathieu Salzmann (Swiss Data Science Center)<br />
+            Saqib Javed (CVLab, EPFL); Ahmad Jarrar Khan (CVLab, EPFL); Corentin Dumery (CVLab, EPFL); Chen Zhao (CVLab, EPFL); Mathieu Salzmann (CVLab, EPFL, Swiss Data Science Center)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_543/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_543/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_543/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1117,7 +1117,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>546</strong></span></td>
             <td><strong><a href="/proceedings/546/">Multi-Method Ensemble for Out-of-Distribution Detection</a></strong><br />
-            Lucas RAKOTOARIVONY (Thales)<br />
+            Lucas Rakotoarivony (Thales, cortAIx Labs)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_546/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_546/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_546/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1126,7 +1126,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>548</strong></span></td>
             <td><strong><a href="/proceedings/548/">Pandora: Articulated 3D Scene Graphs from Egocentric Vision</a></strong><br />
-            Alan Yu (Massachusetts Institute of Technology); Yun Chang (Massachusetts Institute of Technology); Christopher Xie (Meta); Luca Carlone (Massachusetts Institute of Technology)<br />
+            Alan Yu (Massachusetts Institute of Technology); Yun Chang (Massachusetts Institute of Technology); Christopher Xie ( Meta Reality Labs); Luca Carlone (Massachusetts Institute of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_548/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_548/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_548/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1135,7 +1135,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>558</strong></span></td>
             <td><strong><a href="/proceedings/558/">EZIGen: Enhancing zero-shot personalized image generation with precise subject encoding and decoupled guidance</a></strong><br />
-            Zicheng Duan (); Yuxuan Ding (Qualcomm Inc); Chenhui Gou (Monash University); Ziqin Zhou (University of Adelaide); Ethan Smith (Leonardo.Ai); Lingqiao Liu (University of Adelaide)<br />
+            Zicheng Duan (The University of Adelaide); Yuxuan Ding (Qualcomm AI Research); Chenhui Gou (Monash University); Ziqin Zhou (The University of Adelaide); Ethan Smith (Leonardo.AI); Lingqiao Liu (The University of Adelaide)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_558/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_558/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_558/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1144,7 +1144,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>566</strong></span></td>
             <td><strong><a href="/proceedings/566/">OpenHuman4D: Open-Vocabulary 4D Human Parsing</a></strong><br />
-            Keito Suzuki (University of California); Bang Du (Google); Runfa Li (University of California); Kunyao Chen (Qualcomm Inc); Lei Wang (Qualcomm Inc); Peng Liu (Qualcomm Inc); Ning Bi (Qualcomm); Truong Nguyen (University of California)<br />
+            Keito Suzuki (University of California, San Diego); Bang Du (University of California, San Diego); Runfa Li (University of California, San Diego); Kunyao Chen (Qualcomm Inc); Lei Wang (Qualcomm Inc); Peng Liu (Qualcomm Inc); Ning Bi (Qualcomm Inc); Truong Nguyen (University of California, San Diego)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_566/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_566/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_566/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1162,7 +1162,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>577</strong></span></td>
             <td><strong><a href="/proceedings/577/">Zero-Shot CFC: Fast Real-World Image Denoising based on Cross-Frequency Consistency</a></strong><br />
-            Yanlin Jiang (Beijing University of Technology); Yuchen Liu (Beijing University of Technology); Mingren Liu (University of New South Wales)<br />
+            Yanlin Jiang (Beijing University of Technology); Yuchen Liu (Beijing University of Technology); Mingren Liu (Alibaba Cloud)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_577/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_577/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_577/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1171,7 +1171,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>588</strong></span></td>
             <td><strong><a href="/proceedings/588/">CoT-SD: Chain-of-Thought Semantic Denoising</a></strong><br />
-            Yanlin Jiang (Beijing University of Technology); Yuchen Liu (Beijing University of Technology); Mingren Liu (University of New South Wales)<br />
+            Yanlin Jiang (Beijing University of Technology); Yuchen Liu (Beijing University of Technology); Mingren Liu (Alibaba Cloud)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_588/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_588/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_588/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1180,7 +1180,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>593</strong></span></td>
             <td><strong><a href="/proceedings/593/">PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads</a></strong><br />
-            Shashikant Verma (Indian Institute of Technology); Shanmuganathan Raman (IIT Gandhinagar)<br />
+            Shashikant Verma (Indian Institute of Technology Gandhinagar); Shanmuganathan Raman (Indian Institute of Technology Gandhinagar)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_593/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_593/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_593/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1189,7 +1189,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>594</strong></span></td>
             <td><strong><a href="/proceedings/594/">Video Dataset Condensation with Diffusion Models</a></strong><br />
-            Zhe Li (Friedrich-Alexander Universität Erlangen-Nürnberg); Hadrien Reynaud (Imperial College London); Mischa Dombrowski (Friedrich-Alexander Universität Erlangen-Nürnberg); Sarah Cechnicka (Imperial College London); Franciskus Xaverius Erick (Friedrich-Alexander Universität Erlangen-Nürnberg); Bernhard Kainz (AIBE)<br />
+            Zhe Li (FAU Erlangen-Nürnberg); Hadrien Reynaud (Imperial College London); Mischa Dombrowski (FAU Erlangen-Nürnberg); Sarah Cechnicka (Imperial College London); Franciskus Xaverius Erick (FAU Erlangen-Nürnberg); Bernhard Kainz (FAU Erlangen-Nürnberg, Imperial College London)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_594/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_594/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_594/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1207,7 +1207,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>602</strong></span></td>
             <td><strong><a href="/proceedings/602/">Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism</a></strong><br />
-            Jun Zheng (SUN YAT-SEN UNIVERSITY); Jing Wang (SUN YAT-SEN UNIVERSITY); Fuwei Zhao (ByteDance Inc.); Xujie Zhang (SUN YAT-SEN UNIVERSITY); Xiaodan Liang (SUN YAT-SEN UNIVERSITY)<br />
+            Jun Zheng (SUN YAT-SEN UNIVERSITY); Jing Wang (SUN YAT-SEN UNIVERSITY); Fuwei Zhao (ByteDance Inc.); xujie zhang (SUN YAT-SEN UNIVERSITY); Xiaodan Liang (SUN YAT-SEN UNIVERSITY)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_602/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_602/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_602/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1216,7 +1216,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>603</strong></span></td>
             <td><strong><a href="/proceedings/603/">Dual-Stream Adapters for Open-Set Segmentation in Driving Scenes</a></strong><br />
-            Shyam Nandan Rai (Politecnico di Torino); Massimiliano Mancini (University of Trento); Barbara Caputo (Politecnico di Torino); Carlo Masone (Polytechnic Institute of Turin)<br />
+            Shyam Nandan Rai (Politecnico di Torino); Massimiliano Mancini (University of Trento); Barbara Caputo (Politecnico di Torino); Carlo Masone (Politecnico di Torino)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_603/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_603/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_603/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1225,7 +1225,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>610</strong></span></td>
             <td><strong><a href="/proceedings/610/">HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization</a></strong><br />
-            Joohyun Chang (Kyung Hee University); Soyeon Hong (Kyung Hee University); Hyogun Lee (Kyung Hee University); Seong Jong Ha (CJ Corporation); Dongho Lee (CJ Corporation); Seong Tae Kim (Kyung Hee University); Jinwoo Choi (Kyung Hee University)<br />
+            Joohyun Chang (Kyung Hee University); Soyeon Hong (Kyung Hee University); Hyogun Lee (Kyung Hee University); Seong Jong Ha (AI R&amp;D Division, CJ Group); Dongho Lee (AI R&amp;D Division, CJ Group); Seong Tae Kim (Kyung Hee University); Jinwoo Choi (Kyung Hee University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_610/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_610/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_610/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1243,7 +1243,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>626</strong></span></td>
             <td><strong><a href="/proceedings/626/">Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation</a></strong><br />
-            Sobhan Asasi (University of Surrey); Mohamed Ilyas Lakhal (University of Surrey); Ozge Mercanoglu Sincan (University of Surrey); Richard Bowden (University of Surrey)<br />
+            Sobhan Asasi (University of Surrey); Mohamed Ilyes Lakhal (University of Surrey); Ozge Mercanoglu Sincan (University of Surrey); Richard Bowden (University of Surrey)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_626/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_626/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_626/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1252,7 +1252,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>627</strong></span></td>
             <td><strong><a href="/proceedings/627/">TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation</a></strong><br />
-            ZechaoGuan (Southeast University); Feng yan (Meituan); Shuai Du (Southeast University); Lin Ma (Meituan); Qingshan Liu (Southeast University)<br />
+            ZechaoGuan (Southeast University); Feng Yan (Meituan Company); Shuai Du (Southeast University); Lin Ma (Meituan Company); Qingshan Liu (Southeast University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_627/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_627/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_627/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1261,7 +1261,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>628</strong></span></td>
             <td><strong><a href="/proceedings/628/">MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction</a></strong><br />
-            Yingshuang Zou (Tsinghua University); Yikang Ding (Megvii Technology Inc.); Chuanrui Zhang (Electronic Engineering); Jiazhe Guo (Tsinghua University); Bohan Li (Shanghai Jiaotong University); Xiaoyang Lyu (University of Hong Kong); Feiyang Tan (Megvii Technology Inc.); Xiaojuan Qi (University of Hong Kong); Haoqian Wang (Tsinghua University)<br />
+            Yingshuang Zou (Tsinghua University); Yikang Ding (Megvii Technology); Chuanrui Zhang (Tsinghua University); Jiazhe Guo (Tsinghua University); Bohan Li (Shanghai Jiaotong University); Xiaoyang Lyu (University of Hong Kong); Feiyang Tan (Mach Drive); Xiaojuan Qi (University of Hong Kong); Haoqian Wang (Tsinghua University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_628/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_628/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_628/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1270,7 +1270,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>630</strong></span></td>
             <td><strong><a href="/proceedings/630/">Incremental Multi-Scene Modeling via Continual Neural Graphics Primitives</a></strong><br />
-            Prajwal Singh (Indian Institute of Technology); Ashish Tiwari (Indian Institute of Technology); Gautam Vashishtha (Skan.ai); Shanmuganathan Raman (IIT Gandhinagar)<br />
+            Prajwal Singh (IIT Gandhinagar); Ashish Tiwari (IIT Gandhinagar); Gautam Vashishtha (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_630/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_630/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_630/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1288,7 +1288,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>644</strong></span></td>
             <td><strong><a href="/proceedings/644/">Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems</a></strong><br />
-            Qihao Yuan (University of Groningen); Kailai Li (University of Groningen); Jiaming Zhang (Hunan University)<br />
+            Qihao Yuan (University of Groningen); Kailai Li (University of Groningen); Jiaming Zhang (Karlsruhe Institute of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_644/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_644/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_644/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1306,7 +1306,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>649</strong></span></td>
             <td><strong><a href="/proceedings/649/">Towards Open-Vocabulary Multimodal 3D Object Detection with Attributes</a></strong><br />
-            Xinhao Xiang (University of California); Kuan-Chuan Peng (Mitsubishi Electric Research Labs); Suhas Lohit (Mitsubishi Electric Research Labs); Michael J. Jones (MERL); Jiawei Zhang (University of California)<br />
+            Xinhao Xiang (University of California, Davis); Kuan-Chuan Peng (Mitsubishi Electric Research Laboratories (MERL)); Suhas Lohit (Mitsubishi Electric Research Laboratories (MERL)); Michael J. Jones (Mitsubishi Electric Research Laboratories (MERL)); Jiawei Zhang (University of California, Davis)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_649/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_649/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_649/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1333,7 +1333,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>661</strong></span></td>
             <td><strong><a href="/proceedings/661/">Leveraging Sparsity for Efficient Inference of High-Resolution Vision Foundation Models</a></strong><br />
-            Xin Xu (University of Illinois); Jason Kuen (Adobe Research); Brian L Price (Adobe Systems); Kangning Liu (Adobe Systems); Zijun Wei (Adobe Systems); Yu-Xiong Wang ()<br />
+            Xin Xu (University of Illinois Urbana-Champaign); Jason Kuen (Adobe); Brian L Price (Adobe); Kangning Liu (Adobe); Zijun Wei (Adobe); Yu-Xiong Wang (University of Illinois Urbana-Champaign)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_661/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_661/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_661/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1342,7 +1342,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>664</strong></span></td>
             <td><strong><a href="/proceedings/664/">Canonical Makeup Transfer</a></strong><br />
-            Xinyu Lin (The Chinese University of Hong Kong); Kun Zhou (Shenzhen University); Xiaoguang Han (The Chinese University of Hong Kong); Jiangbo Lu (SmartMore Corporation)<br />
+            Xinyu Lin (CUHK-Shenzhen); Kun Zhou (Shenzhen University); Xiaoguang Han (CUHK-Shenzhen); Jiangbo Lu (SmartMore Corporation)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_664/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_664/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_664/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1351,7 +1351,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>666</strong></span></td>
             <td><strong><a href="/proceedings/666/">Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization</a></strong><br />
-            Alberto Compagnoni (University of Modena and Reggio Emilia); Davide Caffagni (Università degli Studi di Modena e Reggio Emilia); Nicholas Moratelli (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia ); Marcella Cornia (University of Modena and Reggio Emilia); Rita Cucchiara (Università di modena e reggio emilia)<br />
+            Alberto Compagnoni (University of Modena and Reggio Emilia); Davide Caffagni (University of Modena and Reggio Emilia); Nicholas Moratelli (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia ); Marcella Cornia (University of Modena and Reggio Emilia); Rita Cucchiara (University of Modena and Reggio Emilia)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_666/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_666/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_666/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1360,7 +1360,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>668</strong></span></td>
             <td><strong><a href="/proceedings/668/">MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression</a></strong><br />
-            Ofir Gordon (Sony Semiconductor Israel); Ariel Lapid (Sony Europe Ltd.); Elad Cohen (Sony Europe Ltd.); Yarden Yagil (Sony Europe Ltd.); Arnon Netzer (Sony); Hai Victor Habi (Tel Aviv University)<br />
+            Ofir Gordon (Sony Semiconductor Israel); Ariel Lapid (Sony Semiconductor Israel); Elad Cohen (Sony Semiconductor Israel); Yarden Yagil (Sony Semiconductor Israel); Arnon Netzer (Sony Semiconductor Israel); Hai Victor Habi (Sony Semiconductor Israel)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_668/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_668/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_668/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1387,7 +1387,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>690</strong></span></td>
             <td><strong><a href="/proceedings/690/">MonoGSDF: Exploring Monocular Geometric Cues for Gaussian Splatting-Guided Implicit Surface Reconstruction</a></strong><br />
-            Kunyi Li (Department of Informatics); Michael Niemeyer (Google); Zeyu Chen (Tsinghua University); Nassir Navab (Technical University of Munich); Federico Tombari (Google)<br />
+            Kunyi Li (Technical University of Munich); Michael Niemeyer (Google); Zeyu Chen (Tsinghua University); Nassir Navab (Technical University of Munich); Federico Tombari (Google)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_690/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_690/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_690/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1396,7 +1396,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>694</strong></span></td>
             <td><strong><a href="/proceedings/694/">Occam’s LGS: An Efficient Approach for Language Gaussian Splatting</a></strong><br />
-            Jiahuan Cheng (Johns Hopkins University); Jan-Nico Zaech (Institute for Computer Science); Luc Van Gool (Sofia Un. St. Kliment Ohridski); Danda Pani Paudel (INSAIT Sofia &amp; ETH Zurich)<br />
+            Jiahuan Cheng (Johns Hopkins University); Jan-Nico Zaech (INSAIT, Sofia University); Luc Van Gool (INSAIT, Sofia University); Danda Pani Paudel (INSAIT, Sofia University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_694/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_694/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_694/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1405,7 +1405,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>698</strong></span></td>
             <td><strong><a href="/proceedings/698/">SAMWave: Adapting Segment Anything Model to difficult tasks</a></strong><br />
-            Saurabh Yadav (Indraprastha Institute of Information Technology); Avi Gupta (Indraprastha Institute of Information Technology); Koteswar Rao Jerripothula (Indian Institute of Technology (IIT) Kanpur)<br />
+            Saurabh Yadav (IIIT Delhi); Avi Gupta (IIIT Delhi); Koteswar Rao Jerripothula (IIT Kanpur)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_698/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_698/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_698/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1414,7 +1414,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>700</strong></span></td>
             <td><strong><a href="/proceedings/700/">Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment</a></strong><br />
-            Namu Kim (Pohang University of Science and Technology); Wonbin Kweon (University of Illinois Urbana-Champaign); Minsoo Kim (Pohang University of Science and Technology); Hwanjo Yu (Pohang University of Science and Technology)<br />
+            Namu Kim (KT Corporation); Wonbin Kweon (University of Illinois Urbana-Champaign); Minsoo Kim (Pohang University of Science and Technology); Hwanjo Yu (Pohang University of Science and Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_700/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_700/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_700/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1423,7 +1423,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>701</strong></span></td>
             <td><strong><a href="/proceedings/701/">Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders</a></strong><br />
-            Faizan Farooq Khan (King Abdullah University of Science and Technology); Vladan Stojnić (Czech Technical University in Prague); Zakaria Laskar (Indian Institute of Science); Mohamed Elhoseiny (KAUST); Giorgos Tolias (Czech Technical University of Prague)<br />
+            Faizan Farooq Khan (King Abdullah University of Science and Technology); Vladan Stojnić (Czech Technical University in Prague); Zakaria Laskar (Czech Technical University in Prague); Mohamed Elhoseiny (King Abdullah University of Science and Technology); Giorgos Tolias (Czech Technical University of Prague)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_701/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_701/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_701/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1432,7 +1432,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>704</strong></span></td>
             <td><strong><a href="/proceedings/704/">JOG3R: Towards 3D-Consistent Video Generators</a></strong><br />
-            Chun-Hao Paul Huang (Adobe Systems); Niloy J. Mitra (); Hyeonho Jeong (Adobe Systems); Jae Shin Yoon (Adobe Systems); Duygu Ceylan (Adobe Systems)<br />
+            Chun-Hao Paul Huang (Adobe Systems); Niloy J. Mitra (Adobe Systems); Hyeonho Jeong (Adobe Systems); Jae Shin Yoon (Adobe Systems); Duygu Ceylan (Adobe Systems)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_704/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_704/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_704/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1450,7 +1450,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>707</strong></span></td>
             <td><strong><a href="/proceedings/707/">Catch Your Concepts: A Flexible Concept Locator for Interpretable Visual Recognition</a></strong><br />
-            Qiyang Wan (Institute of Computing Technology); Ruiping Wang (Institute of Computing Technology); Chengzhi Gao (); Xilin Chen (Institute of Computing Technology)<br />
+            Qiyang Wan (Institute of Computing Technology, Chinese Academy of Sciences (CAS)); Ruiping Wang (Institute of Computing Technology, Chinese Academy of Sciences (CAS)); Chengzhi Gao (Institute of Computing Technology, Chinese Academy of Sciences (CAS)); Xilin CHEN (Institute of Computing Technology, Chinese Academy of Sciences (CAS))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1459,7 +1459,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>709</strong></span></td>
             <td><strong><a href="/proceedings/709/">TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection</a></strong><br />
-            Hongyang Xie (The University of Warwick); Hongyang He (University of Warwick); Victor Sanchez ()<br />
+            Hongyang Xie (The University of Warwick); Hongyang He (The University of Warwick); Victor Sanchez (The University of Warwick)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_709/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_709/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_709/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1504,7 +1504,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>722</strong></span></td>
             <td><strong><a href="/proceedings/722/">Unsupervised Multimodal Deepfake Detection Through Explicit Intra-Modal and Cross-Modal Inconsistency Discovery</a></strong><br />
-            Mulin Tian (University of Southern California); Mahyar Khayatkhoei (USC/ISI); Joe Mathai (University of Southern California); Wael AbdAlmageed (Clemson University)<br />
+            Mulin Tian (University of Southern California); Mahyar Khayatkhoei (University of Southern California); Joe Mathai (University of Southern California); Wael AbdAlmageed (Clemson University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_722/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_722/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_722/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1522,7 +1522,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>736</strong></span></td>
             <td><strong><a href="/proceedings/736/">EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models</a></strong><br />
-            Yue Hu (Harbin Institute of Technology); Siyuan Huang (Shanghai Jiao Tong University); Yue Liao (National University of Singapore); Shengcong Chen (); Pengfei Zhou (Fudan University); Liliang Chen (); Guanghui Ren (AgiBot); Maoqing Yao (Agibot)<br />
+            Yue Hu (AgiBot, Harbin Institute of Technology); Siyuan Huang (Shanghai Jiao Tong University); Yue Liao (National University of Singapore); Shengcong Chen (Agibot); Pengfei Zhou (Agibot); Liliang Chen (AgiBot); Guanghui Ren (AgiBot); Maoqing Yao (Agibot)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_736/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_736/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_736/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1531,7 +1531,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>737</strong></span></td>
             <td><strong><a href="/proceedings/737/">Self-Intersection-Aware 3D Human Motion Generation Using an Efficient Human Sphere Proxy</a></strong><br />
-            Pascal Herrmann (Robert Bosch GmbH); Maarten Bieshaar (Robert Bosch GmbH); Dennis Mack (Robert Bosch GmbH); Paul Robert Herzog (Bosch); Juergen Gall (University of Bonn)<br />
+            Pascal Herrmann (Bosch Research); Maarten Bieshaar (Bosch Research); Dennis Mack (Bosch Research); Paul Robert Herzog (Bosch Research); Juergen Gall (University of Bonn)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_737/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_737/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_737/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1540,7 +1540,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>745</strong></span></td>
             <td><strong><a href="/proceedings/745/">Mapping like a Skeptic: Probabilistic BEV Projection for Online HD Mapping</a></strong><br />
-            Fatih Erdoğan (Koç University); Merve Rabia Barin (Koç University); Fatma Guney (Koc University)<br />
+            Fatih Erdoğan (Koç University); Merve Rabia Barin (Koç University); Fatma Güney (Koç University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_745/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_745/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_745/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1558,7 +1558,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>753</strong></span></td>
             <td><strong><a href="/proceedings/753/">Boosting Camera Motion Control for Video Diffusion Transformers</a></strong><br />
-            Soon Yau Cheong (Gendo AI); Duygu Ceylan (Adobe Systems); Armin Mustafa (University of Surrey); Andrew Gilbert (); Chun-Hao Paul Huang (Adobe Systems)<br />
+            Soon Yau Cheong (University of Surrey); Duygu Ceylan (Adobe Research); Armin Mustafa (University of Surrey); Andrew Gilbert (University of Surrey); Chun-Hao Paul Huang (Adobe Research)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_753/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_753/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_753/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1567,7 +1567,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>755</strong></span></td>
             <td><strong><a href="/proceedings/755/">Audio-Guided Visual Editing with Complex Multi-Modal Prompts</a></strong><br />
-            Hyeonyu Kim (Maum AI); Seokhoon Jeong (Ulsan National Institute of Science and Technology); Seonghee Han (Ulsan National Institute of Science and Technology); Chanhyuk Choi (Ulsan National Institute of Science and Technology); Taehwan Kim (Ulsan National Institute of Science and Technology)<br />
+            Hyeonyu Kim (MAUM AI Inc.); Seokhoon Jeong (Ulsan National Institute of Science and Technology); Seonghee Han (Ulsan National Institute of Science and Technology); Chanhyuk Choi (Ulsan National Institute of Science and Technology); Taehwan Kim (Ulsan National Institute of Science and Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_755/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_755/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_755/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1576,7 +1576,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>762</strong></span></td>
             <td><strong><a href="/proceedings/762/">Learning a Neural Association Network for Self-supervised Multi-Object Tracking</a></strong><br />
-            Shuai Li (Rheinische Friedrich-Wilhelms Universität Bonn); Michael Burke (Monash University); Subramanian Ramamoorthy (Edinburgh University); Juergen Gall (University of Bonn)<br />
+            Shuai Li (University of Bonn); Michael Burke (Monash University); Subramanian Ramamoorthy (University of Edinburgh); Juergen Gall (University of Bonn)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_762/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_762/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_762/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1585,7 +1585,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>766</strong></span></td>
             <td><strong><a href="/proceedings/766/">Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing</a></strong><br />
-            Ekaterina Iakovleva (Télécom Paris); Fabio Pizzati (Mohamed bin Zayed University of Artificial Intelligence); Philip Torr (University of Oxford); Stéphane Lathuilière (INRIA)<br />
+            Ekaterina Iakovleva (Télécom Paris); Fabio Pizzati (MBZUAI); Philip Torr (University of Oxford); Stéphane Lathuilière (INRIA)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_766/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_766/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_766/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1603,7 +1603,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>770</strong></span></td>
             <td><strong><a href="/proceedings/770/">DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction</a></strong><br />
-            Kiana Hooshanfar (University of Tehran); Alireza Hosseini (University of Tehran); Mona Ahmadian (University of Surrey); Ahmad Kalhor (University of Massachusetts at Amherst); Babak N Araabi (University of Tehran)<br />
+            Kiana Hooshanfar (University of Tehran); Alireza Hosseini (University of Tehran); Mona Ahmadian (University of Surrey); Ahmad Kalhor (University of Tehran); Babak N Araabi (University of Tehran)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_770/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_770/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_770/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1612,7 +1612,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>782</strong></span></td>
             <td><strong><a href="/proceedings/782/">Is Safety Checker Still Safe? A Study on the Covert NSFW Text</a></strong><br />
-            Xin Li (); Kai Chen (); XUE YANG (); Weijun Shan (); Jun Yu (Fudan University); Qing Li (Fudan University)<br />
+            Xin Li (Shanghai Fudan Microelectronics Group CO.,LTD.); Kai Chen (Shanghai Fudan Microelectronics Group CO.,LTD.); XUE YANG (Shanghai Fudan Microelectronics Group CO.,LTD.); Weijun Shan (Shanghai Fudan Microelectronics Group CO.,LTD.); Jun Yu (Shanghai Fudan Microelectronics Group CO.,LTD.); Qing Li (Shanghai Fudan Microelectronics Group CO.,LTD.)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_782/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_782/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_782/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1630,7 +1630,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>786</strong></span></td>
             <td><strong><a href="/proceedings/786/">TAG: A Simple Yet Effective Temporal-Aware Approach for Zero-Shot Video Temporal Grounding</a></strong><br />
-            Jin-Seop Lee (Sungkyunkwan University); SungJoon Lee (Sung Kyun Kwan University); Jaehan Ahn (Sungkyunkwan University); YunSeok Choi (SungKyunKwan University); Jee-Hyong Lee (Sungkyunkwan University)<br />
+            Jin-Seop Lee (Sungkyunkwan University); SungJoon Lee (Sungkyunkwan University); Jaehan Ahn (Sungkyunkwan University); YunSeok Choi (Sungkyunkwan University); Jee-Hyong Lee (Sungkyunkwan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_786/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_786/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_786/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1639,7 +1639,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>787</strong></span></td>
             <td><strong><a href="/proceedings/787/">${C}^{3}$-GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting</a></strong><br />
-            Yuxi Hu (Technische Universität Graz); Jun Zhang (Technische Universität Graz); Kuangyi Chen (Technische Universität Graz); Zhe Zhang (Alibaba Group); Friedrich Fraundorfer (Technische Universität Graz)<br />
+            Yuxi Hu (Graz University of Technology); Jun Zhang (Graz University of Technology); Kuangyi Chen (Graz University of Technology); Zhe Zhang (Peking University); Friedrich Fraundorfer (Graz University of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_787/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_787/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_787/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1648,7 +1648,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>788</strong></span></td>
             <td><strong><a href="/proceedings/788/">Vision Backbone Efficient Selection for Image Classification in Low-Data Regimes</a></strong><br />
-            Joris Guerin (IRD); Shray Bansal (Georgia Institute of Technology); Amirreza Shaban (University of Washington); Paulo Mann (Universidade Federal do Rio de Janeiro); Harshvardhan Gazula (Massachusetts Institute of Technology)<br />
+            Joris Guerin (IRD); Shray Bansal (Georgia Institute of Technology); Amirreza Shaban (Field AI); Paulo Mann (Federal University of Rio de Janeiro); Harshvardhan Gazula (Massachusetts Institute of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_788/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_788/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_788/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1657,7 +1657,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>811</strong></span></td>
             <td><strong><a href="/proceedings/811/">DEAD: Data-Efficient Audiovisual Dubbing using Neural Rendering Priors</a></strong><br />
-            Jack Saunders (); Vinay Namboodiri (University of Bath)<br />
+            Jack Saunders (University of Bath); Vinay Namboodiri (University of Bath)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_811/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_811/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_811/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1666,7 +1666,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>824</strong></span></td>
             <td><strong><a href="/proceedings/824/">A Unified Framework for High-Frame-Rate HDR Video Synthesis</a></strong><br />
-            Hue Nguyen (York University); Trevor Dalton Canham (Adobe Systems); Michael S. Brown (Samsung)<br />
+            Hue Nguyen (York University); Trevor Dalton Canham (York University); Michael S. Brown (York University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_824/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_824/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_824/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1675,7 +1675,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>825</strong></span></td>
             <td><strong><a href="/proceedings/825/">Modular Embedding Recomposition for Incremental Learning</a></strong><br />
-            Aniello Panariello (University of Modena and Reggio Emilia); Emanuele Frascaroli (UNIVERSITÀ DEGLI STUDI DI MODENA E REGGIO EMILIA); Pietro Buzzega (University of Modena and Reggio Emilia); Lorenzo Bonicelli (University of Modena and Reggio Emilia); Angelo Porrello (University of Modena and Reggio Emilia); Simone Calderara (University of Modena and Reggio Emilia)<br />
+            Aniello Panariello (University of Modena and Reggio Emilia); Emanuele Frascaroli (University of Modena and Reggio Emilia); Pietro Buzzega (University of Modena and Reggio Emilia); Lorenzo Bonicelli (University of Modena and Reggio Emilia); Angelo Porrello (University of Modena and Reggio Emilia); Simone Calderara (University of Modena and Reggio Emilia)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_825/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_825/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_825/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1684,7 +1684,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>827</strong></span></td>
             <td><strong><a href="/proceedings/827/">MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object</a></strong><br />
-            Zilong Deng (University of Zurich); Shaochang Tan (ZHAW - Zürcher Hochschule für Angewandte Wissenschaften); Zuria Bauer (ETHZ - ETH Zurich); Daniel Barath (ETHZ - ETH Zurich); Marc Pollefeys (Microsoft)<br />
+            Zilong Deng (ETH Zürich); Shaochang Tan (Universität Zürich); Zuria Bauer (ETH Zürich); Daniel Barath (ETH Zürich); Marc Pollefeys (Microsoft)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_827/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_827/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_827/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1693,7 +1693,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>828</strong></span></td>
             <td><strong><a href="/proceedings/828/">Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval</a></strong><br />
-            Adriano Fragomeni (University of Bristol); Dima Damen (Google DeepMind); Michael Wray (University of Bristol)<br />
+            Adriano Fragomeni (University of Bristol); Dima Damen (University of Bristol); Michael Wray (University of Bristol)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_828/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_828/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_828/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1702,7 +1702,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>831</strong></span></td>
             <td><strong><a href="/proceedings/831/">LOGen: Toward LiDAR Object Generation by Point Diffusion</a></strong><br />
-            Ellington Kirby (Valeo); Mickael Chen (H.ai); Renaud Marlet (Inria); Nermin Samet (Valeo)<br />
+            Ellington Kirby (Valeo.ai); Mickael Chen (Valeo.ai); Renaud Marlet (Valeo.ai); Nermin Samet (Valeo.ai)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_831/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_831/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_831/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1711,7 +1711,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>832</strong></span></td>
             <td><strong><a href="/proceedings/832/">SIMULDITEX: Single Image Multiscale &amp; Lightweight Diffusion for Texture Modelling</a></strong><br />
-            Pierrick Chatillon (Université de Caen Basse Normandie); Julien Rabin (ENSICAEN); David Tschumperlé (CNRS)<br />
+            Pierrick Chatillon (Université de Caen Normandie); Julien Rabin (Université de Caen Normandie); David Tschumperlé (Université de Caen Normandie)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_832/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_832/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_832/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1747,7 +1747,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>852</strong></span></td>
             <td><strong><a href="/proceedings/852/">LoFT: LoRA-fused Training Dataset Generation with Few-shot Guidance</a></strong><br />
-            Jae Myung Kim (University of Tuebingen); Stephan Alaniz (Télécom Paris); Cordelia Schmid (Google); Zeynep Akata (Technische Universität München)<br />
+            Jae Myung Kim (University of Tuebingen); Stephan Alaniz (Télécom Paris); Cordelia Schmid (Inria, Ecole normale supérieure); Zeynep Akata (Technische Universität München)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_852/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_852/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_852/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1765,7 +1765,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>859</strong></span></td>
             <td><strong><a href="/proceedings/859/">Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift</a></strong><br />
-            Björn Michele (Université de Bretagne Sud); Alexandre Boulch (Valeo); Gilles Puy (INRIA); Tuan-Hung VU (INRIA); Renaud Marlet (Inria); Nicolas Courty (IRISA)<br />
+            Björn Michele (Université de Bretagne Sud); Alexandre Boulch (valeo.ai); Gilles Puy (valeo.ai); Tuan-Hung VU (valeo.ai); Renaud Marlet (valeo.ai); Nicolas Courty (IRISA)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_859/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_859/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_859/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1774,7 +1774,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>864</strong></span></td>
             <td><strong><a href="/proceedings/864/">Geometry-Aware Diffusion Models for Multiview Scene Inpainting</a></strong><br />
-            Ahmad Salimi (York University); Tristan Ty Aumentado-Armstrong (); Marcus A Brubaker (Google DeepMind); Konstantinos G. Derpanis (York University)<br />
+            Ahmad Salimi (York University); Tristan Ty Aumentado-Armstrong (York University); Marcus A Brubaker (Google DeepMind); Konstantinos G. Derpanis (York University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_864/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_864/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_864/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1783,7 +1783,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>865</strong></span></td>
             <td><strong><a href="/proceedings/865/">FootFormer: Estimating Stability from Visual Input</a></strong><br />
-            Keaton Yukio Kraiger (Pennsylvania State University); Jingjing Li (Pennsylvania State University); Skanda Bharadwaj (Pennsylvania State University); Jesse Scott (); Robert T. Collins (Pennsylvania State University); Yanxi Liu (Pennsylvania State Univ University Park)<br />
+            Keaton Yukio Kraiger (Pennsylvania State University); Jingjing Li (Pennsylvania State University); Skanda Bharadwaj (Pennsylvania State University); Jesse Scott (Scientific Applications &amp; Research Associates (SARA), Inc.); Robert T. Collins (Pennsylvania State University); Yanxi Liu (Pennsylvania State University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_865/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_865/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_865/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1792,7 +1792,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>866</strong></span></td>
             <td><strong><a href="/proceedings/866/">Image Recognition with Vision and Language Embeddings of VLMs</a></strong><br />
-            Illia Volkov (Czech Technical University of Prague); Nikita Kisel (Czech Technical Univeresity in Prague); Klara Janouskova (Czech Technical Univeresity in Prague); Jiri Matas (Czech Techical University)<br />
+            Illia Volkov (Czech Technical University of Prague); Nikita Kisel (Czech Technical Univeresity in Prague); Klara Janouskova (Czech Technical Univeresity in Prague); Jiri Matas (Czech Technical University in Prague)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_866/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_866/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_866/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1810,7 +1810,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>875</strong></span></td>
             <td><strong><a href="/proceedings/875/">Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation</a></strong><br />
-            Silvio Mazzucco (Huawei Technologies Ltd.); Carl Persson (Advanced Micro Devices); Mattia Segu (); Pier Luigi Dovesi (Advanced Micro Devices); Federico Tombari (Google); Luc Van Gool (Sofia Un. St. Kliment Ohridski); Matteo Poggi (University di Bologna)<br />
+            Silvio Mazzucco (The Good AI Lab); Carl Persson (The Good AI Lab); Mattia Segu (The Good AI Lab); Pier Luigi Dovesi (The Good AI Lab); Federico Tombari (Google); Luc Van Gool (INSAIT, Sofia University); Matteo Poggi (University of Bologna)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_875/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_875/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_875/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1828,7 +1828,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>887</strong></span></td>
             <td><strong><a href="/proceedings/887/">QWD-GAN: Quality-aware Wavelet-driven GAN for Unsupervised Medical Microscopy Images Denoising</a></strong><br />
-            Qijun Yang (University of Manchester); Yating Huang (University of Manchester); Lintao Xiang (The University of Manchester); Hujun Yin (University of Manchester)<br />
+            Qijun Yang (The University of Manchester); Yating Huang (The University of Manchester); Lintao Xiang (The University of Manchester); Hujun Yin (The University of Manchester)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_887/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_887/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_887/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1837,7 +1837,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>896</strong></span></td>
             <td><strong><a href="/proceedings/896/">Llama Learns to Direct: DirectorLLM for Human-Centric Video Generation</a></strong><br />
-            Kunpeng Song (); Tingbo Hou (Google DeepMind); Zecheng He (Meta); Haoyu Ma (Meta Platforms); Jialiang Wang (Meta AI); Animesh Sinha (Meta); Sam Tsai (Meta); Yaqiao Luo (Facebook); Xiaoliang Dai (Facebook); Li Chen (); Xide Xia (Meta); Peizhao Zhang (Meta); Peter Vajda (Meta); Ahmed M. Elgammal (Rutgers University); Felix Juefei-Xu (GenAI)<br />
+            Kunpeng Song (The State University of New Jersey); Tingbo Hou (GenAI at Meta); Zecheng He (GenAI at Meta); Haoyu Ma (GenAI at Meta); Jialiang Wang (GenAI at Meta); Animesh Sinha (GenAI at Meta); Sam Tsai (GenAI at Meta); Yaqiao Luo (GenAI at Meta); Xiaoliang Dai (GenAI at Meta); Li Chen (GenAI at Meta); Xide Xia (GenAI at Meta); Peizhao Zhang (GenAI at Meta); Peter Vajda (GenAI at Meta); Ahmed M. Elgammal (The State University of New Jersey); Felix Juefei-Xu (GenAI at Meta)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_896/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_896/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_896/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1846,7 +1846,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>898</strong></span></td>
             <td><strong><a href="/proceedings/898/">FaceCPT: Toward Cross-Modal Facial Representation Learning with Face-Caption Pre-Training</a></strong><br />
-            Md Mahedi Hasan (West Virginia University); Shoaib Meraj Sami (West Virginia University); Nasser Nasrabadi (Johns Hopkins University); Jeremy M. Dawson (West Virginia University)<br />
+            Md Mahedi Hasan (West Virginia University); Shoaib Meraj Sami (West Virginia University); Nasser Nasrabadi (West Virginia University); Jeremy M. Dawson (West Virginia University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_898/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_898/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_898/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1855,7 +1855,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>900</strong></span></td>
             <td><strong><a href="/proceedings/900/">Time-Scaling State-Space Models for Dense Video Captioning</a></strong><br />
-            AJ Piergiovanni (Google); Ganesh Satish Mallya (Google); Dahun Kim (Google); Anelia Angelova ()<br />
+            AJ Piergiovanni (Google Deepmind); Ganesh Satish Mallya (Google Deepmind); Dahun Kim (Google Deepmind); Anelia Angelova (Google Deepmind)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_900/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_900/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_900/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1864,7 +1864,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>902</strong></span></td>
             <td><strong><a href="/proceedings/902/">ITC-RWKV: Interactive Tissue–Cell Modeling with Recurrent Key-Value Aggregation for Histopathological Subtyping</a></strong><br />
-            Yating Huang (University of Manchester); Qijun Yang (University of Manchester); Lintao Xiang (The University of Manchester); Hujun Yin (University of Manchester)<br />
+            Yating Huang (The University of Manchester); Qijun Yang (The University of Manchester); Lintao Xiang (The University of Manchester); Hujun Yin (The University of Manchester)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_902/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_902/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_902/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1873,7 +1873,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>903</strong></span></td>
             <td><strong><a href="/proceedings/903/">Toward Robust Audio-Visual Synchronization Detection in Egocentric Video with Sparse Synchronization Events</a></strong><br />
-            Jordan Voas (University of Texas at Austin); Wei-Cheng Tseng (University of Texas at Austin); Benoit Vallade (Amazon); Alex Mackin (Amazon); David Higham (Amazon); David Harwath (University of Texas)<br />
+            Jordan Voas (The University of Texas at Austin); Wei-Cheng Tseng (The University of Texas at Austin); Benoit Vallade (Amazon Prime Video); Alex Mackin (Amazon Prime Video); David Higham (Amazon Prime Video); David Harwath (The University of Texas at Austin)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_903/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_903/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_903/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1909,7 +1909,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>931</strong></span></td>
             <td><strong><a href="/proceedings/931/">Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation</a></strong><br />
-            Yuan Yao (Adobe Inc.); Yicong Hong (Adobe Systems); Difan Liu (Adobe Systems); Long Mai (Adobe Systems); Feng Liu (Adobe Systems); Jiebo Luo (University of Rochester)<br />
+            Yuan Yao (University of Rochester); Yicong Hong (Adobe Research); Difan Liu (Adobe Research); Long Mai (Adobe Research); Feng Liu (Adobe Research); Jiebo Luo (University of Rochester)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_931/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_931/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_931/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1918,7 +1918,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>938</strong></span></td>
             <td><strong><a href="/proceedings/938/">Grad-CL: Source Free Domain Adaptation with Gradient Guided Feature Disalignment</a></strong><br />
-            Rini Smita Thakur (IISER Bhopal); Rajeev Ranjan Dwivedi (Indian Institute of Science Education and Research Bhopal); Vinod K. Kurmi (IISER Bhopal )<br />
+            Rini Smita Thakur (Indian Institute of Science Education and Research Bhopal); Rajeev Ranjan Dwivedi (Indian Institute of Science Education and Research Bhopal); Vinod K. Kurmi (Indian Institute of Science Education and Research Bhopal)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_938/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_938/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_938/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1927,7 +1927,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>940</strong></span></td>
             <td><strong><a href="/proceedings/940/">Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation</a></strong><br />
-            Nguyen Lan Vi Vu (Ho Chi Minh City University of Technology); Thanh-Huy Nguyen (University of Burgundy); Thien Nguyen (Posts and Telecommunications Institute of Technology); Daisuke Kihara (Purdue University); Tianyang Wang (University of Alabama at Birmingham); Xingjian Li (Carnegie Mellon University); Min Xu (Carnegie Mellon University)<br />
+            Nguyen Lan Vi Vu (Ho Chi Minh City University of Technology); Thanh-Huy Nguyen (Carnegie Mellon University); Thien Nguyen (Posts and Telecommunications Institute of Technology); Daisuke Kihara (Purdue University); Tianyang Wang (University of Alabama at Birmingham); Xingjian Li (Carnegie Mellon University); Min Xu (Carnegie Mellon University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_940/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_940/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_940/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1945,7 +1945,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>948</strong></span></td>
             <td><strong><a href="/proceedings/948/">Tracking Meets Large Multimodal Models for Driving Scenario Understanding</a></strong><br />
-            Ayesha Ishaq (Mohamed bin Zayed University of Artificial Intelligence); Jean Lahoud (Mohamed bin Zayed University of Artificial Intelligence); Fahad Shahbaz Khan (Mohamed bin Zayed University of Artificial Intelligence); Salman Khan (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (MBZUAI); Rao Muhammad Anwer (Mohamed bin Zayed University of Artificial Intelligence)<br />
+            Ayesha Ishaq (Mohamed bin Zayed University of Artificial Intelligence); Jean Lahoud (Mohamed bin Zayed University of Artificial Intelligence); Fahad Shahbaz Khan (Mohamed bin Zayed University of Artificial Intelligence); Salman Khan (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (Mohamed bin Zayed University of Artificial Intelligence); Rao Muhammad Anwer (Mohamed bin Zayed University of Artificial Intelligence)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_948/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_948/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_948/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1954,7 +1954,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>949</strong></span></td>
             <td><strong><a href="/proceedings/949/">Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning</a></strong><br />
-            Kai Wang (University of Toronto); Shentong Mo (CMU); Yapeng Tian (University of Texas at Dallas); Dimitrios Hatzinakos (University of Toronto)<br />
+            Kai Wang (University of Toronto); Shentong Mo (Carnegie Mellon University); Yapeng Tian (University of Texas at Dallas); Dimitrios Hatzinakos (University of Toronto)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_949/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_949/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_949/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1963,7 +1963,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>955</strong></span></td>
             <td><strong><a href="/proceedings/955/">Clean Sample Selection and Noisy Sample Rematching for Text-Based Pedestrian Retrieval</a></strong><br />
-            Daiqiang Li (Sichuan University); Weicheng Zhang (Sichuan University); yuanyuan wu (); Honggang Chen (Sichuan University)<br />
+            Daiqiang Li (Sichuan University); Weicheng Zhang (Sichuan University); yuanyuan wu (Chengdu University of Technology); Honggang Chen (Sichuan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_955/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_955/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_955/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1972,7 +1972,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>960</strong></span></td>
             <td><strong><a href="/proceedings/960/">A Hybrid Framework Bridging CNN and ViT based on Theory of Evidence for Diabetic Retinopathy Grading</a></strong><br />
-            Junlai Qiu (Guangxi Medical University); Yunzhu Chen (Guangxi University); Hao Zheng (Tencent); Yawen Huang (Tencent); Yuexiang Li (Guangxi Medical University)<br />
+            Junlai Qiu (Hainan University); Yunzhu Chen (Guangxi Polytechnic of Construction); Hao Zheng (Tencent Jarvis Lab); Yawen Huang (Tencent Jarvis Lab); Yuexiang Li (Guangxi Medical University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_960/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_960/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_960/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -1999,7 +1999,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>981</strong></span></td>
             <td><strong><a href="/proceedings/981/">Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams</a></strong><br />
-            Takuya Nakabayashi (Saarland Informatics Campus); Navami Kairanda (Saarland Informatics Campus); Hideo Saito (Keio University); Vladislav Golyanik (Saarland Informatics Campus)<br />
+            Takuya Nakabayashi (Keio University); Navami Kairanda (Max Planck Institute for Informatics); Hideo Saito (Keio University); Vladislav Golyanik (Max Planck Institute for Informatics)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_981/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_981/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_981/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2008,7 +2008,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>986</strong></span></td>
             <td><strong><a href="/proceedings/986/">Visible Structure Retrieval for Lightweight Image-Based Relocalisation</a></strong><br />
-            Fereidoon Zangeneh (KTH Royal Institute of Technology); Leonard Bruns (Niantic); Amit Dekel (Univrses); Alessandro Pieropan (Univrses AB); Patric Jensfelt (KTH Royal Institute of Technology)<br />
+            Fereidoon Zangeneh (KTH Royal Institute of Technology); Leonard Bruns (KTH Royal Institute of Technology); Amit Dekel (Univrses AB); Alessandro Pieropan (Univrses AB); Patric Jensfelt (KTH Royal Institute of Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_986/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_986/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_986/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2017,7 +2017,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>987</strong></span></td>
             <td><strong><a href="/proceedings/987/">Spatiotemporal Event Spotting via 3D Heatmaps with Dynamically Shifted Gaussian Kernels</a></strong><br />
-            Ankhzaya Jamsrandorj (Korea Institute of Science and Technology); VANYI CHAO (); Hoang Quoc Nguyen (Korea Institute of Science and Technology); Yin May Oo (University of Science and Technology); Muhammad Amrulloh Robbani (University of Science and Technology); Yewon Hwang (Korea Institute of Science and Technology); Kyung-Ryoul Mun (); Jinwook Kim (Korea Institute of Science and Technology)<br />
+            Ankhzaya Jamsrandorj (Korea Institute of Science and Technology); VANYI CHAO (University of Science and Technology); Hoang Quoc Nguyen (Korea Institute of Science and Technology); Yin May Oo (University of Science and Technology); Muhammad Amrulloh Robbani (University of Science and Technology); Yewon Hwang (Korea Institute of Science and Technology); Kyung-Ryoul Mun (Korea Institute of Science and Technology); Jinwook Kim (Korea Institute of Science and Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_987/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_987/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_987/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2026,7 +2026,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>988</strong></span></td>
             <td><strong><a href="/proceedings/988/">Ink Enhancement for Ancient Bamboo Manuscripts  Using Iterative Restoration-Degradation Adversarial Learning</a></strong><br />
-            Chongsheng ZHANG (Ludwig-Maximilians-Universität München); Junchao Ma (Henan Univeristy); Wenhao Zhang (Henan Univeristy); Kamel Aouaidjia (Henan Univeristy); Qilong Li (Henan Univeristy); Gaojuan Fan (Henan Univeristy); Christian Heumann (Ludwig-Maximilians-Universität München)<br />
+            Chongsheng ZHANG (Henan University, Ludwig-Maximilians-Universität München); Junchao Ma (Henan Univeristy); Wenhao Zhang (Henan Univeristy); Kamel Aouaidjia (Henan Univeristy); Qilong Li (Henan Univeristy); Gaojuan Fan (Henan Univeristy); Christian Heumann (Ludwig-Maximilians-Universität München)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_988/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_988/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_988/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2035,7 +2035,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>989</strong></span></td>
             <td><strong><a href="/proceedings/989/">MedOpenSeg: Open-World Medical Segmentation with Memory-Augmented Transformers</a></strong><br />
-            Luisa Vargas (Eurecom); Eleonora Poeta (Polytechnic Institute of Turin); Tania Cerquitelli (Polytechnic Institute of Turin); Elena Baralis (Politecnico di Torino); Maria A Zuluaga (King&#x27;s College London)<br />
+            Luisa Vargas (Eurecom); Eleonora Poeta (Politecnico di Torino); Tania Cerquitelli (Politecnico di Torino); Elena Baralis (Politecnico di Torino); Maria A Zuluaga (Eurecom)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_989/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_989/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_989/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2062,7 +2062,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1004</strong></span></td>
             <td><strong><a href="/proceedings/1004/">RP-SAM2: Refining Point Prompts for Stable Surgical Instrument Segmentation</a></strong><br />
-            Nuren Zhaksylyk (Mohamed bin Zayed University of Artificial Intelligence); Ibrahim Almakky (Mohamed bin Zayed University of Artificial Intelligence); Jay Nitin Paranjape (Johns Hopkins University); S. Swaroop Vedula (); Shameema Sikder (Johns Hopkins University); Vishal M. Patel (Johns Hopkins University); Mohammad Yaqub (Mohamed bin Zayed University of Artificial Intelligence)<br />
+            Nuren Zhaksylyk (Mohamed bin Zayed University of Artificial Intelligence); Ibrahim Almakky (Mohamed bin Zayed University of Artificial Intelligence); Jay Nitin Paranjape (Johns Hopkins University); S. Swaroop Vedula (Johns Hopkins University); Shameema Sikder (Johns Hopkins University); Vishal M. Patel (Johns Hopkins University); Mohammad Yaqub (Mohamed bin Zayed University of Artificial Intelligence)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1004/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1004/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1004/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2071,7 +2071,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1006</strong></span></td>
             <td><strong><a href="/proceedings/1006/">Verifier Matters: Enhancing Inference-Time Scaling for Video Diffusion Models</a></strong><br />
-            Lorenzo Baraldi (University of Pisa); Davide Bucciarelli (University of Pisa); Zifan Zeng (Technische Universität München); Chongzhe Zhang (Technische Universität Berlin); Qunli Zhang (Huawei Technologies Ltd.); Marcella Cornia (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia ); Feng Liu (Huawei Technologies Ltd.); zheng hu (Huawei Technologies Ltd.); Rita Cucchiara (Università di modena e reggio emilia)<br />
+            Lorenzo Baraldi (University of Pisa); Davide Bucciarelli (University of Pisa); Zifan Zeng (Technische Universität München); Chongzhe Zhang (Technische Universität Berlin); Qunli Zhang (Huawei Technologies Ltd.); Marcella Cornia (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia); Feng Liu (Huawei Technologies Ltd.); Zheng Hu (Huawei Technologies Ltd.); Rita Cucchiara (University of Modena and Reggio Emilia)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1006/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1006/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1006/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2080,7 +2080,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1007</strong></span></td>
             <td><strong><a href="/proceedings/1007/">Is Structural Awareness the Key to Event Camera Data Cleansing for Enhancing Veracity?</a></strong><br />
-            Haiyu Li (University of Sheffield); Charith Abhayaratne (The University of Sheffield)<br />
+            Haiyu Li (The University of Sheffield); Charith Abhayaratne (The University of Sheffield)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1007/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1007/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1007/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2134,7 +2134,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1035</strong></span></td>
             <td><strong><a href="/proceedings/1035/">Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation</a></strong><br />
-            Julien Walther (University of Bordeaux); Rémi Giraud (University of Bordeaux); Michaël Clément (Bordeaux INP)<br />
+            Julien Walther (University of Bordeaux); Rémi Giraud (University of Bordeaux); Michaël Clément (University of Bordeaux)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1035/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1035/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1035/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2143,7 +2143,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1036</strong></span></td>
             <td><strong><a href="/proceedings/1036/">Benchmarking Vision Foundation Models for Input Monitoring in Autonomous Driving</a></strong><br />
-            Mert Keser (Technische Universität München); Halil Ibrahim Orhan (Technische Universität München); Niki Amini-Naieni (University of Oxford); Gesina Schwalbe (Universität zu Lübeck); Alois C. Knoll (Technical University Munich); Matthias Rottmann ()<br />
+            Mert Keser (Continental AG, Technische Universität München); Halil Ibrahim Orhan (Technische Universität München); Niki Amini-Naieni (University of Oxford); Gesina Schwalbe (Universität zu Lübeck); Alois C. Knoll (Technical University Munich); Matthias Rottmann (Universität Osnabrück)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1036/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1036/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1036/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2152,7 +2152,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1037</strong></span></td>
             <td><strong><a href="/proceedings/1037/">Generative Data Augmentation for Object Point Cloud Segmentation</a></strong><br />
-            Dekai Zhu (Technische Universität München); Stefan Gavranovic (Technische Universität München); Flavien Boussuge (Siemens Corporate Research); Benjamin Busam (); Slobodan Ilic (Siemens Technology)<br />
+            Dekai Zhu (Technische Universität München); Stefan Gavranovic (Siemens AG); Flavien Boussuge (Siemens AG); Benjamin Busam (Technische Universität München); Slobodan Ilic (Technische Universität München)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1037/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1037/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1037/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2170,7 +2170,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1058</strong></span></td>
             <td><strong><a href="/proceedings/1058/">Atomizer: Generalizing to unseen modalities by breaking images down to a set of scalars</a></strong><br />
-            Hugo Riffaud de Turckheim (INRIA); Diego Marcos (INRIA); Roberto Interdonato (Centre de coopération internationale en recherche agronomique pour le développement); Sylvain Lobry (Université Paris Cité)<br />
+            Hugo Riffaud de Turckheim (INRIA); Diego Marcos (INRIA); Roberto Interdonato (CIRAD); Sylvain Lobry (Université de Montpellier)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1058/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1058/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1058/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2179,7 +2179,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1060</strong></span></td>
             <td><strong><a href="/proceedings/1060/">Learning Correlation-aware Aleatoric Uncertainty for 3D Hand Pose Estimation</a></strong><br />
-            Lee Chae-Yeon (Pohang University of Science and Technology); Nam Hyeon-Woo (Helmholtz Zentrum München); Tae-Hyun Oh (Korea Advanced Institute of Science &amp; Technology)<br />
+            Lee Chae-Yeon (Pohang University of Science and Technology); Nam Hyeon-Woo (Pohang University of Science and Technology); Tae-Hyun Oh (Korea Advanced Institute of Science and Technology)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1060/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1060/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1060/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2188,7 +2188,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1061</strong></span></td>
             <td><strong><a href="/proceedings/1061/">IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis</a></strong><br />
-            Guo Tang (Harbin Institute of Technology); Songhan Jiang (Harbin Institute of Technology); Jinpeng Lu (University of Science and Technology of China); Linghan Cai (Harbin Institute of Technology); Yongbing Zhang (Harbin Institute of Technology)<br />
+            Guo Tang (Harbin Institute of Technology Shenzhen); Songhan Jiang (Harbin Institute of Technology Shenzhen); Jinpeng Lu (University of Science and Technology of China); Linghan Cai (Harbin Institute of Technology Shenzhen); Yongbing Zhang (Harbin Institute of Technology Shenzhen)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1061/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1061/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1061/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2215,7 +2215,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1071</strong></span></td>
             <td><strong><a href="/proceedings/1071/">Stabilizing Open-Set Test-Time Adaptation via Primary-Auxiliary Filtering and Knowledge-Integrated Prediction</a></strong><br />
-            Byung-Joon Lee (Sung Kyun Kwan University); Jin-Seop Lee (Sungkyunkwan University); Jee-Hyong Lee (Sungkyunkwan University)<br />
+            Byung-Joon Lee (Sungkyunkwan University); Jin-Seop Lee (Sungkyunkwan University); Jee-Hyong Lee (Sungkyunkwan University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1071/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1071/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1071/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2224,7 +2224,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1072</strong></span></td>
             <td><strong><a href="/proceedings/1072/">Controllable Garment Generation with Multi-Modal Diffusion Guidance</a></strong><br />
-            Sanhita Pathak (Indian Institute of Technology); Vinay Kaushik (Indian Institute of Information Technology Sonepat); Brejesh Lall (Indian Institute of Technology Delhi)<br />
+            Sanhita Pathak (IIT Delhi); Vinay Kaushik (IIIT Sonepat); Brejesh Lall (IIT Delhi)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1072/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1072/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1072/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2233,7 +2233,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1076</strong></span></td>
             <td><strong><a href="/proceedings/1076/">CLFSeg: A Fuzzy-Logic based Solution for Boundary Clarity and Uncertainty Reduction in Medical Image Segmentation</a></strong><br />
-            Anshul Kaushal (); Kunal Jangid (Indian Institute of Science Education and Research); Vinod K. Kurmi (IISER Bhopal )<br />
+            Anshul Kaushal (Panjab University); Kunal Jangid (Indian Institute of Science Education and Research Bhopal); Vinod K. Kurmi (Indian Institute of Science Education and Research Bhopal)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1076/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1076/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1076/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2251,7 +2251,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1081</strong></span></td>
             <td><strong><a href="/proceedings/1081/">ImProvShow: Multimodal Fusion for Image Provenance Summarization</a></strong><br />
-            Alexander Black (Huawei Technologies Ltd.); Jing Shi (Adobe Systems); Yifei Fan (Adobe Systems); John Collomosse (Adobe Systems)<br />
+            Alexander Black (University of Surrey); Jing Shi (Adobe Research); Yifei Fan (Adobe Research); John Collomosse (Adobe Research)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1081/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1081/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1081/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2260,7 +2260,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1091</strong></span></td>
             <td><strong><a href="/proceedings/1091/">CLIMB-3D: Class-Incremental Imbalanced 3D Instance Segmentation</a></strong><br />
-            Vishal Thengane (University of Surrey); Jean Lahoud (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (MBZUAI); Rao Muhammad Anwer (Mohamed bin Zayed University of Artificial Intelligence); Lu Yin (University of Surrey); Xiatian Zhu (University of Surrey); Salman Khan (Mohamed bin Zayed University of Artificial Intelligence)<br />
+            Vishal Thengane (University of Surrey); Jean Lahoud (Mohamed bin Zayed University of Artificial Intelligence); Hisham Cholakkal (Mohamed bin Zayed University of Artificial Intelligence); Rao Muhammad Anwer (Mohamed bin Zayed University of Artificial Intelligence); Lu Yin (University of Surrey); Xiatian Zhu (University of Surrey); Salman Khan (Mohamed bin Zayed University of Artificial Intelligence)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1091/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1091/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1091/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2269,7 +2269,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1095</strong></span></td>
             <td><strong><a href="/proceedings/1095/">Supervised Segmentation Model for Improved Detection of OSSN using Slit Lamp Images</a></strong><br />
-            Kajal Singh (Indian Institute of Technology Mandi); Shagun Bhatt (IIT Mandi); Ramkailash Gujar (Dr Shroff’s Charity Eye Hospital ); Arnav Bhavsar (IIT Mandi); Dinesh Singh (Indian Institute of Technology Mandi)<br />
+            Kajal Singh (Indian Institute of Technology Mandi); Shagun Bhatt (Indian Institute of Technology Mandi); Ramkailash Gujar (Dr Shroff’s Charity Eye Hospital ); Arnav Bhavsar (Indian Institute of Technology Mandi); Dinesh Singh (Indian Institute of Technology Mandi)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1095/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1095/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1095/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2278,7 +2278,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1096</strong></span></td>
             <td><strong><a href="/proceedings/1096/">LED: Light Enhanced Depth Estimation at Night</a></strong><br />
-            Simon de Moreau (Mines ParisTech); Yasser Almehio (AI &amp; Data School ); Andrei Bursuc (INRIA); Hafid EL IDRISSI (Valeo); Bogdan Stanciulescu (Mines ParisTech); Fabien Moutarde (MinesParis PSL)<br />
+            Simon de Moreau (Mines Paris - PSL University); Yasser Almehio (Valeo AI); Andrei Bursuc (Valeo AI); Hafid EL IDRISSI (Valeo AI); Bogdan Stanciulescu (Mines Paris - PSL University); Fabien Moutarde (Mines Paris - PSL University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1096/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1096/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1096/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2296,7 +2296,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1110</strong></span></td>
             <td><strong><a href="/proceedings/1110/">Robust Human Registration with Body Part Segmentation on Noisy Point Clouds</a></strong><br />
-            Kai Lascheit (ETHZ - ETH Zurich); Francis Engelmann (Computer Science Department); Daniel Barath (ETHZ - ETH Zurich); Marc Pollefeys (Microsoft); Leonidas Guibas (Stanford University)<br />
+            Kai Lascheit (ETH Zurich); Francis Engelmann (Stanford University); Daniel Barath (ETH Zurich); Marc Pollefeys (Microsoft); Leonidas Guibas (Stanford University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1110/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1110/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1110/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2305,7 +2305,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1118</strong></span></td>
             <td><strong><a href="/proceedings/1118/">Conformal Predictors for Efficient Video Text Spotting</a></strong><br />
-            Amor Ben Tanfous (Terminal Industries); Sankha Subhra Mukherjee (University of Edinburgh); Neil M. Robertson (Queen&#x27;s University Belfast)<br />
+            Amor Ben Tanfous (Terminal Industries); Sankha Subhra Mukherjee (Terminal Industries); Neil M. Robertson (Terminal Industries)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1118/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1118/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1118/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2323,7 +2323,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1123</strong></span></td>
             <td><strong><a href="/proceedings/1123/">Evaluating Self-Supervised Learning in Medical Imaging:  A Systematic Investigation of Robustness, Generalizability, and Multi-Domain Impact</a></strong><br />
-            Valay Bundele (Eberhard-Karls-Universität Tübingen (IMPRS-IS)); Karahan Sarıtaş (Eberhard-Karls-Universität Tübingen); Bora Kargi (Eberhard-Karls-Universität Tübingen); Oğuz Ata Çal (Eberhard-Karls-Universität Tübingen); Kıvanç Tezören (Eberhard-Karls-Universität Tübingen); Zohreh Ghaderi (Eberhard-Karls-Universität Tübingen); Hendrik Lensch (University of Tübingen)<br />
+            Valay Bundele (University of Tuebingen); Karahan Sarıtaş (University of Tuebingen); Bora Kargi (University of Tuebingen); Oğuz Ata Çal (University of Tuebingen); Kıvanç Tezören (University of Tuebingen); Zohreh Ghaderi (University of Tuebingen); Hendrik Lensch (University of Tuebingen)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1123/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1123/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1123/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2332,7 +2332,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1127</strong></span></td>
             <td><strong><a href="/proceedings/1127/">ALFred: An Active Learning Framework for Real-world Semi-supervised Anomaly Detection with Adaptive Thresholds</a></strong><br />
-            Shanle Yao (University of North Carolina at Charlotte); Ghazal Alinezhad Noghre (); Armin Danesh Pazho (); Hamed Tabkhivayghan (University of North Carolina at Charlotte)<br />
+            Shanle Yao (University of North Carolina at Charlotte); Ghazal Alinezhad Noghre (University of North Carolina at Charlotte); Armin Danesh Pazho (University of North Carolina at Charlotte); Hamed Tabkhivayghan (University of North Carolina at Charlotte)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1127/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1127/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1127/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2359,7 +2359,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1135</strong></span></td>
             <td><strong><a href="/proceedings/1135/">The Trauma THOMPSON Dataset for Real-World Emergency AI</a></strong><br />
-            Yupeng Zhuo (Purdue University); Eddie Zhang (The Harker School); Xiangchen Yu (Purdue University); Aditya Pachpande (Purdue University); Andrew Wallace Kirkpatrick (University of Calgary); Kyle Couperus (Cleveland Clinic); Jessica Mckee (); Juan Wachs (Purdue University)<br />
+            Yupeng Zhuo (Purdue University); Eddie Zhang (Purdue University); Xiangchen Yu (Purdue University); Aditya Pachpande (Purdue University); Andrew Wallace Kirkpatrick (University of Calgary); Kyle Couperus (The Geneva Foundation); Jessica Mckee (University of Calgary); Juan Wachs (Purdue University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1135/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1135/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1135/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2386,7 +2386,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1161</strong></span></td>
             <td><strong><a href="/proceedings/1161/">Evaluating Perceptual Distance Models by Fitting Binomial Distributions to Two-Alternative Forced Choice Data</a></strong><br />
-            Alexander Hepburn (University of Bristol); Raúl Santos-Rodriguez (University of Bristol); Javier Portilla (Spanish National Research Council)<br />
+            Alexander Hepburn (University of Bristol); Raúl Santos-Rodriguez (University of Bristol); Javier Portilla (Consejo Superior de Investigaciones Científicas (CSIC))<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1161/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1161/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1161/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2395,7 +2395,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1171</strong></span></td>
             <td><strong><a href="/proceedings/1171/">Conflict-Aware Adversarial Training</a></strong><br />
-            Zhiyu Xue (University of California); Haohan Wang (University of Illinois at Urbana-Champaign); Yao Qin (University of California); Ramtin Pedarsani (University of California)<br />
+            Zhiyu Xue (UC Santa Barbara); Haohan Wang (University of Illinois at Urbana-Champaign); Yao Qin (UC Santa Barbara); Ramtin Pedarsani (UC Santa Barbara)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1171/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1171/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1171/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2404,7 +2404,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1177</strong></span></td>
             <td><strong><a href="/proceedings/1177/">Binarizing Severely Degraded Ancient Bamboo Slips: Dataset and Baseline</a></strong><br />
-            Chongsheng ZHANG (Ludwig-Maximilians-Universität München); Wanwan Fu (Henan University); Qilong Li (Henan Univeristy); SAMRA ZAFAR (Henan Univeristy); Zhanshuo Zhang (Henan Univeristy); Qiyan Li (Henan Univeristy); Gaojuan Fan (Henan Univeristy); Christian Heumann (Ludwig-Maximilians-Universität München)<br />
+            Chongsheng Zhang (Henan University, Ludwig-Maximilians-Universität München); Wanwan Fu (Henan University); Qilong Li (Henan Univeristy); SAMRA ZAFAR (Henan Univeristy); Zhanshuo Zhang (Henan Univeristy); Qiyan Li (Henan Univeristy); Gaojuan Fan (Henan Univeristy); Christian Heumann (Ludwig-Maximilians-Universität München)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1177/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1177/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1177/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2422,7 +2422,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1183</strong></span></td>
             <td><strong><a href="/proceedings/1183/">Contrastive Point Feature Matching for Open-world Object Counting</a></strong><br />
-            Ngo Xuan Cuong (University of Arkansas - Fayetteville)<br />
+            Ngo Xuan Cuong (University of Arkansas)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1183/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1183/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1183/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2440,7 +2440,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1196</strong></span></td>
             <td><strong><a href="/proceedings/1196/">IoSR: End-to-End Intraoral Scans Repairing</a></strong><br />
-            Manel Farhat (Digital Research Center of Sfax); Achraf Ben-hamadou (CRNS); Ahmed rekik (); Ons Abida (National School of Electronics and Telecommunications of Sfax (ENET&#x27;Com)); Oussama smaoui (Higher School of Communication of Tunis)<br />
+            Manel Farhat (Digital Research Center of Sfax Laboratory of Signals, Systems, Artificial Intelligence and Networks Technopark of Sfax); Achraf Ben-hamadou (Digital Research Center of Sfax Laboratory of Signals, Systems, Artificial Intelligence and Networks Technopark of Sfax); Ahmed Rekik (Digital Research Center of Sfax Laboratory of Signals, Systems, Artificial Intelligence and Networks Technopark of Sfax); Ons Abida (Digital Research Center of Sfax Laboratory of Signals, Systems, Artificial Intelligence and Networks Technopark of Sfax); Oussama Smaoui (Biotech Dental Group)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1196/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1196/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1196/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2449,7 +2449,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1199</strong></span></td>
             <td><strong><a href="/proceedings/1199/">AULUNet: An Adaptive Ultra-Lightweight U-Net Framework for Efficient Skin Lesion Segmentation in Resource-Constrained Environments</a></strong><br />
-            Md Maklachur Rahman (Texas A&amp;M University - College Station); Soon Ki Jung (Kyungpook National University); Tracy Hammond (Texas A&amp;M University)<br />
+            Md Maklachur Rahman (Texas A&amp;M University); Soon Ki Jung (Kyungpook National University); Tracy Hammond (Texas A&amp;M University)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1199/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1199/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1199/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2467,7 +2467,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1220</strong></span></td>
             <td><strong><a href="/proceedings/1220/">Hair Strand Reconstruction based on 3D Gaussian Splatting</a></strong><br />
-            Yimin Pan (Agile Robots SE); Matthias Nießner (Technical University of Munich); Tobias Kirschstein ()<br />
+            Yimin Pan (Technical University of Munich); Matthias Nießner (Technical University of Munich); Tobias Kirschstein (Technical University of Munich)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1220/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1220/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1220/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
@@ -2476,7 +2476,7 @@ permalink: /proceedings/conference-proceedings/
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>1224</strong></span></td>
             <td><strong><a href="/proceedings/1224/">RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans</a></strong><br />
-            Bheeshm Sharma (Indian Institute of Technology); Karthikeyan Jaganathan (Indian Institute of Technology); Balamurugan Palaniappan (Indian Institute of Technology Bombay)<br />
+            Bheeshm Sharma (IIT Bombay); Karthikeyan Jaganathan (IIT Bombay); Balamurugan Palaniappan (IIT Bombay)<br />
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1224/paper.pdf" role="button">PDF</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1224/poster.pdf" role="button">Poster</a>&nbsp;
             <a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1224/video.mp4" role="button">Video (Right click to download)</a>&nbsp;
