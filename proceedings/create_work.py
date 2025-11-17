@@ -72,7 +72,7 @@ def build_row(workshop, paper_id, title, authors, files, year=2025):
     title_txt = escape(str(title).strip())
     authors_txt = escape(str(authors).strip())
 
-    base_url = f"https://bmva-archive.org.uk/bmvc/{year}/assets/workshop/{workshop}/Paper_{pid}"
+    base_url = f"https://bmva-archive.org.uk/bmvc/{year}/assets/workshops/{workshop}/Paper_{pid}"
     pdf_link = f"{base_url}/paper.pdf"
 
     supp_file = detect_supp_file(files)

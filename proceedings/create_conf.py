@@ -6,7 +6,8 @@ from html import escape
 import re
 
 
-def build_row(paper_id: str, title: str, authors: str, year: int) -> str:
+def build_row(paper_id: str, title: str, authors: str, year: int,
+              has_poster: bool = True, has_video: bool = True) -> str:
     pid = str(paper_id).strip()
     title_txt = escape(str(title).strip())
     authors_txt = escape(str(authors).strip())
@@ -16,14 +17,24 @@ def build_row(paper_id: str, title: str, authors: str, year: int) -> str:
     poster = f'{base}/poster.pdf'
     video = f'{base}/video.mp4'
 
+    pdf_btn = f'<a class="btn btn-primary btn-sm mt-1" href="{pdf}" role="button">PDF</a>&nbsp;'
+
+    poster_btn = ""
+    if has_poster:
+        poster_btn = f'<a class="btn btn-primary btn-sm mt-1" href="{poster}" role="button">Poster</a>&nbsp;'
+
+    video_btn = ""
+    if has_video:
+        video_btn = f'<a class="btn btn-primary btn-sm mt-1" href="{video}" role="button">Video (Right click to download)</a>&nbsp;'
+
+    buttons = pdf_btn + poster_btn + video_btn
+
     return f'''
         <tr id="paper">
             <td class="text-center"><strong> </strong><br /><span style="opacity: 0.5;"><strong>{pid}</strong></span></td>
             <td><strong><a href="/proceedings/{pid}/">{title_txt}</a></strong><br />
             {authors_txt}<br />
-            <a class="btn btn-primary btn-sm mt-1" href="{pdf}" role="button">PDF</a>&nbsp;
-            <a class="btn btn-primary btn-sm mt-1" href="{poster}" role="button">Poster</a>&nbsp;
-            <a class="btn btn-primary btn-sm mt-1" href="{video}" role="button">Video (Right click to download)</a>&nbsp;
+            {buttons}
             </td>
         </tr>
     '''.rstrip()
@@ -51,12 +62,16 @@ def build_page(df: pd.DataFrame, col_id: str, col_title: str, col_authors: str, 
         title = r.get(col_title, "")
         authors = r.get(col_authors, "")
 
+        files = str(r.get("Files", ""))
+        has_poster = "poster" in files
+        has_video = "video" in files
+
         # 基础校验
         if pd.isna(pid) or pd.isna(title) or pd.isna(authors):
             # 跳过不完整行
             continue
 
-        rows.append(build_row(pid, title, authors, year))
+        rows.append(build_row(pid, title, authors, year, has_poster, has_video))
 
     footer = f'''
         </tbody>
