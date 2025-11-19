@@ -1,12 +1,12 @@
 monday:
   - session: Registration
     start-time: "08:00"
-    end-time: "09:30"
+    end-time: "09:45"
     session-type: "ceremony event"
     data: "Throughout the day"
   - session: Tea & Coffee
     start-time: "08:00"
-    end-time: "09:30"
+    end-time: "09:45"
     session-type: "break"
     data: "Hadfield Hall and Old Banqueting Hall"
   - session: Welcome speech
