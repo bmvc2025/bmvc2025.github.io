@@ -209,7 +209,7 @@ thursday:
     start-time: "08:30"
     end-time: "09:00"
     session-type: "break"
-    data: "Hadfield Hall and Old Banqueting Hall"
+    data: "Main Hall"
   - session: Morning workshops start
     start-time: "09:00"
     end-time: "09:00"
@@ -222,7 +222,7 @@ thursday:
     start-time: "10:45"
     end-time: "11:15"
     session-type: "break"
-    data: "Hadfield Hall and Old Banqueting Hall"
+    data: "Main Hall"
   - session: Morning workshops end
     start-time: "13:00"
     end-time: "13:00"
@@ -231,7 +231,7 @@ thursday:
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Hadfield Hall and Old Banqueting Hall"
+    data: "Main Hall"
   - session: Afternoon workshops start
     start-time: "14:00"
     end-time: "14:00"
@@ -240,7 +240,7 @@ thursday:
     start-time: "15:45"
     end-time: "16:15"
     session-type: "break"
-    data: "Hadfield Hall and Old Banqueting Hall"
+    data: "Main Hall"
   - session: Afternoon workshops end
     start-time: "18:00"
     end-time: "18:00"
