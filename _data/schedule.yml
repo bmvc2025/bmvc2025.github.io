@@ -218,6 +218,7 @@ thursday:
     start-time: "10:00"
     end-time: "11:00"
     session-type: "ceremony event"
+    data: "Neill Room"
   - session: Tea & Coffee
     start-time: "10:45"
     end-time: "11:15"
