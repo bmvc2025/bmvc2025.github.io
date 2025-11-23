@@ -23,7 +23,24 @@ The [Welcome to Sheffield website](https://www.welcometosheffield.co.uk) provide
   <img src="{{ site.baseurl }}/imgs_2025/sheffield/image3.jpg" style="width: 25%;">
 </div>
 
+<div style="display: flex; gap: 10px;">
+  <div style="width: 25%; text-align: center;">
+    <img src="{{ site.baseurl }}/imgs_2025/sheffield/image1.jpg" style="width: 100%;">
+    <div style="font-size: 12px; color: #666;">© Doug Banks Photography</div>
+  </div>
+  <div style="width: 25%; text-align: center;">
+    <img src="{{ site.baseurl }}/imgs_2025/sheffield/image2.jpg" style="width: 100%;">
+    <div style="font-size: 12px; color: #666;">© Doug Banks Photography</div>
+  </div>
+  <div style="width: 25%; text-align: center;">
+    <img src="{{ site.baseurl }}/imgs_2025/sheffield/image3.jpg" style="width: 100%;">
+    <div style="font-size: 12px; color: #666;">© Vox Multimedia</div>
+  </div>
+</div>
+
 This includes information on getting to Sheffield: <https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/>
+
+*All photos supplied by Marketing Sheffield.
 
 {% comment %} 
 
