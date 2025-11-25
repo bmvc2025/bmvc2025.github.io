@@ -25,6 +25,7 @@ title: Home
 
 <div class="alert mt-3 alert-info" style="">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
+    <p><strong>Tuesday 25 Nov, 7-11pm, <a href="https://bmvc2025.bmva.org/programme/dinner/">Dinner at Cambridge Street Collective</a> - Bring Your Badge</strong></p>
     <p><strong>BMVC 2025 conference and workshop proceedings are now online!</strong> You can find them at: <a href="https://bmvc2025.bmva.org/proceedings/conference-proceedings/">[Conference]</a> and <a href="https://bmvc2025.bmva.org/proceedings/workshop-proceedings/">[Workshops].</a></p>
     <p><strong>BMVC 2025 conference schedule is now online!</strong> You can find it at: <a href="https://bmvc2025.bmva.org/programme/programme/">[Schedule]</a></p>
     <p>Top papers from BMVC 2025 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV)!</p>
