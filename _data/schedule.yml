@@ -210,6 +210,11 @@ thursday:
     end-time: "09:00"
     session-type: "break"
     data: "Main Hall"
+  - session: Workshop posters
+    start-time: "09:00"
+    end-time: "18:00"
+    session-type: "poster"
+    data: "Main Hall"
   - session: Morning workshops start
     start-time: "09:00"
     end-time: "09:00"
