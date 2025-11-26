@@ -189,7 +189,7 @@ wednesday:
     end-time: "17:00"
     session-type: "oral"
     data: "Main Hall"
-  - session: Awards & closing speech & a short presentation from the BMVC 2026 hosts
+  - session: Conference awards & a short presentation from the BMVC 2026 hosts
     start-time: "17:00"
     end-time: "17:30"
     session-type: "ceremony event"
