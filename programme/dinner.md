@@ -11,7 +11,7 @@ Tuesday 25 November, 7-11pm.
 
 **BRING YOUR BADGE!!**
 
-- You will be given a prepaid card at the entrance (Bring Your Badge) which you can spend on any food and drink during the evening. The card is valid for one year.
+- You will be given a prepaid card at the entrance (Bring Your Badge) which you can spend on any food and drink during the evening.
 - Approx 8 minutes walk (0.4 miles) from Cutlers' Hall.
 - Food partners at Cambridge Street Collective: <https://cambridgestreetcollective.com/food-partners>.
 - Entertainment on the evening: a musician, a magician, a 360 photo booth and AR darts.
