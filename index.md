@@ -25,6 +25,18 @@ title: Home
 
 <div class="alert mt-3 alert-info" style="">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
+    <p><strong>Conference Awards</strong></p>
+    <p>Congratulations to the following authors.</p>
+    <p><strong>The Best Paper Award</strong> was awarded to<br>
+    Nikolas Adaloglou, Tim Kaiser, Damir Iagudin, Markus Kollmann<br>
+    for their paper "Guiding a diffusion model with itself using sliding windows".</p>
+    <p><strong>The Best Presentation Award</strong> was awarded to<br>
+    Hugo Riffaud de Turckheim, Diego Marcos, Roberto Interdonato, Sylvain Lobry<br>
+    for their paper "Atomizer: Generalizing to unseen modalities by breaking images down to a set of scalars".</p>
+    <p><strong>The Best Poster Award</strong> was awarded to<br>
+    Dongqing Wang, Ehsan Pajouheshgar, Yitao Xu, Tong Zhang, Sabine Süsstrunk<br>
+    for their paper "Volumetric Temporal Texture for Smoke Stylization using Dynamic Radiance Fields".</p>
+    <hr>
     <p><strong>Tuesday 25 Nov, 7-11pm, <a href="https://bmvc2025.bmva.org/programme/dinner/">Dinner at Cambridge Street Collective</a> - Bring Your Badge</strong></p>
     <p><strong>BMVC 2025 conference and workshop proceedings are now online!</strong> You can find them at: <a href="https://bmvc2025.bmva.org/proceedings/conference-proceedings/">[Conference]</a> and <a href="https://bmvc2025.bmva.org/proceedings/workshop-proceedings/">[Workshops].</a></p>
     <p><strong>BMVC 2025 conference schedule is now online!</strong> You can find it at: <a href="https://bmvc2025.bmva.org/programme/programme/">[Schedule]</a></p>
