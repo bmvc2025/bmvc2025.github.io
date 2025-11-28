@@ -27,13 +27,13 @@ title: Home
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
     <p><strong>Conference Awards</strong></p>
     <p>Congratulations to the following authors.</p>
-    <p><strong>The Best Paper Award</strong> was awarded to<br>
+    <p>The <strong>Best Paper Award</strong> was awarded to<br>
     Nikolas Adaloglou, Tim Kaiser, Damir Iagudin, Markus Kollmann<br>
     for their paper "Guiding a diffusion model with itself using sliding windows".</p>
-    <p><strong>The Best Presentation Award</strong> was awarded to<br>
+    <p>The <strong>Best Presentation Award</strong> was awarded to<br>
     Hugo Riffaud de Turckheim, Diego Marcos, Roberto Interdonato, Sylvain Lobry<br>
     for their paper "Atomizer: Generalizing to unseen modalities by breaking images down to a set of scalars".</p>
-    <p><strong>The Best Poster Award</strong> was awarded to<br>
+    <p>The <strong>Best Poster Award</strong> was awarded to<br>
     Dongqing Wang, Ehsan Pajouheshgar, Yitao Xu, Tong Zhang, Sabine Süsstrunk<br>
     for their paper "Volumetric Temporal Texture for Smoke Stylization using Dynamic Radiance Fields".</p>
     <hr>
