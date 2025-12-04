@@ -6,6 +6,8 @@ pages:
   - title: Calls
     url: /calls/
     dropdown: true
+  - title: Gallery
+    url: /gallery/
   - title: Attending
     url: /attending/
     dropdown: true
