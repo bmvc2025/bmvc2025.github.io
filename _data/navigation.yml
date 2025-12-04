@@ -2,12 +2,12 @@ pages:
   - title: Home
     url: /
   - title: Dates
-    url: /dates/
+    url: /dates/  
+  - title: Gallery
+    url: https://sites.google.com/sheffield.ac.uk/bmvc2025-gallery/home?authuser=0
   - title: Calls
     url: /calls/
     dropdown: true
-  - title: Gallery
-    url: /gallery/
   - title: Attending
     url: /attending/
     dropdown: true
