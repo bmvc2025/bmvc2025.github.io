@@ -25,7 +25,7 @@ title: Home
 
 <div class="alert mt-3 alert-info" style="">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
-    <p><strong>BMVC 2025 Conference Gallery is now online!</strong> You can find it at: <a href="https://sites.google.com/sheffield.ac.uk/bmvc2025-gallery/home?authuser=0">[Gallery]</a></p>
+    <p><strong>BMVC 2025 Conference Gallery is now online!</strong> You can find it at: <a href="https://sites.google.com/sheffield.ac.uk/bmvc2025-gallery/">[Gallery]</a></p>
     <hr>
     <p><strong>Conference Awards</strong></p>
     <p>Congratulations to the following authors.</p>

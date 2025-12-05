@@ -4,7 +4,7 @@ pages:
   - title: Dates
     url: /dates/  
   - title: Gallery
-    url: https://sites.google.com/sheffield.ac.uk/bmvc2025-gallery/home?authuser=0
+    url: https://sites.google.com/sheffield.ac.uk/bmvc2025-gallery/
   - title: Calls
     url: /calls/
     dropdown: true
