@@ -157,7 +157,7 @@ permalink: /proceedings/workshop-proceedings/
             <td class="text-center"><strong>1</strong></td>
             <td>
                 <strong><a href="https://bmva-archive.org.uk/bmvc/2025/assets/workshops/MPI/Paper_1/paper.pdf">Deep Learning for Metabolic Rate Estimation from Biosignals: A Comparative Study of Architectures and Signal Selection</a></strong><br />
-                Sarvenaz Babakhani (Institute for Artificial Intelligence University of Stuttgart); David Remy (Institute for Adaptive Mechanical Systems University of Stuttgart); Alina Roitberg (Intelligent Assistive Systems Lab University of Hildesheim)<br /><a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/workshops/MPI/Paper_1/paper.pdf" role="button">PDF</a>&nbsp;
+                Sarvenaz Babakhani (Institute for Artificial Intelligence University of Stuttgart); David Remy (Institute for Adaptive Mechanical Systems University of Stuttgart); Alina Roitberg (Intelligent Assistive Systems Lab University of Hildesheim)<br /><a class="btn btn-primary btn-sm mt-1" href="https://bmva-archive.org.uk/bmvc/2025/assets/workshops/MPI/Paper_1/paper.pdf" role="button">PDF</a>&nbsp;<a class="btn btn-primary btn-sm mt-1" href="../../files/2025_workshop_mpi_1_supp.pdf" role="button">Supplementary</a>&nbsp;
             </td>
         </tr><tr id="paper">
             <td class="text-center"><strong>2</strong></td>
